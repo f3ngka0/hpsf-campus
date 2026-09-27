@@ -9528,12 +9528,12 @@
         163.7581,
         -77.4928
       ],
-      "width": 19,
-      "depth": 9,
+      "width": 17.4,
+      "depth": 9.0,
       "floors": 4,
       "angle": 90,
       "confidence": "位置按规划图东入口中心；两侧楼体与 7 米通道尺寸采用校门尺寸图，外观按照片",
-      "source": "校门近景石材门楼照片及 DJI_0442.MP4；总平面沿用 CAD，拱高、城垛与材质为照片估算",
+      "source": "正面/斜视实拍与 DJI_0278.MP4 视频；照片优先校正，绝对尺寸为影像估算",
       "photos": [
         "/photos/east-campus/09.jpg",
         "/photos/east-campus/10.jpg",
@@ -9543,38 +9543,70 @@
       "footprints": [
         [
           [
-            159.25770000000003,
-            -86.99119999999999
+            168.2581,
+            -85.9428
           ],
           [
-            159.25770000000003,
-            -80.99510000000001
+            168.2581,
+            -83.3928
           ],
           [
-            168.25840000000002,
-            -80.99510000000001
+            168.0181,
+            -83.3928
           ],
           [
-            168.25840000000002,
-            -86.99119999999999
+            168.0181,
+            -81.9928
+          ],
+          [
+            167.7781,
+            -81.9928
+          ],
+          [
+            167.7781,
+            -80.9428
+          ],
+          [
+            159.8581,
+            -80.9428
+          ],
+          [
+            159.8581,
+            -85.9428
           ]
         ],
         [
           [
-            159.25770000000003,
-            -73.9924
+            167.7081,
+            -74.0428
           ],
           [
-            159.25770000000003,
-            -67.9945
+            167.7081,
+            -72.8628
           ],
           [
-            168.25840000000002,
-            -67.9945
+            167.9781,
+            -72.8628
           ],
           [
-            168.25840000000002,
-            -73.9924
+            167.9781,
+            -71.3228
+          ],
+          [
+            168.2581,
+            -71.3228
+          ],
+          [
+            168.2581,
+            -68.5428
+          ],
+          [
+            159.2581,
+            -68.5428
+          ],
+          [
+            159.2581,
+            -74.0428
           ]
         ]
       ],
@@ -9584,43 +9616,75 @@
         856.587,
         300.867
       ],
-      "opening": 7,
+      "opening": 6.9,
       "storeyHeight": 3.15,
       "localFootprints": [
         [
           [
-            -9.4984,
-            4.5004
+            -8.45,
+            -4.5
           ],
           [
-            -3.5023,
-            4.5004
+            -5.9,
+            -4.5
           ],
           [
-            -3.5023,
-            -4.5003
+            -5.9,
+            -4.26
           ],
           [
-            -9.4984,
-            -4.5003
+            -4.5,
+            -4.26
+          ],
+          [
+            -4.5,
+            -4.02
+          ],
+          [
+            -3.45,
+            -4.02
+          ],
+          [
+            -3.45,
+            3.9000000000000004
+          ],
+          [
+            -8.45,
+            3.9000000000000004
           ]
         ],
         [
           [
-            3.5004,
-            4.5004
+            3.45,
+            -3.95
           ],
           [
-            9.4983,
-            4.5004
+            4.63,
+            -3.95
           ],
           [
-            9.4983,
-            -4.5003
+            4.63,
+            -4.22
           ],
           [
-            3.5004,
-            -4.5003
+            6.17,
+            -4.22
+          ],
+          [
+            6.17,
+            -4.5
+          ],
+          [
+            8.95,
+            -4.5
+          ],
+          [
+            8.95,
+            4.5
+          ],
+          [
+            3.45,
+            4.5
           ]
         ]
       ],
@@ -9628,7 +9692,7 @@
         "placement": "CAD 尺寸轮廓",
         "reviewed": true
       },
-      "detailRevision": "gate-avenue-1"
+      "detailRevision": "gate-photo-correction-2"
     },
     {
       "id": "shop",
@@ -12002,8 +12066,8 @@
       "name": "东门保安亭",
       "kind": "guard-booth",
       "position": [
-        152,
-        -71.9
+        151.5581,
+        -72.5928
       ],
       "width": 3,
       "depth": 3,
@@ -12032,20 +12096,20 @@
       "footprints": [
         [
           [
-            150.5,
-            -73.4
+            150.0581,
+            -74.0928
           ],
           [
-            153.5,
-            -73.4
+            153.0581,
+            -74.0928
           ],
           [
-            153.5,
-            -70.4
+            153.0581,
+            -71.0928
           ],
           [
-            150.5,
-            -70.4
+            150.0581,
+            -71.0928
           ]
         ]
       ],
@@ -12053,7 +12117,7 @@
         "/photos/east-campus/18.jpg",
         "/photos/east-campus/30.jpg"
       ],
-      "source": "DJI_0440.MP4 及东门内侧实拍",
+      "source": "DJI_0278 final frames: entering-left blue-roof security booth; position estimated",
       "confidence": "按实拍确认朝向与入口左右关系；尺寸和精确位置为估算",
       "audit": {
         "placement": "规划图配准定位",
@@ -20887,6 +20951,110 @@
       "crownRadius": 2.67,
       "crownEnvelope": 3.7,
       "source": "DJI_0442 双排椰子树；高度与树距为比例估算"
+    },
+    {
+      "id": "gate-reference-palm-0--1",
+      "kind": "coconut",
+      "displayKind": "coconut",
+      "position": [
+        147.7581,
+        -82.2928
+      ],
+      "height": 15.2,
+      "crownRadius": 2.5,
+      "crownEnvelope": 3.6,
+      "source": "DJI_0278 final frames; estimated"
+    },
+    {
+      "id": "gate-reference-palm-0-1",
+      "kind": "coconut",
+      "displayKind": "coconut",
+      "position": [
+        147.7581,
+        -72.6928
+      ],
+      "height": 15.2,
+      "crownRadius": 2.5,
+      "crownEnvelope": 3.6,
+      "source": "DJI_0278 final frames; estimated"
+    },
+    {
+      "id": "gate-reference-palm-1--1",
+      "kind": "coconut",
+      "displayKind": "coconut",
+      "position": [
+        135.7581,
+        -82.2928
+      ],
+      "height": 15.85,
+      "crownRadius": 2.5,
+      "crownEnvelope": 3.6,
+      "source": "DJI_0278 final frames; estimated"
+    },
+    {
+      "id": "gate-reference-palm-1-1",
+      "kind": "coconut",
+      "displayKind": "coconut",
+      "position": [
+        135.7581,
+        -72.6928
+      ],
+      "height": 15.85,
+      "crownRadius": 2.5,
+      "crownEnvelope": 3.6,
+      "source": "DJI_0278 final frames; estimated"
+    },
+    {
+      "id": "gate-reference-palm-2--1",
+      "kind": "coconut",
+      "displayKind": "coconut",
+      "position": [
+        123.7581,
+        -82.2928
+      ],
+      "height": 16.5,
+      "crownRadius": 2.5,
+      "crownEnvelope": 3.6,
+      "source": "DJI_0278 final frames; estimated"
+    },
+    {
+      "id": "gate-reference-palm-2-1",
+      "kind": "coconut",
+      "displayKind": "coconut",
+      "position": [
+        123.7581,
+        -72.6928
+      ],
+      "height": 16.5,
+      "crownRadius": 2.5,
+      "crownEnvelope": 3.6,
+      "source": "DJI_0278 final frames; estimated"
+    },
+    {
+      "id": "gate-reference-palm-3--1",
+      "kind": "coconut",
+      "displayKind": "coconut",
+      "position": [
+        111.7581,
+        -82.2928
+      ],
+      "height": 15.2,
+      "crownRadius": 2.5,
+      "crownEnvelope": 3.6,
+      "source": "DJI_0278 final frames; estimated"
+    },
+    {
+      "id": "gate-reference-palm-3-1",
+      "kind": "coconut",
+      "displayKind": "coconut",
+      "position": [
+        111.7581,
+        -72.6928
+      ],
+      "height": 15.2,
+      "crownRadius": 2.5,
+      "crownEnvelope": 3.6,
+      "source": "DJI_0278 final frames; estimated"
     }
   ],
   "plantingNote": "规划图星形符号为椰子树、实心圆冠为普通树；树位取自原图，树高及冠幅为估计，临建筑树冠按实际间距收小。；保留所有树位，补充草叶、低篱和不规则树冠；非逐株测绘。",
@@ -28995,5 +29163,35 @@
     "sidewalkWidth": 1.1,
     "reference": "DJI_0442.MP4",
     "dimensionsEstimated": true
+  },
+  "gateReference": {
+    "revision": 2,
+    "openingRatio": 0.3965517241379311,
+    "archSegments": 128,
+    "archRise": 1.0,
+    "baseHeight": 0.46,
+    "circleCount": 12,
+    "rectangleCount": 6,
+    "referenceVideo": "DJI_0278.MP4",
+    "dimensionsEstimated": true
+  },
+  "gateApproach": {
+    "revision": 3,
+    "reference": "DJI_0278.MP4 final frames",
+    "dimensionsEstimated": true,
+    "lamps": [
+      [
+        150.2581,
+        -82.7928
+      ],
+      [
+        129.7581,
+        -82.7928
+      ],
+      [
+        129.7581,
+        -72.1928
+      ]
+    ]
   }
 }
