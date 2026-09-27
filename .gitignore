@@ -1,0 +1,14 @@
+# This repository is the built site itself: index.html, assets/, data/,
+# fonts/, models/ and photos/ are the deliverable, not build output.
+#
+# The source project (src/, scripts/, public/, blender/) keeps its own ignore
+# file, which excludes exactly these directories so a build never dirties the
+# working tree there. That is a different concern and a different file.
+
+# GitHub Pages.
+_site/
+
+# Editor and OS noise.
+.DS_Store
+Thumbs.db
+*.swp
