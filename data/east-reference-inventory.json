@@ -1,0 +1,487 @@
+{
+  "count": 68,
+  "photos": [
+    {
+      "index": 0,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBaE90cGpBLnR3Q0EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/00.jpg",
+      "category": "art",
+      "sha256": "09f2f26f60527cad30734a7690d93645d198aa82026ed7b61bd09992a6b12122"
+    },
+    {
+      "index": 1,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBak90cGo3UXh1Q0EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/01.jpg",
+      "category": "art",
+      "sha256": "a2fd2ad3d5f7ee8d98280f68f97cb0ff687559fc00a21c0706f57b81edba5b4d"
+    },
+    {
+      "index": 2,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBaU90cGpYOFJ1Q0EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/02.jpg",
+      "category": "art",
+      "sha256": "79679f3f44b27ec281ef8b30ca5621f4e331488218019d0f76488f964f47c4b8"
+    },
+    {
+      "index": 3,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBc3JOeGpXVzhuRnchIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/03.jpg",
+      "category": "training",
+      "sha256": "61c6290ebe19fb58747180c86597c699a6795ec121dbf264748e6241ec39e33b"
+    },
+    {
+      "index": 4,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBcnJOeGpsd3cuRnchIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/04.jpg",
+      "category": "training",
+      "sha256": "3765e978ca42ed8a56e2f49063cdba3dcf8b8b499c69d9b1e204b60b600e5168"
+    },
+    {
+      "index": 5,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBcXJOeGpvQk5yRnchIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/05.jpg",
+      "category": "training",
+      "sha256": "bcf4c041c081f28485ce46464214b38914045c478c45a654be95542b81a2cb89"
+    },
+    {
+      "index": 6,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBdHJOeGpBWU1TRnchIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/06.jpg",
+      "category": "training",
+      "sha256": "9d02c3e3562c023b1749f5bbbb18ae485a45d4f0aaeb6379d41033dee8754300"
+    },
+    {
+      "index": 7,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBdXJOeGpMQ2E1RmchIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/07.jpg",
+      "category": "training",
+      "sha256": "426905cd28dad7c6752deeedbb841be63188d4e3944a07d5dd2b7e24e96cf877"
+    },
+    {
+      "index": 8,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBMFAuWmpUNEY5TWchIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/08.jpg",
+      "category": "art",
+      "sha256": "db08e3c82c14c33e75f86963bd5500d1696251d7e9abdf617513a9abe32a6bd6"
+    },
+    {
+      "index": 9,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBT090cGpuWXlOQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/09.jpg",
+      "category": "gate",
+      "sha256": "c778faeb1c8f8de42654e689f2fc5f085e0e27a9f63d4649234412870554f410"
+    },
+    {
+      "index": 10,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBTk90cGp3SEtPQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/10.jpg",
+      "category": "gate",
+      "sha256": "7028239bbee1d9e4607b709474557165eec428462f7c3740bb588b661a6a59d8"
+    },
+    {
+      "index": 11,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBU090cGpmcDFoQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/11.jpg",
+      "category": "training",
+      "sha256": "86c5f56c9ddef27887feb6e453130ffd2cb7849f412bc0f34e44a207eabee748"
+    },
+    {
+      "index": 12,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBUE90cGpacWgqQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/12.jpg",
+      "category": "gate",
+      "sha256": "7028239bbee1d9e4607b709474557165eec428462f7c3740bb588b661a6a59d8"
+    },
+    {
+      "index": 13,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBUk90cGppdEJuQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/13.jpg",
+      "category": "training",
+      "sha256": "038661642eb5ab86b0580170038a6f63168b28165662b432e845dad90412172f"
+    },
+    {
+      "index": 14,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBUU90cGprVzF3Q1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/14.jpg",
+      "category": "training",
+      "sha256": "5170b92d01201a9dee348d0f6168659ac0533cea51a3c75e633592bd934f4eda"
+    },
+    {
+      "index": 15,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBV090cGp4eW9NQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/15.jpg",
+      "category": "context",
+      "sha256": "476d4a6756fc94be68c7839c07de05dac7da86830352f113bbd9d75ee2cd4e49"
+    },
+    {
+      "index": 16,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBV0xjaGpLakZOQ2chIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/16.jpg",
+      "category": "art",
+      "sha256": "2eaef4fe8dca833f282abed8482ea0543d6e2fb6d85250eb27412c7b8a6b1c5c"
+    },
+    {
+      "index": 17,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBVE90cGp5d0ZLQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/17.jpg",
+      "category": "training",
+      "sha256": "74240e347509b4de136d70c3f54163712d9c1cde773bd76bf43ed337542063e9"
+    },
+    {
+      "index": 18,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBVk90cGpXUmNnQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/18.jpg",
+      "category": "context",
+      "sha256": "e86298ceb37572900cb5040d4dc14e5718a649f72a83818fab9141422c25c865"
+    },
+    {
+      "index": 19,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBVU90cGozeEFzQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/19.jpg",
+      "category": "context",
+      "sha256": "74d47664a26836195f53b7dc24bae173156d1050132ef64a7453065725124d53"
+    },
+    {
+      "index": 20,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBWE90cGpsMGtJQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/20.jpg",
+      "category": "context",
+      "sha256": "5ed37d456bddd227f84ae8e87c81f22eaa5e7030b81d55f930f2b4c02acf512a"
+    },
+    {
+      "index": 21,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBWExjaGoqNG9nQ2chIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/21.jpg",
+      "category": "training",
+      "sha256": "88fe4616e82978ccd25500cfc87406bd2bbae49810b4a30661a9070d09d2c591"
+    },
+    {
+      "index": 22,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBWk90cGprNWpYQ0EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/22.jpg",
+      "category": "training",
+      "sha256": "31e18610b931be7b3250cf4927931c59cf1824ca3e5ddaac74cccf00061219b7"
+    },
+    {
+      "index": 23,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBWkxjaGpXdUhIQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/23.jpg",
+      "category": "art",
+      "sha256": "1809213c1a2b60e9258ba7ea3e6b2c88890e0e4f80479c1ea88e9d6df8c1653a"
+    },
+    {
+      "index": 24,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBWU90cGpoUUQ4Q0EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/24.jpg",
+      "category": "training",
+      "sha256": "4e312262f2426f507d86f80dd23c1887c54480dffb3b5e4901dbf0d7a67bb8ab"
+    },
+    {
+      "index": 25,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBWUxjaGpSMXIyQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/25.jpg",
+      "category": "context",
+      "sha256": "db56e5069a1fd20d131c5cd8aa6b9d63d0d493539f677df7307ef8b47ff340b0"
+    },
+    {
+      "index": 26,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBY090cGo4M212Q0EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/26.jpg",
+      "category": "context",
+      "sha256": "bbc14552f6ec46676941ac5aa066b3d1569842e86fbd242aeee297bd87b3d805"
+    },
+    {
+      "index": 27,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBY0xjaGo4VTRlQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/27.jpg",
+      "category": "training",
+      "sha256": "b42876db4ea5a3aac938fcb05160a40eee99c0d8f3385cffcc577e61c1d16b95"
+    },
+    {
+      "index": 28,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBYk90cGpzUCpSQ0EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/28.jpg",
+      "category": "context",
+      "sha256": "13906beac12b862565f45ba264a57c51202070a24e8d85dfeb64399c1bff7005"
+    },
+    {
+      "index": 29,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBYkxjaGpGN3hWQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/29.jpg",
+      "category": "gate",
+      "sha256": "4ca3ab383556c7b96702f688c7f31d6917fb079460a73cbf59639fdac85e5572"
+    },
+    {
+      "index": 30,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBYU90cGpnbUhUQ0EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/30.jpg",
+      "category": "context",
+      "sha256": "95991018d9a8ddbeb6873e760f3bdccad4faf29a18916128b7f528fbd670ddf2"
+    },
+    {
+      "index": 31,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBYUxjaGphTnVQQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/31.jpg",
+      "category": "art",
+      "sha256": "92cde039d4fd994a45da3303c92ccd5931f094f2800256796231ac988ea9f849"
+    },
+    {
+      "index": 32,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBZ090cGpmNkdMQ0EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/32.jpg",
+      "category": "art",
+      "sha256": "3c85f06fee0f532d73c8ed0b1267e45b91053e65ab529708686ad68090ba2533"
+    },
+    {
+      "index": 33,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBZ0xjaGpkb2NzQ0EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/33.jpg",
+      "category": "art",
+      "sha256": "35f692b1d3102752a1f726856b2566e180e50b6f7f60c2d0ea5a9cae4a94a3f0"
+    },
+    {
+      "index": 34,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBZE90cGo0YWVoQ0EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/34.jpg",
+      "category": "context",
+      "sha256": "76561989e2ea5590f9d91cb865177ed3c722f05279aeb65461f38fd6902bd6d3"
+    },
+    {
+      "index": 35,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBZExjaGpTZCpsQ0EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/35.jpg",
+      "category": "training",
+      "sha256": "dbfa884e352ae23ae78e9195de914bc4eb5cab810c97b135d136c430360e5eb4"
+    },
+    {
+      "index": 36,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBZk90cGpiZ3lXQ0EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/36.jpg",
+      "category": "art",
+      "sha256": "03cbec573d39cdaebfed4a4b4afe8118160d19a5d06aea3eb88d34329cafc3fe"
+    },
+    {
+      "index": 37,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBZkxjaGpDMGVCQ0EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/37.jpg",
+      "category": "art",
+      "sha256": "bc0e83229ea2a0aa3daaff11488569d76b2153b2a6baec0ad5b5bb9023cbe305"
+    },
+    {
+      "index": 38,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBZU90cGp1Li5tQ0EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/38.jpg",
+      "category": "context",
+      "sha256": "fc7caeb87a26cba9bbb99ab9fbdc1192551bbb48166d8e68ca52769b9d721878"
+    },
+    {
+      "index": 39,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpBZUxjaGouREd6Q0EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/39.jpg",
+      "category": "training",
+      "sha256": "f20c709f9efec1122b51031fb6d1031baa22d1704bd65b2d8654380f030eacdd"
+    },
+    {
+      "index": 40,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCb1BPWmpaZnk5RHchIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/40.jpg",
+      "category": "training",
+      "sha256": "df8a4b4f09973475f58573e3f74c1f692ab96b927542e735cd5634e13900f6c2"
+    },
+    {
+      "index": 41,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCc1BPWmpJV05jRGchIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/41.jpg",
+      "category": "training",
+      "sha256": "b7942bea4cb676625166263e1bd4c502482921336fbc1d1d6a86b6dc9f23b11e"
+    },
+    {
+      "index": 42,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCcFBPWmpYbE5zRHchIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/42.jpg",
+      "category": "training",
+      "sha256": "962fbd2999c0d6e6bca0e437a6b871875b4a949538ff4d3def6daa521778b82a"
+    },
+    {
+      "index": 43,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCclBPWmpjUFMuRGchIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/43.jpg",
+      "category": "training",
+      "sha256": "fdadba412822cf9740f206657a966e1d37809fbe6e97a2f00578f2fcbce1e12e"
+    },
+    {
+      "index": 44,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCcVBPWmpVOFlORHchIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/44.jpg",
+      "category": "training",
+      "sha256": "568212853f69987d46bad9c79b4768e73e6a2b74b821b47f71a2e0df6025da1a"
+    },
+    {
+      "index": 45,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCd1BPWmpZSkVPRFEhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/45.jpg",
+      "category": "interior",
+      "sha256": "37c8d305c13f2ef5f6be37503a6030836a0003041a101c3aa9d87862855688f4"
+    },
+    {
+      "index": 46,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCdFBPWmpEd0VJRGchIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/46.jpg",
+      "category": "art",
+      "sha256": "e73d9f132f1524c417468a6b5cfd1f5aa8764151aa475ca3cb34993c8ad50236"
+    },
+    {
+      "index": 47,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCdlBPWmpySGxlRFEhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/47.jpg",
+      "category": "training",
+      "sha256": "59e88696f397074da26063cac20ae5422893930e304edfb29f15858c5a9e7b93"
+    },
+    {
+      "index": 48,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCdVBPWmpoVHE3RFEhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/48.jpg",
+      "category": "art",
+      "sha256": "a91e964c14f4af6c8c5118ea1940e9aecc82e3b4f8377cd00e942883c35e9920"
+    },
+    {
+      "index": 49,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCeFBPWmpXUGlyREEhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/49.jpg",
+      "category": "interior",
+      "sha256": "223529e8d74341f99b167a55169a524f2dfd0991a03546bc88015cdd52531365"
+    },
+    {
+      "index": 50,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCelBPWmpsNU1FREEhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/50.jpg",
+      "category": "interior",
+      "sha256": "f88932067099525be1a07ba2d782b483891358c53516ab069efd0e95ac3e81cd"
+    },
+    {
+      "index": 51,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCeVBPWmpFRkpXREEhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/51.jpg",
+      "category": "interior",
+      "sha256": "98cb8f95b0ee8ee62f9b99e23da906e9110ad83e5234f7a1e5f3410b71f8b7c7"
+    },
+    {
+      "index": 52,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCLlBPWmpIRThuQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/52.jpg",
+      "category": "training",
+      "sha256": "fad9ddab4ab16039df6858ccb4c45466573e7e2ec4ed1ef45156675e535f0e80"
+    },
+    {
+      "index": 53,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCM1BPWmpHM0RoQ2chIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/53.jpg",
+      "category": "interior",
+      "sha256": "5ea7871d46c639a1e0b89e02e0e428040188b437cd9f073aa9c66c786cbafc96"
+    },
+    {
+      "index": 54,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCMFBPWmoyclN1Q3chIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/54.jpg",
+      "category": "interior",
+      "sha256": "1df62c33e062430fed125315bf0da30fd0f5e421b205a37fe24519151e28a349"
+    },
+    {
+      "index": 55,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCMHJOeGowSHp2R2chIQUAcXVuZ3o!.png",
+      "url": "/photos/east-campus/55.jpg",
+      "category": "training",
+      "sha256": "b550993fecac78d6aefb3925a818b14705de1dd766c13807598e13e5cac692ad"
+    },
+    {
+      "index": 56,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCMlBPWmpQMHNrQ3chIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/56.jpg",
+      "category": "interior",
+      "sha256": "0654203b3b1f80356da052cf7ce67f6f3c4adf5a0bd92d5e8da12675992900bd"
+    },
+    {
+      "index": 57,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCMVBPWmpLaHRoQ3chIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/57.jpg",
+      "category": "interior",
+      "sha256": "10054c48a45116dfd1e11acd2df664c57d5e91b247e4415e9c8fb37d7743eb56"
+    },
+    {
+      "index": 58,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCN1BPWmpNSFRRQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/58.jpg",
+      "category": "interior",
+      "sha256": "f8e8091f563f0a04623708770d98afe042a359d6a2550c108b566c31a0b6ca1e"
+    },
+    {
+      "index": 59,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCNFBPWmpOWGlnQ2chIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/59.jpg",
+      "category": "interior",
+      "sha256": "9e324a74f5f4e89c19c848efff34301ed10a3a32b30850c9384124e7e7bd26c9"
+    },
+    {
+      "index": 60,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCNlBPWmozS2dDQ2chIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/60.jpg",
+      "category": "interior",
+      "sha256": "0ac4934e172a1560a8537833901d05a35eb4adff70cb31481f87eeecb5b42526"
+    },
+    {
+      "index": 61,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCNVBPWmo1a1pRQ2chIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/61.jpg",
+      "category": "interior",
+      "sha256": "80087161db93520bb6b29838f49ed1f4d888646cd3fbaa2bed117c39449f1781"
+    },
+    {
+      "index": 62,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCOFBPWmpWTjZxQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/62.jpg",
+      "category": "interior",
+      "sha256": "a6725b3f41f6f55efae1e9a0face0576c301864f6998a0d8e099a0f9228a7165"
+    },
+    {
+      "index": 63,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpCOVBPWmoxSXhvQ1EhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/63.jpg",
+      "category": "interior",
+      "sha256": "8285f0c253d0bed0126a218274689c3d2ae08eff8a9ac0c06cf21be79967cd8b"
+    },
+    {
+      "index": 64,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpER3E5eGpRKjNLRUEhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/64.jpg",
+      "category": "training",
+      "sha256": "6986efc4e6d8eaa599a246a6a4dfceb38b7d7efa6f7010b4e6aaffe653c82af7"
+    },
+    {
+      "index": 65,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpERnE5eGpTY3ZrRUEhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/65.jpg",
+      "category": "training",
+      "sha256": "b33c68e324ca646f564ee73ca44e3f0107f9e4d9b5ab165e8a3e68243b70b0d5"
+    },
+    {
+      "index": 66,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpERXE5eGpkeU1HRVEhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/66.jpg",
+      "category": "training",
+      "sha256": "d2b1ee20737c554cc19bdcda46b9aa087609c9b77becf79cd3ada580197c5370"
+    },
+    {
+      "index": 67,
+      "source": "素材\\实训大楼、校门、艺术楼\\NR8AVjViQ1FBNE1EWTROREV5TWpESHE5eGpyUXlQRUEhIQUAcXVuZ3o!.jpeg",
+      "url": "/photos/east-campus/67.jpg",
+      "category": "training",
+      "sha256": "8d801222fee1ef03e8586357fa547f1ed9c74eb3cf40a4faecf8b0826886e53c"
+    }
+  ],
+  "videos": [
+    "DJI_0440.MP4",
+    "DJI_0460.MP4",
+    "DJI_0443.MP4"
+  ],
+  "note": "室内照片仅作参考；未据此推定房间归属。层高与未标注部位为估算。"
+}

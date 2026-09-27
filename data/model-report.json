@@ -1,0 +1,217 @@
+{
+  "blender": "4.5.3 LTS",
+  "buildings": [
+    {
+      "id": "teaching-1",
+      "vertices": 61550,
+      "faces": 19395
+    },
+    {
+      "id": "teaching-2",
+      "vertices": 172764,
+      "faces": 96004
+    },
+    {
+      "id": "office",
+      "vertices": 74740,
+      "faces": 21592
+    },
+    {
+      "id": "gym",
+      "vertices": 40404,
+      "faces": 13134
+    },
+    {
+      "id": "stage",
+      "vertices": 5584,
+      "faces": 2026
+    },
+    {
+      "id": "dorm-3",
+      "vertices": 139948,
+      "faces": 40400
+    },
+    {
+      "id": "dorm-2",
+      "vertices": 62072,
+      "faces": 17946
+    },
+    {
+      "id": "dorm-1",
+      "vertices": 72224,
+      "faces": 20880
+    },
+    {
+      "id": "dorm-south",
+      "vertices": 82488,
+      "faces": 23864
+    },
+    {
+      "id": "dorm-bottom",
+      "vertices": 61712,
+      "faces": 17832
+    },
+    {
+      "id": "laboratory",
+      "vertices": 40968,
+      "faces": 11840
+    },
+    {
+      "id": "comprehensive",
+      "vertices": 86782,
+      "faces": 25207
+    },
+    {
+      "id": "training",
+      "vertices": 52648,
+      "faces": 15286
+    },
+    {
+      "id": "art",
+      "vertices": 137528,
+      "faces": 40330
+    },
+    {
+      "id": "apartments-tower",
+      "vertices": 248144,
+      "faces": 71016
+    },
+    {
+      "id": "teacher-1",
+      "vertices": 69896,
+      "faces": 19992
+    },
+    {
+      "id": "teacher-2",
+      "vertices": 68552,
+      "faces": 19608
+    },
+    {
+      "id": "teacher-3",
+      "vertices": 52732,
+      "faces": 15088
+    },
+    {
+      "id": "teacher-4",
+      "vertices": 52284,
+      "faces": 14960
+    },
+    {
+      "id": "teacher-5",
+      "vertices": 59564,
+      "faces": 17040
+    },
+    {
+      "id": "teacher-6",
+      "vertices": 37612,
+      "faces": 10768
+    },
+    {
+      "id": "canteen",
+      "vertices": 59688,
+      "faces": 17446
+    },
+    {
+      "id": "canteen-wing",
+      "vertices": 5142,
+      "faces": 1716
+    },
+    {
+      "id": "hall",
+      "vertices": 40804,
+      "faces": 11692
+    },
+    {
+      "id": "library",
+      "vertices": 31108,
+      "faces": 9072
+    },
+    {
+      "id": "dongpo",
+      "vertices": 7318,
+      "faces": 5418
+    },
+    {
+      "id": "well",
+      "vertices": 2284,
+      "faces": 1026
+    },
+    {
+      "id": "pond-pavilion",
+      "vertices": 16592,
+      "faces": 10728
+    },
+    {
+      "id": "gate",
+      "vertices": 22200,
+      "faces": 15912
+    },
+    {
+      "id": "shop",
+      "vertices": 5160,
+      "faces": 1496
+    },
+    {
+      "id": "bianzhou",
+      "vertices": 8824,
+      "faces": 6610
+    },
+    {
+      "id": "teacher-east",
+      "vertices": 73356,
+      "faces": 21032
+    },
+    {
+      "id": "teacher-7",
+      "vertices": 56710,
+      "faces": 16231
+    },
+    {
+      "id": "equipment",
+      "vertices": 8650,
+      "faces": 2696
+    },
+    {
+      "id": "garage",
+      "vertices": 9630,
+      "faces": 3028
+    },
+    {
+      "id": "west-fitness",
+      "vertices": 312,
+      "faces": 180
+    },
+    {
+      "id": "fitness-ground",
+      "vertices": 312,
+      "faces": 180
+    },
+    {
+      "id": "music-pavilion",
+      "vertices": 2672,
+      "faces": 1566
+    },
+    {
+      "id": "tianhan-pavilion",
+      "vertices": 16912,
+      "faces": 10960
+    },
+    {
+      "id": "bulletin-gallery",
+      "vertices": 38752,
+      "faces": 18824
+    },
+    {
+      "id": "entrance-inscription",
+      "vertices": 1344,
+      "faces": 882
+    },
+    {
+      "id": "guard-booth",
+      "vertices": 208,
+      "faces": 156
+    }
+  ],
+  "objects": 74,
+  "totalVertices": 3102007
+}
