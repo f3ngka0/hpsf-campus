@@ -2,7 +2,7 @@
 
 > 用 Three.js 重建的合浦师范学校校园。沿东坡湖慢行，走过老街与林荫，抵达景点收集纪念章。
 
-**在线访问：<https://f3ngka0.github.io/hepu-campus-walk/>**
+**在线访问：<https://f3ngka0.github.io/hpsf-campus/>**
 
 ## 目录
 
@@ -98,15 +98,15 @@
 
 ### 方式一：在线访问（最省事）
 
-直接打开：**<https://f3ngka0.github.io/hepu-campus-walk/>**
+直接打开：**<https://f3ngka0.github.io/hpsf-campus/>**
 
 ### 方式二：本地双击打开（离线可用）
 
 1. 克隆或下载本仓库到本地任意目录：
 
    ```bash
-   git clone https://github.com/f3ngka0/hepu-campus-walk.git
-   cd hepu-campus-walk
+   git clone https://github.com/f3ngka0/hpsf-campus.git
+   cd hpsf-campus
    ```
 
    或在仓库页面点击 `Code` → `Download ZIP` 后解压。
@@ -180,7 +180,7 @@ window.__CAMPUS__.getState()   // { mode, movementSpeed, position, near, stamps,
 ## 目录结构
 
 ```text
-hepu-campus-walk/
+hpsf-campus/
 ├── index.html                    入口页。普通 <script>（非 ES module）+ 相对路径，离线可开
 ├── favicon.svg                   站点图标
 ├── .nojekyll                     让 GitHub Pages 跳过 Jekyll，按静态文件直接发布
@@ -223,7 +223,7 @@ hepu-campus-walk/
 
 ## 如果你发现了问题
 
-欢迎通过 [Issue](https://github.com/f3ngka0/hepu-campus-walk/issues) 反馈。为提高处理效率，请尽量附上：
+欢迎通过 [Issue](https://github.com/f3ngka0/hpsf-campus/issues) 反馈。为提高处理效率，请尽量附上：
 
 | 项目 | 说明 |
 | --- | --- |
@@ -258,7 +258,7 @@ hepu-campus-walk/
 
 ### 本项目代码
 
-页面程序与样式表的作者归属本项目，用于校园复原展示。**当前未附明确的开放源代码许可证**，如需商业使用、二次分发或改编，请先通过 [Issue](https://github.com/f3ngka0/hepu-campus-walk/issues) 联系取得授权。
+页面程序与样式表的作者归属本项目，用于校园复原展示。**当前未附明确的开放源代码许可证**，如需商业使用、二次分发或改编，请先通过 [Issue](https://github.com/f3ngka0/hpsf-campus/issues) 联系取得授权。
 
 ### 第三方组件
 
