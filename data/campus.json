@@ -7372,17 +7372,17 @@
     },
     {
       "id": "canteen",
-      "name": "学生食堂",
+      "name": "大饭堂",
       "kind": "canteen",
       "position": [
-        -233.7305,
-        59.1616
+        -234,
+        57
       ],
-      "width": 41.674,
-      "depth": 45.75,
-      "floors": 3,
+      "width": 38,
+      "depth": 18,
+      "floors": 2,
       "angle": 0,
-      "confidence": "保留CAD位置、轮廓和层数；立面特征按本地照片重建，层高及遮挡面为估算。",
+      "confidence": "平面图2确定相邻关系；DJI_0429和照片估计尺寸，非实测，约15%不确定度",
       "source": "食堂周围",
       "photos": [
         "/photos/final-5/000.jpg",
@@ -7446,20 +7446,20 @@
       "footprints": [
         [
           [
-            -254.5676,
-            38.8649
+            -253.0,
+            48.0
           ],
           [
-            -249.6722,
-            82.0366
+            -215.0,
+            48.0
           ],
           [
-            -212.8935,
-            79.1273
+            -215.0,
+            66.0
           ],
           [
-            -218.8515,
-            36.2865
+            -253.0,
+            66.0
           ]
         ]
       ],
@@ -7472,20 +7472,20 @@
       "localFootprints": [
         [
           [
-            -20.8371,
-            -20.2967
+            -19.0,
+            -9.0
           ],
           [
-            -15.9417,
-            22.8751
+            19.0,
+            -9.0
           ],
           [
-            20.8371,
-            19.9657
+            19.0,
+            9.0
           ],
           [
-            14.8791,
-            -22.8751
+            -19.0,
+            9.0
           ]
         ]
       ],
@@ -7511,25 +7511,25 @@
         "placement": "规划图配准定位",
         "reviewed": true
       },
-      "detailRevision": "campus-final-1",
-      "storeyHeight": 3.6,
+      "detailRevision": "dining-photo-2",
+      "storeyHeight": 5.2,
       "collisionFootprints": [
         [
           [
-            -254.5676,
-            38.8649
+            -253.0,
+            48.0
           ],
           [
-            -249.6722,
-            82.0367
+            -215.0,
+            48.0
           ],
           [
-            -212.8934,
-            79.12729999999999
+            -215.0,
+            66.0
           ],
           [
-            -218.8514,
-            36.286500000000004
+            -253.0,
+            66.0
           ]
         ]
       ],
@@ -7537,17 +7537,17 @@
     },
     {
       "id": "canteen-wing",
-      "name": "食堂附属平房",
+      "name": "小饭堂",
       "kind": "canteen",
       "position": [
-        -249.004,
-        101.5955
+        -236,
+        88
       ],
-      "width": 9.905,
-      "depth": 11.215,
+      "width": 34,
+      "depth": 7,
       "floors": 1,
       "angle": 0,
-      "confidence": "保留CAD位置、轮廓和层数；立面特征按本地照片重建，层高及遮挡面为估算。",
+      "confidence": "平面图2确定相邻关系；DJI_0429和照片估计尺寸，非实测，约15%不确定度",
       "source": "食堂周围",
       "photos": [
         "/photos/final-5/000.jpg",
@@ -7611,20 +7611,20 @@
       "footprints": [
         [
           [
-            -253.9563,
-            96.9751
+            -253.0,
+            84.5
           ],
           [
-            -253.1026,
-            107.2032
+            -219.0,
+            84.5
           ],
           [
-            -244.0516,
-            106.3264
+            -219.0,
+            91.5
           ],
           [
-            -244.5512,
-            95.9878
+            -253.0,
+            91.5
           ]
         ]
       ],
@@ -7637,20 +7637,20 @@
       "localFootprints": [
         [
           [
-            -4.9523,
-            -4.6204
+            -17.0,
+            -3.5
           ],
           [
-            -4.0986,
-            5.6077
+            17.0,
+            -3.5
           ],
           [
-            4.9523,
-            4.7309
+            17.0,
+            3.5
           ],
           [
-            4.4528,
-            -5.6077
+            -17.0,
+            3.5
           ]
         ]
       ],
@@ -7676,25 +7676,25 @@
         "placement": "规划图配准定位",
         "reviewed": true
       },
-      "detailRevision": "campus-final-1",
-      "storeyHeight": 3.4,
+      "detailRevision": "dining-photo-2",
+      "storeyHeight": 3.35,
       "collisionFootprints": [
         [
           [
-            -253.9563,
-            96.9751
+            -253.0,
+            84.5
           ],
           [
-            -253.1026,
-            107.2032
+            -219.0,
+            84.5
           ],
           [
-            -244.05169999999998,
-            106.3264
+            -219.0,
+            91.5
           ],
           [
-            -244.5512,
-            95.98780000000001
+            -253.0,
+            91.5
           ]
         ]
       ],
@@ -7702,17 +7702,17 @@
     },
     {
       "id": "hall",
-      "name": "礼堂与活动楼",
+      "name": "小礼堂",
       "kind": "hall",
       "position": [
-        -230.9368,
-        106.4835
+        -240,
+        114
       ],
-      "width": 43.809,
-      "depth": 29.911,
-      "floors": 3,
+      "width": 24,
+      "depth": 10,
+      "floors": 1,
       "angle": 0,
-      "confidence": "保留CAD位置、轮廓和层数；立面特征按本地照片重建，层高及遮挡面为估算。同组照片未能逐栋确认的部分采用保守立面，不作为测绘结果。",
+      "confidence": "平面图2确定相邻关系；DJI_0429和照片估计尺寸，非实测，约15%不确定度",
       "source": "食堂周围",
       "photos": [
         "/photos/final-5/000.jpg",
@@ -7776,28 +7776,20 @@
       "footprints": [
         [
           [
-            -244.0636,
-            95.0585
+            -252.0,
+            109.0
           ],
           [
-            -243.0819,
-            110.6883
+            -228.0,
+            109.0
           ],
           [
-            -252.8412,
-            111.7859
+            -228.0,
+            119.0
           ],
           [
-            -251.3895,
-            121.4391
-          ],
-          [
-            -209.763,
-            116.6308
-          ],
-          [
-            -209.0324,
-            91.5278
+            -252.0,
+            119.0
           ]
         ]
       ],
@@ -7810,28 +7802,20 @@
       "localFootprints": [
         [
           [
-            -13.1268,
-            -11.425
+            -12.0,
+            -5.0
           ],
           [
-            -12.1451,
-            4.2048
+            12.0,
+            -5.0
           ],
           [
-            -21.9044,
-            5.3024
+            12.0,
+            5.0
           ],
           [
-            -20.4527,
-            14.9556
-          ],
-          [
-            21.1738,
-            10.1473
-          ],
-          [
-            21.9044,
-            -14.9557
+            -12.0,
+            5.0
           ]
         ]
       ],
@@ -7865,33 +7849,25 @@
         "placement": "规划图配准定位",
         "reviewed": true
       },
-      "detailRevision": "campus-final-1",
-      "storeyHeight": 3.8,
+      "detailRevision": "dining-photo-2",
+      "storeyHeight": 4.7,
       "collisionFootprints": [
         [
           [
-            -244.0636,
-            95.05850000000001
+            -252.0,
+            109.0
           ],
           [
-            -243.08190000000002,
-            110.68830000000001
+            -228.0,
+            109.0
           ],
           [
-            -252.84120000000001,
-            111.78590000000001
+            -228.0,
+            119.0
           ],
           [
-            -251.3895,
-            121.43910000000001
-          ],
-          [
-            -209.763,
-            116.63080000000001
-          ],
-          [
-            -209.0324,
-            91.52780000000001
+            -252.0,
+            119.0
           ]
         ]
       ],
@@ -12123,6 +12099,1097 @@
         "placement": "规划图配准定位",
         "reviewed": true
       }
+    },
+    {
+      "id": "staff-activity",
+      "name": "教工活动中心",
+      "kind": "hall",
+      "position": [
+        -236,
+        100
+      ],
+      "width": 34,
+      "depth": 16,
+      "floors": 1,
+      "angle": 0,
+      "confidence": "平面图2确定相邻关系；DJI_0429和照片估计尺寸，非实测，约15%不确定度",
+      "source": "食堂周围",
+      "photos": [
+        "/photos/final-5/000.jpg",
+        "/photos/final-5/001.jpg",
+        "/photos/final-5/002.jpg",
+        "/photos/final-5/003.jpg",
+        "/photos/final-5/004.jpg",
+        "/photos/final-5/005.jpg",
+        "/photos/final-5/006.jpg",
+        "/photos/final-5/007.jpg",
+        "/photos/final-5/008.jpg",
+        "/photos/final-5/009.jpg",
+        "/photos/final-5/010.jpg",
+        "/photos/final-5/011.jpg",
+        "/photos/final-5/012.jpg",
+        "/photos/final-5/013.jpg",
+        "/photos/final-5/014.jpg",
+        "/photos/final-5/015.jpg",
+        "/photos/final-5/016.jpg",
+        "/photos/final-5/017.jpg",
+        "/photos/final-5/018.jpg",
+        "/photos/final-5/019.jpg",
+        "/photos/final-5/020.jpg",
+        "/photos/final-5/021.jpg",
+        "/photos/final-5/022.jpg",
+        "/photos/final-5/023.jpg",
+        "/photos/final-5/024.jpg",
+        "/photos/final-5/025.jpg",
+        "/photos/final-5/026.jpg",
+        "/photos/final-5/027.jpg",
+        "/photos/final-5/028.jpg",
+        "/photos/final-5/029.jpg",
+        "/photos/final-5/030.jpg",
+        "/photos/final-5/031.jpg",
+        "/photos/final-5/032.jpg",
+        "/photos/final-5/033.jpg",
+        "/photos/final-5/034.jpg",
+        "/photos/final-5/035.jpg",
+        "/photos/final-5/036.jpg",
+        "/photos/final-5/037.jpg",
+        "/photos/final-5/038.jpg",
+        "/photos/final-5/039.jpg",
+        "/photos/final-5/040.jpg",
+        "/photos/final-5/041.jpg",
+        "/photos/final-5/042.jpg",
+        "/photos/final-5/043.jpg",
+        "/photos/final-5/044.jpg",
+        "/photos/final-5/045.jpg",
+        "/photos/final-5/046.jpg",
+        "/photos/final-5/047.jpg",
+        "/photos/final-5/048.jpg",
+        "/photos/final-5/049.jpg",
+        "/photos/final-5/050.jpg",
+        "/photos/final-5/051.jpg",
+        "/photos/final-5/052.jpg",
+        "/photos/final-5/053.jpg",
+        "/photos/final-5/054.jpg",
+        "/photos/final-5/055.jpg",
+        "/photos/final-5/056.jpg"
+      ],
+      "footprints": [
+        [
+          [
+            -253.0,
+            92.0
+          ],
+          [
+            -219.0,
+            92.0
+          ],
+          [
+            -219.0,
+            108.0
+          ],
+          [
+            -253.0,
+            108.0
+          ]
+        ]
+      ],
+      "planBounds": [
+        170.8691124772996,
+        450.45634028090166,
+        240.30164442445147,
+        526.6798287266124
+      ],
+      "localFootprints": [
+        [
+          [
+            -17.0,
+            -8.0
+          ],
+          [
+            17.0,
+            -8.0
+          ],
+          [
+            17.0,
+            8.0
+          ],
+          [
+            -17.0,
+            8.0
+          ]
+        ]
+      ],
+      "sourceOutline": [
+        [
+          297,
+          515
+        ],
+        [
+          391,
+          537
+        ],
+        [
+          372,
+          652
+        ],
+        [
+          275,
+          630
+        ]
+      ],
+      "audit": {
+        "placement": "规划图配准定位",
+        "reviewed": true
+      },
+      "detailRevision": "dining-photo-2",
+      "storeyHeight": 5.6,
+      "collisionFootprints": [
+        [
+          [
+            -253.0,
+            92.0
+          ],
+          [
+            -219.0,
+            92.0
+          ],
+          [
+            -219.0,
+            108.0
+          ],
+          [
+            -253.0,
+            108.0
+          ]
+        ]
+      ],
+      "walkSurfaces": []
+    },
+    {
+      "id": "dining-wash",
+      "name": "食堂洗手池",
+      "kind": "hall",
+      "position": [
+        -234,
+        71
+      ],
+      "width": 23,
+      "depth": 2.5,
+      "floors": 1,
+      "angle": 0,
+      "confidence": "平面图2确定相邻关系；DJI_0429和照片估计尺寸，非实测，约15%不确定度",
+      "source": "食堂周围",
+      "photos": [
+        "/photos/final-5/000.jpg",
+        "/photos/final-5/001.jpg",
+        "/photos/final-5/002.jpg",
+        "/photos/final-5/003.jpg",
+        "/photos/final-5/004.jpg",
+        "/photos/final-5/005.jpg",
+        "/photos/final-5/006.jpg",
+        "/photos/final-5/007.jpg",
+        "/photos/final-5/008.jpg",
+        "/photos/final-5/009.jpg",
+        "/photos/final-5/010.jpg",
+        "/photos/final-5/011.jpg",
+        "/photos/final-5/012.jpg",
+        "/photos/final-5/013.jpg",
+        "/photos/final-5/014.jpg",
+        "/photos/final-5/015.jpg",
+        "/photos/final-5/016.jpg",
+        "/photos/final-5/017.jpg",
+        "/photos/final-5/018.jpg",
+        "/photos/final-5/019.jpg",
+        "/photos/final-5/020.jpg",
+        "/photos/final-5/021.jpg",
+        "/photos/final-5/022.jpg",
+        "/photos/final-5/023.jpg",
+        "/photos/final-5/024.jpg",
+        "/photos/final-5/025.jpg",
+        "/photos/final-5/026.jpg",
+        "/photos/final-5/027.jpg",
+        "/photos/final-5/028.jpg",
+        "/photos/final-5/029.jpg",
+        "/photos/final-5/030.jpg",
+        "/photos/final-5/031.jpg",
+        "/photos/final-5/032.jpg",
+        "/photos/final-5/033.jpg",
+        "/photos/final-5/034.jpg",
+        "/photos/final-5/035.jpg",
+        "/photos/final-5/036.jpg",
+        "/photos/final-5/037.jpg",
+        "/photos/final-5/038.jpg",
+        "/photos/final-5/039.jpg",
+        "/photos/final-5/040.jpg",
+        "/photos/final-5/041.jpg",
+        "/photos/final-5/042.jpg",
+        "/photos/final-5/043.jpg",
+        "/photos/final-5/044.jpg",
+        "/photos/final-5/045.jpg",
+        "/photos/final-5/046.jpg",
+        "/photos/final-5/047.jpg",
+        "/photos/final-5/048.jpg",
+        "/photos/final-5/049.jpg",
+        "/photos/final-5/050.jpg",
+        "/photos/final-5/051.jpg",
+        "/photos/final-5/052.jpg",
+        "/photos/final-5/053.jpg",
+        "/photos/final-5/054.jpg",
+        "/photos/final-5/055.jpg",
+        "/photos/final-5/056.jpg"
+      ],
+      "footprints": [
+        [
+          [
+            -245.5,
+            69.75
+          ],
+          [
+            -222.5,
+            69.75
+          ],
+          [
+            -222.5,
+            72.25
+          ],
+          [
+            -245.5,
+            72.25
+          ]
+        ]
+      ],
+      "planBounds": [
+        170.8691124772996,
+        450.45634028090166,
+        240.30164442445147,
+        526.6798287266124
+      ],
+      "localFootprints": [
+        [
+          [
+            -11.5,
+            -1.25
+          ],
+          [
+            11.5,
+            -1.25
+          ],
+          [
+            11.5,
+            1.25
+          ],
+          [
+            -11.5,
+            1.25
+          ]
+        ]
+      ],
+      "sourceOutline": [
+        [
+          297,
+          515
+        ],
+        [
+          391,
+          537
+        ],
+        [
+          372,
+          652
+        ],
+        [
+          275,
+          630
+        ]
+      ],
+      "audit": {
+        "placement": "规划图配准定位",
+        "reviewed": true
+      },
+      "detailRevision": "dining-photo-2",
+      "storeyHeight": 2.85,
+      "collisionFootprints": [
+        [
+          [
+            -245.5,
+            69.75
+          ],
+          [
+            -222.5,
+            69.75
+          ],
+          [
+            -222.5,
+            72.25
+          ],
+          [
+            -245.5,
+            72.25
+          ]
+        ]
+      ],
+      "walkSurfaces": []
+    },
+    {
+      "id": "dining-pergola",
+      "name": "临湖藤蔓长廊",
+      "kind": "hall",
+      "position": [
+        -211,
+        91
+      ],
+      "width": 3.6,
+      "depth": 43,
+      "floors": 1,
+      "angle": 0,
+      "confidence": "平面图2确定相邻关系；DJI_0429和照片估计尺寸，非实测，约15%不确定度",
+      "source": "食堂周围",
+      "photos": [
+        "/photos/final-5/000.jpg",
+        "/photos/final-5/001.jpg",
+        "/photos/final-5/002.jpg",
+        "/photos/final-5/003.jpg",
+        "/photos/final-5/004.jpg",
+        "/photos/final-5/005.jpg",
+        "/photos/final-5/006.jpg",
+        "/photos/final-5/007.jpg",
+        "/photos/final-5/008.jpg",
+        "/photos/final-5/009.jpg",
+        "/photos/final-5/010.jpg",
+        "/photos/final-5/011.jpg",
+        "/photos/final-5/012.jpg",
+        "/photos/final-5/013.jpg",
+        "/photos/final-5/014.jpg",
+        "/photos/final-5/015.jpg",
+        "/photos/final-5/016.jpg",
+        "/photos/final-5/017.jpg",
+        "/photos/final-5/018.jpg",
+        "/photos/final-5/019.jpg",
+        "/photos/final-5/020.jpg",
+        "/photos/final-5/021.jpg",
+        "/photos/final-5/022.jpg",
+        "/photos/final-5/023.jpg",
+        "/photos/final-5/024.jpg",
+        "/photos/final-5/025.jpg",
+        "/photos/final-5/026.jpg",
+        "/photos/final-5/027.jpg",
+        "/photos/final-5/028.jpg",
+        "/photos/final-5/029.jpg",
+        "/photos/final-5/030.jpg",
+        "/photos/final-5/031.jpg",
+        "/photos/final-5/032.jpg",
+        "/photos/final-5/033.jpg",
+        "/photos/final-5/034.jpg",
+        "/photos/final-5/035.jpg",
+        "/photos/final-5/036.jpg",
+        "/photos/final-5/037.jpg",
+        "/photos/final-5/038.jpg",
+        "/photos/final-5/039.jpg",
+        "/photos/final-5/040.jpg",
+        "/photos/final-5/041.jpg",
+        "/photos/final-5/042.jpg",
+        "/photos/final-5/043.jpg",
+        "/photos/final-5/044.jpg",
+        "/photos/final-5/045.jpg",
+        "/photos/final-5/046.jpg",
+        "/photos/final-5/047.jpg",
+        "/photos/final-5/048.jpg",
+        "/photos/final-5/049.jpg",
+        "/photos/final-5/050.jpg",
+        "/photos/final-5/051.jpg",
+        "/photos/final-5/052.jpg",
+        "/photos/final-5/053.jpg",
+        "/photos/final-5/054.jpg",
+        "/photos/final-5/055.jpg",
+        "/photos/final-5/056.jpg"
+      ],
+      "footprints": [
+        [
+          [
+            -212.8,
+            69.5
+          ],
+          [
+            -209.2,
+            69.5
+          ],
+          [
+            -209.2,
+            112.5
+          ],
+          [
+            -212.8,
+            112.5
+          ]
+        ]
+      ],
+      "planBounds": [
+        170.8691124772996,
+        450.45634028090166,
+        240.30164442445147,
+        526.6798287266124
+      ],
+      "localFootprints": [
+        [
+          [
+            -1.8,
+            -21.5
+          ],
+          [
+            1.8,
+            -21.5
+          ],
+          [
+            1.8,
+            21.5
+          ],
+          [
+            -1.8,
+            21.5
+          ]
+        ]
+      ],
+      "sourceOutline": [
+        [
+          297,
+          515
+        ],
+        [
+          391,
+          537
+        ],
+        [
+          372,
+          652
+        ],
+        [
+          275,
+          630
+        ]
+      ],
+      "audit": {
+        "placement": "规划图配准定位",
+        "reviewed": true
+      },
+      "detailRevision": "dining-photo-2",
+      "storeyHeight": 3.0,
+      "collisionFootprints": [
+        [
+          [
+            -212.69,
+            69.81
+          ],
+          [
+            -212.31,
+            69.81
+          ],
+          [
+            -212.31,
+            70.19
+          ],
+          [
+            -212.69,
+            70.19
+          ]
+        ],
+        [
+          [
+            -212.69,
+            73.31
+          ],
+          [
+            -212.31,
+            73.31
+          ],
+          [
+            -212.31,
+            73.69
+          ],
+          [
+            -212.69,
+            73.69
+          ]
+        ],
+        [
+          [
+            -212.69,
+            76.81
+          ],
+          [
+            -212.31,
+            76.81
+          ],
+          [
+            -212.31,
+            77.19
+          ],
+          [
+            -212.69,
+            77.19
+          ]
+        ],
+        [
+          [
+            -212.69,
+            80.31
+          ],
+          [
+            -212.31,
+            80.31
+          ],
+          [
+            -212.31,
+            80.69
+          ],
+          [
+            -212.69,
+            80.69
+          ]
+        ],
+        [
+          [
+            -212.69,
+            83.81
+          ],
+          [
+            -212.31,
+            83.81
+          ],
+          [
+            -212.31,
+            84.19
+          ],
+          [
+            -212.69,
+            84.19
+          ]
+        ],
+        [
+          [
+            -212.69,
+            87.31
+          ],
+          [
+            -212.31,
+            87.31
+          ],
+          [
+            -212.31,
+            87.69
+          ],
+          [
+            -212.69,
+            87.69
+          ]
+        ],
+        [
+          [
+            -212.69,
+            90.81
+          ],
+          [
+            -212.31,
+            90.81
+          ],
+          [
+            -212.31,
+            91.19
+          ],
+          [
+            -212.69,
+            91.19
+          ]
+        ],
+        [
+          [
+            -212.69,
+            94.31
+          ],
+          [
+            -212.31,
+            94.31
+          ],
+          [
+            -212.31,
+            94.69
+          ],
+          [
+            -212.69,
+            94.69
+          ]
+        ],
+        [
+          [
+            -212.69,
+            97.81
+          ],
+          [
+            -212.31,
+            97.81
+          ],
+          [
+            -212.31,
+            98.19
+          ],
+          [
+            -212.69,
+            98.19
+          ]
+        ],
+        [
+          [
+            -212.69,
+            101.31
+          ],
+          [
+            -212.31,
+            101.31
+          ],
+          [
+            -212.31,
+            101.69
+          ],
+          [
+            -212.69,
+            101.69
+          ]
+        ],
+        [
+          [
+            -212.69,
+            104.81
+          ],
+          [
+            -212.31,
+            104.81
+          ],
+          [
+            -212.31,
+            105.19
+          ],
+          [
+            -212.69,
+            105.19
+          ]
+        ],
+        [
+          [
+            -212.69,
+            108.31
+          ],
+          [
+            -212.31,
+            108.31
+          ],
+          [
+            -212.31,
+            108.69
+          ],
+          [
+            -212.69,
+            108.69
+          ]
+        ],
+        [
+          [
+            -212.69,
+            111.81
+          ],
+          [
+            -212.31,
+            111.81
+          ],
+          [
+            -212.31,
+            112.19
+          ],
+          [
+            -212.69,
+            112.19
+          ]
+        ],
+        [
+          [
+            -209.69,
+            69.81
+          ],
+          [
+            -209.31,
+            69.81
+          ],
+          [
+            -209.31,
+            70.19
+          ],
+          [
+            -209.69,
+            70.19
+          ]
+        ],
+        [
+          [
+            -209.69,
+            73.31
+          ],
+          [
+            -209.31,
+            73.31
+          ],
+          [
+            -209.31,
+            73.69
+          ],
+          [
+            -209.69,
+            73.69
+          ]
+        ],
+        [
+          [
+            -209.69,
+            76.81
+          ],
+          [
+            -209.31,
+            76.81
+          ],
+          [
+            -209.31,
+            77.19
+          ],
+          [
+            -209.69,
+            77.19
+          ]
+        ],
+        [
+          [
+            -209.69,
+            80.31
+          ],
+          [
+            -209.31,
+            80.31
+          ],
+          [
+            -209.31,
+            80.69
+          ],
+          [
+            -209.69,
+            80.69
+          ]
+        ],
+        [
+          [
+            -209.69,
+            83.81
+          ],
+          [
+            -209.31,
+            83.81
+          ],
+          [
+            -209.31,
+            84.19
+          ],
+          [
+            -209.69,
+            84.19
+          ]
+        ],
+        [
+          [
+            -209.69,
+            87.31
+          ],
+          [
+            -209.31,
+            87.31
+          ],
+          [
+            -209.31,
+            87.69
+          ],
+          [
+            -209.69,
+            87.69
+          ]
+        ],
+        [
+          [
+            -209.69,
+            90.81
+          ],
+          [
+            -209.31,
+            90.81
+          ],
+          [
+            -209.31,
+            91.19
+          ],
+          [
+            -209.69,
+            91.19
+          ]
+        ],
+        [
+          [
+            -209.69,
+            94.31
+          ],
+          [
+            -209.31,
+            94.31
+          ],
+          [
+            -209.31,
+            94.69
+          ],
+          [
+            -209.69,
+            94.69
+          ]
+        ],
+        [
+          [
+            -209.69,
+            97.81
+          ],
+          [
+            -209.31,
+            97.81
+          ],
+          [
+            -209.31,
+            98.19
+          ],
+          [
+            -209.69,
+            98.19
+          ]
+        ],
+        [
+          [
+            -209.69,
+            101.31
+          ],
+          [
+            -209.31,
+            101.31
+          ],
+          [
+            -209.31,
+            101.69
+          ],
+          [
+            -209.69,
+            101.69
+          ]
+        ],
+        [
+          [
+            -209.69,
+            104.81
+          ],
+          [
+            -209.31,
+            104.81
+          ],
+          [
+            -209.31,
+            105.19
+          ],
+          [
+            -209.69,
+            105.19
+          ]
+        ],
+        [
+          [
+            -209.69,
+            108.31
+          ],
+          [
+            -209.31,
+            108.31
+          ],
+          [
+            -209.31,
+            108.69
+          ],
+          [
+            -209.69,
+            108.69
+          ]
+        ],
+        [
+          [
+            -209.69,
+            111.81
+          ],
+          [
+            -209.31,
+            111.81
+          ],
+          [
+            -209.31,
+            112.19
+          ],
+          [
+            -209.69,
+            112.19
+          ]
+        ]
+      ],
+      "walkSurfaces": []
+    },
+    {
+      "id": "dining-court",
+      "name": "食堂水泥院子",
+      "kind": "hall",
+      "position": [
+        -234,
+        76
+      ],
+      "width": 43,
+      "depth": 20,
+      "floors": 1,
+      "angle": 0,
+      "confidence": "平面图2确定相邻关系；DJI_0429和照片估计尺寸，非实测，约15%不确定度",
+      "source": "食堂周围",
+      "photos": [
+        "/photos/final-5/000.jpg",
+        "/photos/final-5/001.jpg",
+        "/photos/final-5/002.jpg",
+        "/photos/final-5/003.jpg",
+        "/photos/final-5/004.jpg",
+        "/photos/final-5/005.jpg",
+        "/photos/final-5/006.jpg",
+        "/photos/final-5/007.jpg",
+        "/photos/final-5/008.jpg",
+        "/photos/final-5/009.jpg",
+        "/photos/final-5/010.jpg",
+        "/photos/final-5/011.jpg",
+        "/photos/final-5/012.jpg",
+        "/photos/final-5/013.jpg",
+        "/photos/final-5/014.jpg",
+        "/photos/final-5/015.jpg",
+        "/photos/final-5/016.jpg",
+        "/photos/final-5/017.jpg",
+        "/photos/final-5/018.jpg",
+        "/photos/final-5/019.jpg",
+        "/photos/final-5/020.jpg",
+        "/photos/final-5/021.jpg",
+        "/photos/final-5/022.jpg",
+        "/photos/final-5/023.jpg",
+        "/photos/final-5/024.jpg",
+        "/photos/final-5/025.jpg",
+        "/photos/final-5/026.jpg",
+        "/photos/final-5/027.jpg",
+        "/photos/final-5/028.jpg",
+        "/photos/final-5/029.jpg",
+        "/photos/final-5/030.jpg",
+        "/photos/final-5/031.jpg",
+        "/photos/final-5/032.jpg",
+        "/photos/final-5/033.jpg",
+        "/photos/final-5/034.jpg",
+        "/photos/final-5/035.jpg",
+        "/photos/final-5/036.jpg",
+        "/photos/final-5/037.jpg",
+        "/photos/final-5/038.jpg",
+        "/photos/final-5/039.jpg",
+        "/photos/final-5/040.jpg",
+        "/photos/final-5/041.jpg",
+        "/photos/final-5/042.jpg",
+        "/photos/final-5/043.jpg",
+        "/photos/final-5/044.jpg",
+        "/photos/final-5/045.jpg",
+        "/photos/final-5/046.jpg",
+        "/photos/final-5/047.jpg",
+        "/photos/final-5/048.jpg",
+        "/photos/final-5/049.jpg",
+        "/photos/final-5/050.jpg",
+        "/photos/final-5/051.jpg",
+        "/photos/final-5/052.jpg",
+        "/photos/final-5/053.jpg",
+        "/photos/final-5/054.jpg",
+        "/photos/final-5/055.jpg",
+        "/photos/final-5/056.jpg"
+      ],
+      "footprints": [
+        [
+          [
+            -255.5,
+            66.0
+          ],
+          [
+            -212.5,
+            66.0
+          ],
+          [
+            -212.5,
+            86.0
+          ],
+          [
+            -255.5,
+            86.0
+          ]
+        ]
+      ],
+      "planBounds": [
+        170.8691124772996,
+        450.45634028090166,
+        240.30164442445147,
+        526.6798287266124
+      ],
+      "localFootprints": [
+        [
+          [
+            -21.5,
+            -10.0
+          ],
+          [
+            21.5,
+            -10.0
+          ],
+          [
+            21.5,
+            10.0
+          ],
+          [
+            -21.5,
+            10.0
+          ]
+        ]
+      ],
+      "sourceOutline": [
+        [
+          297,
+          515
+        ],
+        [
+          391,
+          537
+        ],
+        [
+          372,
+          652
+        ],
+        [
+          275,
+          630
+        ]
+      ],
+      "audit": {
+        "placement": "规划图配准定位",
+        "reviewed": true
+      },
+      "detailRevision": "dining-photo-2",
+      "storeyHeight": 0.1,
+      "collisionFootprints": [],
+      "walkSurfaces": []
     }
   ],
   "boundary": [
@@ -29193,5 +30260,12 @@
         -72.1928
       ]
     ]
+  },
+  "diningReference": {
+    "revision": "dining-photo-2",
+    "video": "DJI_0429.MP4",
+    "plan": "素材/平面图2.jpg",
+    "scaleNote": "大饭堂约38×18m，高10.4m；两个高层高空间各有上下窗带。其余尺寸是照片比例估算。",
+    "courtyardGap": 18.5
   }
 }
