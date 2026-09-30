@@ -18,7 +18,7 @@ import {join,relative,resolve,isAbsolute} from 'node:path';
 import {fileURLToPath} from 'node:url';
 
 const STATIC_FILES=['index.html','favicon.svg','scene-manifest.json','static-build.json','robots.txt','manifest.webmanifest'];
-const STATIC_DIRS=['assets','data','fonts','models','photos','textures'];
+const STATIC_DIRS=['assets','data','editor-previews','fonts','models','photos','textures'];
 const SECRET_OR_SOURCE_DIRS=new Set(['.git','.github','node_modules','scripts','docs','supabase','.tools']);
 
 export function stableStringify(value){
