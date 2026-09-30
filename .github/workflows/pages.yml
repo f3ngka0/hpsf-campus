@@ -1,0 +1,58 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the static site commit
+        uses: actions/checkout@v4
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Stamp and validate the published scene
+        run: node scripts/deployment-sync.mjs prepare --commit "$GITHUB_SHA"
+
+      - name: Assemble the public site artifact
+        run: node scripts/deployment-sync.mjs stage-site --output .pages-site
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .pages-site
+
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      # This step runs only after deploy-pages completed successfully. The helper
+      # waits for the public CDN to return this commit's manifest before it calls
+      # the secret-protected Supabase Edge Function. With both secrets absent it
+      # leaves the Pages deployment successful and skips synchronization.
+      - name: Synchronize the deployed revision with Supabase
+        run: node scripts/deployment-sync.mjs notify --site-url "${{ steps.deployment.outputs.page_url }}"
+        env:
+          SUPABASE_DEPLOYMENT_SYNC_URL: ${{ secrets.SUPABASE_DEPLOYMENT_SYNC_URL }}
+          DEPLOYMENT_SECRET: ${{ secrets.DEPLOYMENT_SECRET }}

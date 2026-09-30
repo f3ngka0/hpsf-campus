@@ -21460,6 +21460,9 @@
   ],
   "lotusBeds": [
     {
+      "id": "lotus-bed-pond-1",
+      "legacyId": "lotus-bed-1",
+      "name": "东坡湖荷花床 1",
       "polygon": [
         [
           -132.8263,
@@ -21623,6 +21626,23 @@
     }
   ],
   "pavilionLandscape": {
+    "shrubEntities": {
+      "[-145.6574,94.5625]": {
+        "id": "shrub-pavilion-1",
+        "legacyId": "surroundings-shrub-1",
+        "name": "景观灌木 1"
+      },
+      "[-141.5574,86.8625]": {
+        "id": "shrub-pavilion-2",
+        "legacyId": "surroundings-shrub-2",
+        "name": "景观灌木 2"
+      },
+      "[-158.5574,98.0625]": {
+        "id": "shrub-pavilion-3",
+        "legacyId": "surroundings-shrub-3",
+        "name": "景观灌木 3"
+      }
+    },
     "source": "东坡亭正面照片，植物与苏轼坐像作简化还原，尺度估计",
     "statuePosition": [
       -143.0574,
@@ -33835,6 +33855,23 @@
     "dimensionsEstimated": true
   },
   "gateApproach": {
+    "lampEntities": {
+      "150.2581,-82.7928": {
+        "id": "lamp-gate-1",
+        "legacyId": "gate-lamp-1",
+        "name": "校门路灯 1"
+      },
+      "129.7581,-82.7928": {
+        "id": "lamp-gate-2",
+        "legacyId": "gate-lamp-2",
+        "name": "校门路灯 2"
+      },
+      "129.7581,-72.1928": {
+        "id": "lamp-gate-3",
+        "legacyId": "gate-lamp-3",
+        "name": "校门路灯 3"
+      }
+    },
     "revision": 3,
     "reference": "DJI_0278.MP4 final frames",
     "dimensionsEstimated": true,

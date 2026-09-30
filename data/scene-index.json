@@ -1,0 +1,5574 @@
+{
+  "schemaVersion": 1,
+  "layoutHash": "08d637080fe9cc8a951d0d8ae2f973127b3216530434f6627274f22788912745",
+  "entities": {
+    "plant-001": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-001",
+        "position": [
+          83.9527,
+          -198.0514
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-002": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-002",
+        "position": [
+          92.2893,
+          -199.9884
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.95
+      }
+    },
+    "plant-003": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-003",
+        "position": [
+          75.2645,
+          -194.3491
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.86
+      }
+    },
+    "plant-004": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-004",
+        "position": [
+          102.9041,
+          -200.5482
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-005": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-005",
+        "position": [
+          112.7934,
+          -200.9052
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.14
+      }
+    },
+    "plant-006": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-006",
+        "position": [
+          84.5998,
+          -189.9355
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.14
+      }
+    },
+    "plant-007": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-007",
+        "position": [
+          122.7539,
+          -201.1834
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.047
+      }
+    },
+    "plant-008": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-008",
+        "position": [
+          132.2458,
+          -201.4321
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.859
+      }
+    },
+    "plant-009": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-009",
+        "position": [
+          137.2394,
+          -197.9355
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.86
+      }
+    },
+    "plant-010": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-010",
+        "position": [
+          94.3725,
+          -175.8211
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.139
+      }
+    },
+    "plant-011": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-011",
+        "position": [
+          137.7157,
+          -187.5859
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.86
+      }
+    },
+    "plant-012": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-012",
+        "position": [
+          129.2576,
+          -178.479
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-013": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-013",
+        "position": [
+          136.5408,
+          -178.1599
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.33
+      }
+    },
+    "plant-014": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-014",
+        "position": [
+          129.3299,
+          -172.446
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.14
+      }
+    },
+    "plant-015": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-015",
+        "position": [
+          109.6783,
+          -162.9526
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.05
+      }
+    },
+    "plant-018": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-018",
+        "position": [
+          118.764,
+          -163.3079
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.14
+      }
+    },
+    "plant-019": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-019",
+        "position": [
+          -116.3333,
+          -89.988
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 0.638
+      }
+    },
+    "plant-020": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-020",
+        "position": [
+          94.6621,
+          -155.5917
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.6
+      }
+    },
+    "plant-021": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-021",
+        "position": [
+          -128.7972,
+          -85.2491
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 0.667
+      }
+    },
+    "plant-024": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-024",
+        "position": [
+          137.2375,
+          -166.2543
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-025": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-025",
+        "position": [
+          128.2725,
+          -163.3908
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.33
+      }
+    },
+    "plant-027": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-027",
+        "position": [
+          -159.8507,
+          -73.1863
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 0.61
+      }
+    },
+    "plant-028": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-028",
+        "position": [
+          -168.239,
+          -70.0439
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 0.822
+      }
+    },
+    "plant-029": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-029",
+        "position": [
+          -177.1592,
+          -66.8756
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 0.903
+      }
+    },
+    "plant-030": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-030",
+        "position": [
+          107.1564,
+          -155.3689
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.05
+      }
+    },
+    "plant-031": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-031",
+        "position": [
+          -185.5598,
+          -63.7604
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.089
+      }
+    },
+    "plant-033": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-033",
+        "position": [
+          -194.3254,
+          -60.5199
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.25
+      }
+    },
+    "plant-035": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-035",
+        "position": [
+          -214.9496,
+          -53.1177
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 0.473
+      }
+    },
+    "plant-037": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-037",
+        "position": [
+          -229.5174,
+          -47.8748
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 0.377
+      }
+    },
+    "plant-038": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-038",
+        "position": [
+          -237.5172,
+          -45.0944
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 0.618
+      }
+    },
+    "plant-039": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-039",
+        "position": [
+          -242.2631,
+          -43.3552
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 0.836
+      }
+    },
+    "plant-040": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-040",
+        "position": [
+          -249.2745,
+          -40.6574
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.25
+      }
+    },
+    "plant-041": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-041",
+        "position": [
+          -256.6066,
+          -38.1783
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.4
+      }
+    },
+    "plant-042": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-042",
+        "position": [
+          -263.5077,
+          -35.4255
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.4
+      }
+    },
+    "plant-043": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-043",
+        "position": [
+          128.2494,
+          -156.3914
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.25
+      }
+    },
+    "plant-044": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "阔叶树 plant-044",
+        "position": [
+          -102.5746,
+          -83.1206
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-045": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "阔叶树 plant-045",
+        "position": [
+          -87.9444,
+          -87.2908
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-046": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "阔叶树 plant-046",
+        "position": [
+          -115.3701,
+          -76.8015
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-047": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-047",
+        "position": [
+          -130.7376,
+          -71.2316
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.79
+      }
+    },
+    "plant-048": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-048",
+        "position": [
+          -148.0156,
+          -64.9849
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.7
+      }
+    },
+    "plant-049": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-049",
+        "position": [
+          93.4357,
+          -140.1679
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.723
+      }
+    },
+    "plant-050": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-050",
+        "position": [
+          106.5043,
+          -143.3656
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.719
+      }
+    },
+    "plant-051": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-051",
+        "position": [
+          -164.3604,
+          -58.6986
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.7
+      }
+    },
+    "plant-052": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-052",
+        "position": [
+          -180.3599,
+          -52.788
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.6
+      }
+    },
+    "plant-053": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-053",
+        "position": [
+          -192.2637,
+          -48.5463
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.7
+      }
+    },
+    "plant-054": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-054",
+        "position": [
+          137.5895,
+          -150.4284
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-055": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-055",
+        "position": [
+          -249.3726,
+          -29.581
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.14
+      }
+    },
+    "plant-056": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-056",
+        "position": [
+          -208.0827,
+          -42.2684
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.7
+      }
+    },
+    "plant-057": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-057",
+        "position": [
+          -222.8482,
+          -37.1737
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.6
+      }
+    },
+    "plant-058": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-058",
+        "position": [
+          -235.7875,
+          -32.1157
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.88
+      }
+    },
+    "plant-059": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-059",
+        "position": [
+          138.2255,
+          -144.3689
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-060": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "阔叶树 plant-060",
+        "position": [
+          -103.23,
+          -67.7584
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-061": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-061",
+        "position": [
+          -249.7025,
+          -21.7321
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.14
+      }
+    },
+    "plant-062": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-062",
+        "position": [
+          106.4032,
+          -131.4019
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 0.772
+      }
+    },
+    "plant-063": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "阔叶树 plant-063",
+        "position": [
+          -114.7655,
+          -59.8885
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-064": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-064",
+        "position": [
+          93.1516,
+          -122.6163
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-065": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-065",
+        "position": [
+          -128.521,
+          -47.7317
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.05
+      }
+    },
+    "plant-066": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-066",
+        "position": [
+          -139.8994,
+          -43.1251
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.05
+      }
+    },
+    "plant-067": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-067",
+        "position": [
+          -151.8106,
+          -39.1065
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.14
+      }
+    },
+    "plant-068": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-068",
+        "position": [
+          138.9479,
+          -129.2997
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.595
+      }
+    },
+    "plant-069": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-069",
+        "position": [
+          -163.6712,
+          -34.6761
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.05
+      }
+    },
+    "plant-070": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-070",
+        "position": [
+          -204.7712,
+          -19.2069
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.05
+      }
+    },
+    "plant-071": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-071",
+        "position": [
+          -215.6617,
+          -15.3042
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.05
+      }
+    },
+    "plant-072": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-072",
+        "position": [
+          -226.9892,
+          -11.3081
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.05
+      }
+    },
+    "plant-073": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-073",
+        "position": [
+          -238.7766,
+          -6.6557
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.95
+      }
+    },
+    "plant-074": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "阔叶树 plant-074",
+        "position": [
+          -117.4586,
+          -42.3366
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-075": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-075",
+        "position": [
+          94.578,
+          -108.33
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.51
+      }
+    },
+    "plant-076": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "阔叶树 plant-076",
+        "position": [
+          -102.8284,
+          -46.5067
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-077": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-077",
+        "position": [
+          139.9904,
+          -120.5878
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.05
+      }
+    },
+    "plant-078": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-078",
+        "position": [
+          -173.0183,
+          -17.857
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.42
+      }
+    },
+    "plant-079": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-079",
+        "position": [
+          -182.6173,
+          -10.2058
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.77
+      }
+    },
+    "plant-080": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-080",
+        "position": [
+          -91.4272,
+          -38.3021
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.95
+      }
+    },
+    "plant-081": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-081",
+        "position": [
+          140.8443,
+          -110.4606
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.33
+      }
+    },
+    "plant-082": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-082",
+        "position": [
+          -77.1622,
+          -37.8188
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.05
+      }
+    },
+    "plant-083": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-083",
+        "position": [
+          96.0048,
+          -89.8383
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.6
+      }
+    },
+    "plant-084": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "阔叶树 plant-084",
+        "position": [
+          -103.5533,
+          -27.6247
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-085": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-085",
+        "position": [
+          -62.2548,
+          -38.0175
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.86
+      }
+    },
+    "plant-086": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-086",
+        "position": [
+          141.9262,
+          -99.289
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.14
+      }
+    },
+    "plant-087": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "阔叶树 plant-087",
+        "position": [
+          -121.8408,
+          -16.4849
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-088": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-088",
+        "position": [
+          -91.6225,
+          -23.9576
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.77
+      }
+    },
+    "plant-089": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-089",
+        "position": [
+          -46.0302,
+          -38.0165
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.95
+      }
+    },
+    "plant-090": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-090",
+        "position": [
+          112.9738,
+          -86.987
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-091": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-091",
+        "position": [
+          121.6312,
+          -87.4575
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-092": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-092",
+        "position": [
+          -27.2655,
+          -38.255
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.86
+      }
+    },
+    "plant-093": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-093",
+        "position": [
+          131.7653,
+          -87.6652
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.14
+      }
+    },
+    "plant-094": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-094",
+        "position": [
+          142.1243,
+          -88.9847
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.14
+      }
+    },
+    "plant-095": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "阔叶树 plant-095",
+        "position": [
+          -103.2389,
+          -7.9004
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-096": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-096",
+        "position": [
+          -91.5956,
+          -8.1509
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.05
+      }
+    },
+    "plant-097": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-097",
+        "position": [
+          18.8295,
+          -34.0267
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.4
+      }
+    },
+    "plant-102": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-102",
+        "position": [
+          81.6525,
+          -52.0254
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-103": {
+      "type": "prop",
+      "model": "conifer",
+      "base_state": {
+        "kind": "conifer",
+        "name": "针叶树 plant-103",
+        "position": [
+          -8.8179,
+          -34.0267
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 12,
+        "crownRadius": 1.67
+      }
+    },
+    "plant-104": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "阔叶树 plant-104",
+        "position": [
+          -105.6881,
+          9.1871
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-107": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-107",
+        "position": [
+          77.0797,
+          -44.4399
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-110": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-110",
+        "position": [
+          80.8969,
+          -36.2622
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-111": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-111",
+        "position": [
+          -101.4796,
+          23.6131
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.88
+      }
+    },
+    "plant-112": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-112",
+        "position": [
+          -112.2563,
+          27.5075
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.88
+      }
+    },
+    "plant-116": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-116",
+        "position": [
+          81.2005,
+          -27.3899
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-119": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-119",
+        "position": [
+          -65.5921,
+          21.0826
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.7
+      }
+    },
+    "plant-120": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-120",
+        "position": [
+          -91.2814,
+          30.1251
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 3.07
+      }
+    },
+    "plant-121": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-121",
+        "position": [
+          -104.9079,
+          34.612
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 3.16
+      }
+    },
+    "plant-122": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-122",
+        "position": [
+          -55.9403,
+          20.862
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.98
+      }
+    },
+    "plant-123": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 plant-123",
+        "position": [
+          -7.1632,
+          5.7254
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 15,
+        "crownRadius": 2.88
+      }
+    },
+    "plant-124": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 plant-124",
+        "position": [
+          0.9252,
+          4.7131
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 15,
+        "crownRadius": 1.25
+      }
+    },
+    "plant-125": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-125",
+        "position": [
+          80.8114,
+          -18.8459
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-126": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-126",
+        "position": [
+          -41.5274,
+          19.3366
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 3.07
+      }
+    },
+    "plant-127": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-127",
+        "position": [
+          -67.168,
+          27.4505
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 3.07
+      }
+    },
+    "plant-128": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-128",
+        "position": [
+          44.8381,
+          -7.4308
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.25
+      }
+    },
+    "plant-129": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-129",
+        "position": [
+          31.6405,
+          -3.0503
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.25
+      }
+    },
+    "plant-130": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 plant-130",
+        "position": [
+          12.281,
+          4.3619
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 15,
+        "crownRadius": 3.44
+      }
+    },
+    "plant-131": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-131",
+        "position": [
+          -76.4409,
+          32.5437
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.98
+      }
+    },
+    "plant-132": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-132",
+        "position": [
+          53.1452,
+          -7.5162
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.25
+      }
+    },
+    "plant-134": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-134",
+        "position": [
+          39.9239,
+          -3.0622
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.25
+      }
+    },
+    "plant-135": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 plant-135",
+        "position": [
+          23.3492,
+          2.4134
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 15,
+        "crownRadius": 2.14
+      }
+    },
+    "plant-136": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-136",
+        "position": [
+          -91.5004,
+          38.4799
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.7
+      }
+    },
+    "plant-137": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-137",
+        "position": [
+          -100.5805,
+          42.0711
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.6
+      }
+    },
+    "plant-138": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-138",
+        "position": [
+          61.0629,
+          -7.4802
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.25
+      }
+    },
+    "plant-139": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-139",
+        "position": [
+          -7.5812,
+          14.0645
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.88
+      }
+    },
+    "plant-140": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-140",
+        "position": [
+          47.9493,
+          -3.0792
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.25
+      }
+    },
+    "plant-141": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-141",
+        "position": [
+          -107.9795,
+          45.5465
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.7
+      }
+    },
+    "plant-142": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-142",
+        "position": [
+          -52.0552,
+          29.3333
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 3.6
+      }
+    },
+    "plant-143": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-143",
+        "position": [
+          80.3441,
+          -10.9772
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.42
+      }
+    },
+    "plant-144": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-144",
+        "position": [
+          -76.6676,
+          39.4512
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.88
+      }
+    },
+    "plant-145": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-145",
+        "position": [
+          76.3161,
+          -7.8798
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.25
+      }
+    },
+    "plant-146": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-146",
+        "position": [
+          -247.0537,
+          93.2035
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.95
+      }
+    },
+    "plant-147": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-147",
+        "position": [
+          11.8752,
+          13.152
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 3.16
+      }
+    },
+    "plant-149": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-149",
+        "position": [
+          -238.4678,
+          92.9418
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 0.785
+      }
+    },
+    "plant-150": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-150",
+        "position": [
+          -31.1062,
+          28.5232
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 3.6
+      }
+    },
+    "plant-151": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-151",
+        "position": [
+          -60.4298,
+          38.5465
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.88
+      }
+    },
+    "plant-152": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-152",
+        "position": [
+          -43.9978,
+          33.6363
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 3.44
+      }
+    },
+    "plant-153": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-153",
+        "position": [
+          23.3042,
+          12.8985
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.14
+      }
+    },
+    "plant-154": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-154",
+        "position": [
+          76.2881,
+          -3.0669
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.25
+      }
+    },
+    "plant-155": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-155",
+        "position": [
+          -102.1053,
+          53.5185
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.79
+      }
+    },
+    "plant-156": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-156",
+        "position": [
+          -6.3601,
+          24.3611
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 3.6
+      }
+    },
+    "plant-157": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-157",
+        "position": [
+          5.4311,
+          20.8541
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.3
+      }
+    },
+    "plant-158": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-158",
+        "position": [
+          84.3772,
+          -3.2165
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.25
+      }
+    },
+    "plant-159": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-159",
+        "position": [
+          11.6391,
+          21.7882
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.7
+      }
+    },
+    "plant-161": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-161",
+        "position": [
+          -39.8449,
+          39.836
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.7
+      }
+    },
+    "plant-163": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-163",
+        "position": [
+          23.4511,
+          22.0411
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.05
+      }
+    },
+    "plant-164": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-164",
+        "position": [
+          7.2367,
+          27.2761
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.49
+      }
+    },
+    "plant-165": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-165",
+        "position": [
+          -28.3229,
+          39.8566
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.7
+      }
+    },
+    "plant-167": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-167",
+        "position": [
+          53.7601,
+          15.4927
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.77
+      }
+    },
+    "plant-169": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-169",
+        "position": [
+          65.8245,
+          15.4454
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.86
+      }
+    },
+    "plant-173": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-173",
+        "position": [
+          -16.3547,
+          51.6902
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.77
+      }
+    },
+    "plant-174": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-174",
+        "position": [
+          -241.2869,
+          122.6171
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.473
+      }
+    },
+    "plant-175": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-175",
+        "position": [
+          -47.8754,
+          63.5291
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.77
+      }
+    },
+    "plant-176": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-176",
+        "position": [
+          -9.562,
+          52.0068
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.77
+      }
+    },
+    "plant-177": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-177",
+        "position": [
+          -230.7532,
+          121.1617
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.265
+      }
+    },
+    "plant-178": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "阔叶树 plant-178",
+        "position": [
+          39.3378,
+          38.2353
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-179": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-179",
+        "position": [
+          -219.2819,
+          119.5735
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.036
+      }
+    },
+    "plant-180": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-180",
+        "position": [
+          -2.8078,
+          52.3743
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.77
+      }
+    },
+    "plant-181": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-181",
+        "position": [
+          -128.9038,
+          91.8748
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.67
+      }
+    },
+    "plant-182": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-182",
+        "position": [
+          -209.8418,
+          118.1245
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 0.724
+      }
+    },
+    "plant-183": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "阔叶树 plant-183",
+        "position": [
+          49.6723,
+          37.7359
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-184": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-184",
+        "position": [
+          7.4557,
+          52.3829
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.77
+      }
+    },
+    "plant-186": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "阔叶树 plant-186",
+        "position": [
+          57.284,
+          38.4737
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-187": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-187",
+        "position": [
+          -48.1773,
+          71.5678
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.86
+      }
+    },
+    "plant-188": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-188",
+        "position": [
+          15.1411,
+          52.2348
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.86
+      }
+    },
+    "plant-190": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "阔叶树 plant-190",
+        "position": [
+          66.5561,
+          38.3053
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-191": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-191",
+        "position": [
+          22.2316,
+          52.4469
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.77
+      }
+    },
+    "plant-192": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-192",
+        "position": [
+          -241.1226,
+          135.023
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.14
+      }
+    },
+    "plant-193": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-193",
+        "position": [
+          -231.2793,
+          133.534
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-194": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "阔叶树 plant-194",
+        "position": [
+          75.4741,
+          38.2474
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-195": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-195",
+        "position": [
+          -219.6167,
+          131.8862
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.14
+      }
+    },
+    "plant-196": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "阔叶树 plant-196",
+        "position": [
+          84.1715,
+          37.4808
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-197": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-197",
+        "position": [
+          -1.0231,
+          64.1939
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.67
+      }
+    },
+    "plant-198": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-198",
+        "position": [
+          -48.2889,
+          79.7183
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.67
+      }
+    },
+    "plant-199": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-199",
+        "position": [
+          -207.8128,
+          130.0932
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.14
+      }
+    },
+    "plant-200": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-200",
+        "position": [
+          -196.4189,
+          128.0316
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.14
+      }
+    },
+    "plant-202": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-202",
+        "position": [
+          7.9035,
+          64.5258
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.95
+      }
+    },
+    "plant-204": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-204",
+        "position": [
+          -1.1152,
+          72.6065
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.58
+      }
+    },
+    "plant-205": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-205",
+        "position": [
+          -46.4469,
+          89.9381
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-206": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-206",
+        "position": [
+          7.8061,
+          73.6824
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.86
+      }
+    },
+    "plant-207": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-207",
+        "position": [
+          -36.2637,
+          90.3877
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.42
+      }
+    },
+    "plant-209": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-209",
+        "position": [
+          -1.0064,
+          81.2403
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.86
+      }
+    },
+    "plant-211": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-211",
+        "position": [
+          -59.7343,
+          102.2018
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.95
+      }
+    },
+    "plant-212": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-212",
+        "position": [
+          7.6519,
+          82.4448
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.77
+      }
+    },
+    "plant-213": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-213",
+        "position": [
+          -14.2438,
+          91.0825
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.51
+      }
+    },
+    "plant-214": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-214",
+        "position": [
+          -47.5934,
+          103.0248
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.05
+      }
+    },
+    "plant-215": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-215",
+        "position": [
+          -2.1994,
+          90.1476
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-216": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-216",
+        "position": [
+          -34.4114,
+          103.2979
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.77
+      }
+    },
+    "plant-218": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-218",
+        "position": [
+          9.4607,
+          90.786
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-220": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-220",
+        "position": [
+          21.6921,
+          91.6119
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.42
+      }
+    },
+    "plant-221": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-221",
+        "position": [
+          33.209,
+          91.9647
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.51
+      }
+    },
+    "plant-222": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-222",
+        "position": [
+          -5.8713,
+          104.1572
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.86
+      }
+    },
+    "plant-223": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-223",
+        "position": [
+          11.1748,
+          101.1313
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.86
+      }
+    },
+    "plant-224": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-224",
+        "position": [
+          -50.966,
+          121.1273
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.42
+      }
+    },
+    "plant-225": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-225",
+        "position": [
+          45.4875,
+          91.8313
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.33
+      }
+    },
+    "plant-227": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-227",
+        "position": [
+          20.9823,
+          101.422
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.05
+      }
+    },
+    "plant-229": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-229",
+        "position": [
+          59.3973,
+          92.0954
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.42
+      }
+    },
+    "plant-230": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-230",
+        "position": [
+          29.7961,
+          101.7658
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.05
+      }
+    },
+    "plant-232": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-232",
+        "position": [
+          9.629,
+          110.3779
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.86
+      }
+    },
+    "plant-233": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-233",
+        "position": [
+          -19.9181,
+          120.2336
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.4
+      }
+    },
+    "plant-234": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-234",
+        "position": [
+          39.6048,
+          101.9979
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.95
+      }
+    },
+    "plant-235": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-235",
+        "position": [
+          72.8521,
+          91.9338
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.42
+      }
+    },
+    "plant-236": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-236",
+        "position": [
+          -12.0432,
+          119.9331
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.49
+      }
+    },
+    "plant-237": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-237",
+        "position": [
+          49.8016,
+          102.2411
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.95
+      }
+    },
+    "plant-238": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-238",
+        "position": [
+          86.8099,
+          91.6154
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.33
+      }
+    },
+    "plant-239": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-239",
+        "position": [
+          -4.1632,
+          120.0354
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.3
+      }
+    },
+    "plant-240": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-240",
+        "position": [
+          -45.7644,
+          135.0618
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.14
+      }
+    },
+    "plant-241": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-241",
+        "position": [
+          60.4018,
+          102.2576
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.95
+      }
+    },
+    "plant-242": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-242",
+        "position": [
+          8.4521,
+          118.8877
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.86
+      }
+    },
+    "plant-244": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-244",
+        "position": [
+          97.9678,
+          92.9235
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-245": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-245",
+        "position": [
+          71.9753,
+          102.243
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.95
+      }
+    },
+    "plant-246": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-246",
+        "position": [
+          -15.8217,
+          130.3069
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.49
+      }
+    },
+    "plant-247": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-247",
+        "position": [
+          19.9417,
+          120.0263
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.77
+      }
+    },
+    "plant-248": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-248",
+        "position": [
+          86.287,
+          102.0631
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.95
+      }
+    },
+    "plant-249": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-249",
+        "position": [
+          32.2918,
+          120.0107
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.86
+      }
+    },
+    "plant-250": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-250",
+        "position": [
+          0.7124,
+          132.9359
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.127
+      }
+    },
+    "plant-251": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-251",
+        "position": [
+          -40.5637,
+          149.3426
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.6
+      }
+    },
+    "plant-252": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-252",
+        "position": [
+          57.622,
+          121.4778
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.05
+      }
+    },
+    "plant-253": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-253",
+        "position": [
+          0.1332,
+          141.8107
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.49
+      }
+    },
+    "plant-254": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-254",
+        "position": [
+          69.5782,
+          120.6832
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.86
+      }
+    },
+    "plant-255": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-255",
+        "position": [
+          -26.6887,
+          150.7058
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-256": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-256",
+        "position": [
+          -4.0148,
+          150.9173
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.4
+      }
+    },
+    "plant-257": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-257",
+        "position": [
+          -20.9813,
+          161.3734
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 2.23
+      }
+    },
+    "plant-258": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-258",
+        "position": [
+          -4.0523,
+          160.5413
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.58
+      }
+    },
+    "plant-259": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-259",
+        "position": [
+          11.3526,
+          160.2541
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 3.6
+      }
+    },
+    "plant-260": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-260",
+        "position": [
+          -19.5531,
+          173.658
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.948
+      }
+    },
+    "plant-261": {
+      "type": "prop",
+      "model": "broadleaf",
+      "base_state": {
+        "kind": "broadleaf",
+        "name": "阔叶树 plant-261",
+        "position": [
+          -4.1714,
+          169.4289
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.8,
+        "crownRadius": 1.49
+      }
+    },
+    "avenue-palm-00--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-00--1",
+        "position": [
+          92.5,
+          -57
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 17.2,
+        "crownRadius": 2.55
+      }
+    },
+    "avenue-palm-00-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-00-1",
+        "position": [
+          101.1,
+          -57
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 17.2,
+        "crownRadius": 2.55
+      }
+    },
+    "avenue-palm-01--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-01--1",
+        "position": [
+          92.5,
+          -48.7
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 17.68,
+        "crownRadius": 2.67
+      }
+    },
+    "avenue-palm-01-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-01-1",
+        "position": [
+          101.1,
+          -48.7
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 17.68,
+        "crownRadius": 2.67
+      }
+    },
+    "avenue-palm-02--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-02--1",
+        "position": [
+          92.5,
+          -40.4
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 18.16,
+        "crownRadius": 2.79
+      }
+    },
+    "avenue-palm-02-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-02-1",
+        "position": [
+          101.1,
+          -40.4
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 18.16,
+        "crownRadius": 2.79
+      }
+    },
+    "avenue-palm-03--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-03--1",
+        "position": [
+          92.5,
+          -32.099999999999994
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 18.64,
+        "crownRadius": 2.55
+      }
+    },
+    "avenue-palm-03-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-03-1",
+        "position": [
+          101.1,
+          -32.099999999999994
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 18.64,
+        "crownRadius": 2.55
+      }
+    },
+    "avenue-palm-04--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-04--1",
+        "position": [
+          92.5,
+          -23.799999999999997
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 19.119999999999997,
+        "crownRadius": 2.67
+      }
+    },
+    "avenue-palm-04-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-04-1",
+        "position": [
+          101.1,
+          -23.799999999999997
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 19.119999999999997,
+        "crownRadius": 2.67
+      }
+    },
+    "avenue-palm-05--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-05--1",
+        "position": [
+          92.5,
+          -15.5
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 17.2,
+        "crownRadius": 2.79
+      }
+    },
+    "avenue-palm-05-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-05-1",
+        "position": [
+          101.1,
+          -15.5
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 17.2,
+        "crownRadius": 2.79
+      }
+    },
+    "avenue-palm-06--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-06--1",
+        "position": [
+          92.5,
+          -7.199999999999996
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 17.68,
+        "crownRadius": 2.55
+      }
+    },
+    "avenue-palm-06-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-06-1",
+        "position": [
+          101.1,
+          -7.199999999999996
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 17.68,
+        "crownRadius": 2.55
+      }
+    },
+    "avenue-palm-07--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-07--1",
+        "position": [
+          92.5,
+          1.1000000000000085
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 18.16,
+        "crownRadius": 2.67
+      }
+    },
+    "avenue-palm-07-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-07-1",
+        "position": [
+          101.1,
+          1.1000000000000085
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 18.16,
+        "crownRadius": 2.67
+      }
+    },
+    "avenue-palm-08--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-08--1",
+        "position": [
+          92.5,
+          9.400000000000006
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 18.64,
+        "crownRadius": 2.79
+      }
+    },
+    "avenue-palm-08-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-08-1",
+        "position": [
+          101.1,
+          9.400000000000006
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 18.64,
+        "crownRadius": 2.79
+      }
+    },
+    "avenue-palm-09--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-09--1",
+        "position": [
+          92.5,
+          17.700000000000003
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 19.119999999999997,
+        "crownRadius": 2.55
+      }
+    },
+    "avenue-palm-09-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-09-1",
+        "position": [
+          101.1,
+          17.700000000000003
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 19.119999999999997,
+        "crownRadius": 2.55
+      }
+    },
+    "avenue-palm-10--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-10--1",
+        "position": [
+          92.5,
+          26
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 17.2,
+        "crownRadius": 2.67
+      }
+    },
+    "avenue-palm-10-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-10-1",
+        "position": [
+          101.1,
+          26
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 17.2,
+        "crownRadius": 2.67
+      }
+    },
+    "avenue-palm-11--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-11--1",
+        "position": [
+          92.5,
+          34.30000000000001
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 17.68,
+        "crownRadius": 2.79
+      }
+    },
+    "avenue-palm-11-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-11-1",
+        "position": [
+          101.1,
+          34.30000000000001
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 17.68,
+        "crownRadius": 2.79
+      }
+    },
+    "avenue-palm-12--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-12--1",
+        "position": [
+          92.5,
+          42.60000000000001
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 18.16,
+        "crownRadius": 2.55
+      }
+    },
+    "avenue-palm-12-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-12-1",
+        "position": [
+          101.1,
+          42.60000000000001
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 18.16,
+        "crownRadius": 2.55
+      }
+    },
+    "avenue-palm-13--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-13--1",
+        "position": [
+          92.5,
+          50.900000000000006
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 18.64,
+        "crownRadius": 2.67
+      }
+    },
+    "avenue-palm-13-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-13-1",
+        "position": [
+          101.1,
+          50.900000000000006
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 18.64,
+        "crownRadius": 2.67
+      }
+    },
+    "avenue-palm-14--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-14--1",
+        "position": [
+          92.5,
+          59.20000000000002
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 19.119999999999997,
+        "crownRadius": 2.79
+      }
+    },
+    "avenue-palm-14-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-14-1",
+        "position": [
+          101.1,
+          59.20000000000002
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 19.119999999999997,
+        "crownRadius": 2.79
+      }
+    },
+    "avenue-palm-15--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-15--1",
+        "position": [
+          92.5,
+          67.50000000000001
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 17.2,
+        "crownRadius": 2.55
+      }
+    },
+    "avenue-palm-15-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-15-1",
+        "position": [
+          101.1,
+          67.50000000000001
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 17.2,
+        "crownRadius": 2.55
+      }
+    },
+    "avenue-palm-16--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-16--1",
+        "position": [
+          92.5,
+          75.80000000000001
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 17.68,
+        "crownRadius": 2.67
+      }
+    },
+    "avenue-palm-16-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 avenue-palm-16-1",
+        "position": [
+          101.1,
+          75.80000000000001
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 17.68,
+        "crownRadius": 2.67
+      }
+    },
+    "gate-reference-palm-0--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 gate-reference-palm-0--1",
+        "position": [
+          147.7581,
+          -82.2928
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 15.2,
+        "crownRadius": 2.5
+      }
+    },
+    "gate-reference-palm-0-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 gate-reference-palm-0-1",
+        "position": [
+          147.7581,
+          -72.6928
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 15.2,
+        "crownRadius": 2.5
+      }
+    },
+    "gate-reference-palm-1--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 gate-reference-palm-1--1",
+        "position": [
+          135.7581,
+          -82.2928
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 15.85,
+        "crownRadius": 2.5
+      }
+    },
+    "gate-reference-palm-1-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 gate-reference-palm-1-1",
+        "position": [
+          135.7581,
+          -72.6928
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 15.85,
+        "crownRadius": 2.5
+      }
+    },
+    "gate-reference-palm-2--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 gate-reference-palm-2--1",
+        "position": [
+          123.7581,
+          -82.2928
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 16.5,
+        "crownRadius": 2.5
+      }
+    },
+    "gate-reference-palm-2-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 gate-reference-palm-2-1",
+        "position": [
+          123.7581,
+          -72.6928
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 16.5,
+        "crownRadius": 2.5
+      }
+    },
+    "gate-reference-palm-3--1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 gate-reference-palm-3--1",
+        "position": [
+          111.7581,
+          -82.2928
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 15.2,
+        "crownRadius": 2.5
+      }
+    },
+    "gate-reference-palm-3-1": {
+      "type": "prop",
+      "model": "coconut",
+      "base_state": {
+        "kind": "coconut",
+        "name": "椰子树 gate-reference-palm-3-1",
+        "position": [
+          111.7581,
+          -72.6928
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 15.2,
+        "crownRadius": 2.5
+      }
+    },
+    "lamp-gate-1": {
+      "type": "prop",
+      "model": "lamp",
+      "base_state": {
+        "kind": "lamp",
+        "name": "校门路灯 1",
+        "position": [
+          150.2581,
+          -82.7928
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false
+      }
+    },
+    "lamp-gate-2": {
+      "type": "prop",
+      "model": "lamp",
+      "base_state": {
+        "kind": "lamp",
+        "name": "校门路灯 2",
+        "position": [
+          129.7581,
+          -82.7928
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false
+      }
+    },
+    "lamp-gate-3": {
+      "type": "prop",
+      "model": "lamp",
+      "base_state": {
+        "kind": "lamp",
+        "name": "校门路灯 3",
+        "position": [
+          129.7581,
+          -72.1928
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false
+      }
+    },
+    "lotus-bed-pond-1": {
+      "type": "prop",
+      "model": "lotus-bed",
+      "base_state": {
+        "kind": "lotus-bed",
+        "name": "东坡湖荷花床 1",
+        "position": [
+          -121.4537,
+          62.3841
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "fixedY": 0
+      }
+    },
+    "shrub-pavilion-1": {
+      "type": "prop",
+      "model": "shrub-orn",
+      "base_state": {
+        "kind": "shrub-orn",
+        "name": "景观灌木 1",
+        "position": [
+          -145.6574,
+          94.5625
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "fixedY": 0
+      }
+    },
+    "shrub-pavilion-2": {
+      "type": "prop",
+      "model": "shrub-orn",
+      "base_state": {
+        "kind": "shrub-orn",
+        "name": "景观灌木 2",
+        "position": [
+          -141.5574,
+          86.8625
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "fixedY": 0
+      }
+    },
+    "shrub-pavilion-3": {
+      "type": "prop",
+      "model": "shrub-orn",
+      "base_state": {
+        "kind": "shrub-orn",
+        "name": "景观灌木 3",
+        "position": [
+          -158.5574,
+          98.0625
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "fixedY": 0
+      }
+    },
+    "surroundings-conifer": {
+      "type": "prop",
+      "model": "conifer-orn",
+      "base_state": {
+        "kind": "conifer-orn",
+        "name": "景观松",
+        "position": [
+          -145.6574,
+          94.5625
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "fixedY": 0
+      }
+    },
+    "main": {
+      "type": "road",
+      "model": "road",
+      "base_state": {
+        "kind": "road",
+        "name": "教学区主路",
+        "width": 6,
+        "points": [
+          [
+            -20.2271,
+            -40.8143
+          ],
+          [
+            -20.2271,
+            55.8195
+          ],
+          [
+            1.8006,
+            61.2214
+          ],
+          [
+            1.8006,
+            97.234
+          ],
+          [
+            1.8006,
+            171.0599
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "cross": {
+      "type": "road",
+      "model": "road",
+      "base_state": {
+        "kind": "road",
+        "name": "教学区横路",
+        "width": 4,
+        "points": [
+          [
+            -102.6359,
+            58.8206
+          ],
+          [
+            -20.4071,
+            58.8206
+          ],
+          [
+            92.4323,
+            58.8206
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "sports": {
+      "type": "road",
+      "model": "road",
+      "base_state": {
+        "kind": "road",
+        "name": "操场南步道",
+        "width": 3,
+        "points": [
+          [
+            -94.8332,
+            -42.6149
+          ],
+          [
+            94.233,
+            -42.6149
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "gym-road": {
+      "type": "road",
+      "model": "road",
+      "base_state": {
+        "kind": "road",
+        "name": "体育馆东路",
+        "width": 3,
+        "points": [
+          [
+            30.0105,
+            -42.6149
+          ],
+          [
+            30.0105,
+            -4.2015
+          ],
+          [
+            27.0095,
+            16.8059
+          ],
+          [
+            27.0095,
+            40.8143
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "teaching": {
+      "type": "road",
+      "model": "road",
+      "base_state": {
+        "kind": "road",
+        "name": "教学楼前步道",
+        "width": 2,
+        "points": [
+          [
+            -93.6328,
+            41.4145
+          ],
+          [
+            -24.0084,
+            41.4145
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "north-access": {
+      "type": "road",
+      "model": "road",
+      "base_state": {
+        "kind": "road",
+        "name": "操场北路",
+        "width": 4,
+        "points": [
+          [
+            -88.2309,
+            -129.6454
+          ],
+          [
+            -4.8017,
+            -129.0452
+          ],
+          [
+            91.8321,
+            -130.8458
+          ],
+          [
+            105.0367,
+            -148.2519
+          ],
+          [
+            106.8374,
+            -176.4617
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "south-campus": {
+      "type": "road",
+      "model": "road",
+      "base_state": {
+        "kind": "road",
+        "name": "南院道路",
+        "width": 6,
+        "points": [
+          [
+            -57.6202,
+            100.8353
+          ],
+          [
+            -46.2162,
+            153.0536
+          ],
+          [
+            -33.0115,
+            171.6601
+          ],
+          [
+            22.808,
+            171.6601
+          ],
+          [
+            91.2319,
+            174.0609
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "east-street": {
+      "type": "road",
+      "model": "street",
+      "base_state": {
+        "kind": "street",
+        "name": "东圩路",
+        "width": 12,
+        "points": [
+          [
+            168.0588,
+            -205.2718
+          ],
+          [
+            171.6601,
+            -68.4239
+          ],
+          [
+            166.2582,
+            -25.2088
+          ],
+          [
+            147.0515,
+            106.8374
+          ],
+          [
+            133.8468,
+            191.467
+          ],
+          [
+            121.8426,
+            222.0777
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "west-street": {
+      "type": "road",
+      "model": "street",
+      "base_state": {
+        "kind": "street",
+        "name": "小北街",
+        "width": 7,
+        "points": [
+          [
+            -284.4995,
+            -64.2225
+          ],
+          [
+            -271.2949,
+            30.6107
+          ],
+          [
+            -273.6958,
+            147.6517
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "north-street": {
+      "type": "road",
+      "model": "street",
+      "base_state": {
+        "kind": "street",
+        "name": "北河路",
+        "width": 9,
+        "points": [
+          [
+            -287.5006,
+            -110.4386
+          ],
+          [
+            -154.254,
+            -153.0536
+          ],
+          [
+            69.0242,
+            -223.2781
+          ],
+          [
+            155.4544,
+            -219.0767
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "south-street": {
+      "type": "road",
+      "model": "street",
+      "base_state": {
+        "kind": "street",
+        "name": "大东门街",
+        "width": 6,
+        "points": [
+          [
+            -92.4323,
+            128.4449
+          ],
+          [
+            -53.4187,
+            184.2645
+          ],
+          [
+            18.0063,
+            200.4701
+          ],
+          [
+            123.6433,
+            210.6737
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "library-path": {
+      "type": "road",
+      "model": "bridge",
+      "base_state": {
+        "kind": "bridge",
+        "name": "图书馆湖中曲桥",
+        "width": 2,
+        "points": [
+          [
+            -191.1504,
+            -59.4065
+          ],
+          [
+            -186.6969,
+            -41.3611
+          ],
+          [
+            -181.3607,
+            -20.4812
+          ],
+          [
+            -178.3469,
+            -0.8209
+          ],
+          [
+            -175.6352,
+            10.3829
+          ],
+          [
+            -168.0119,
+            22.3883
+          ],
+          [
+            -158.6587,
+            29.968
+          ],
+          [
+            -147.7961,
+            32.4133
+          ],
+          [
+            -138.9888,
+            32.0011
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "pavilion-path": {
+      "type": "road",
+      "model": "bridge",
+      "base_state": {
+        "kind": "bridge",
+        "name": "东坡亭湖中曲桥",
+        "width": 2.4,
+        "points": [
+          [
+            -139.0992,
+            31.6468
+          ],
+          [
+            -136.2076,
+            39.6853
+          ],
+          [
+            -137.2348,
+            50.1109
+          ],
+          [
+            -145.432,
+            61.216
+          ],
+          [
+            -146.1922,
+            70.0037
+          ],
+          [
+            -142.685,
+            82.5146
+          ],
+          [
+            -138.7365,
+            96.4428
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "pond-link": {
+      "type": "road",
+      "model": "path",
+      "base_state": {
+        "kind": "path",
+        "name": "湖心亭东接步道",
+        "width": 2.3,
+        "points": [
+          [
+            -147.7961,
+            32.4133
+          ],
+          [
+            -138.9425,
+            29.6546
+          ],
+          [
+            -124.1787,
+            24.6655
+          ],
+          [
+            -103.5048,
+            17.4462
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "lake-east": {
+      "type": "road",
+      "model": "road",
+      "base_state": {
+        "kind": "road",
+        "name": "湖东灰色沿岸路",
+        "width": 4.5,
+        "points": [
+          [
+            -127.5388,
+            -78.4509
+          ],
+          [
+            -125.1636,
+            -62.0898
+          ],
+          [
+            -126.8406,
+            -42.5225
+          ],
+          [
+            -129.7544,
+            -25.6791
+          ],
+          [
+            -129.7886,
+            -12.065
+          ],
+          [
+            -123.541,
+            4.2558
+          ],
+          [
+            -120.4982,
+            16.5226
+          ],
+          [
+            -116.5729,
+            31.6238
+          ],
+          [
+            -110.633,
+            45.7086
+          ],
+          [
+            -105.355,
+            57.6678
+          ],
+          [
+            -99.9137,
+            85.1232
+          ],
+          [
+            -95.9651,
+            99.0515
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "west-pond": {
+      "type": "road",
+      "model": "path",
+      "base_state": {
+        "kind": "path",
+        "name": "食堂沿湖路",
+        "width": 3,
+        "points": [
+          [
+            -242.6161,
+            -37.5396
+          ],
+          [
+            -243.8809,
+            -9.1617
+          ],
+          [
+            -234.6319,
+            15.5515
+          ],
+          [
+            -225.9055,
+            31.0998
+          ],
+          [
+            -214.7354,
+            35.7813
+          ],
+          [
+            -208.7206,
+            40.1258
+          ],
+          [
+            -205.7995,
+            64.4793
+          ],
+          [
+            -203.3429,
+            88.589
+          ],
+          [
+            -199.6903,
+            111.5488
+          ],
+          [
+            -195.5157,
+            119.965
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "canteen-link": {
+      "type": "road",
+      "model": "path",
+      "base_state": {
+        "kind": "path",
+        "name": "饭堂至亭前桥连接路",
+        "width": 8,
+        "points": [
+          [
+            -209.9197,
+            118.623
+          ],
+          [
+            -197.7741,
+            121.446
+          ],
+          [
+            -180.9958,
+            115.4407
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "dongpo-entry": {
+      "type": "road",
+      "model": "path",
+      "base_state": {
+        "kind": "path",
+        "name": "东坡亭院内步道",
+        "width": 2.5,
+        "points": [
+          [
+            -159.9621,
+            101.8905
+          ],
+          [
+            -154.2263,
+            96.6051
+          ],
+          [
+            -152.8041,
+            89.9432
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "dongpo-forecourt": {
+      "type": "road",
+      "model": "road",
+      "base_state": {
+        "kind": "road",
+        "name": "东坡亭前灰色连接路",
+        "width": 5.5,
+        "points": [
+          [
+            -169.309,
+            111.7991
+          ],
+          [
+            -150.8934,
+            106.061
+          ],
+          [
+            -136.2399,
+            100.7177
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "lake-grove": {
+      "type": "road",
+      "model": "path",
+      "base_state": {
+        "kind": "path",
+        "name": "湖东亭院步道",
+        "width": 1.6,
+        "points": [
+          [
+            -120.3471,
+            20.7509
+          ],
+          [
+            -109.6245,
+            6.5269
+          ],
+          [
+            -113.3524,
+            -6.6924
+          ],
+          [
+            -114.4269,
+            -17.629
+          ],
+          [
+            -117.4057,
+            -27.195
+          ],
+          [
+            -104.7205,
+            -33.8684
+          ],
+          [
+            -91.9945,
+            -36.6678
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "grove-link": {
+      "type": "road",
+      "model": "path",
+      "base_state": {
+        "kind": "path",
+        "name": "亭院至第二教学楼步道",
+        "width": 1.6,
+        "points": [
+          [
+            -113.3524,
+            -6.6924
+          ],
+          [
+            -99.5694,
+            -3.6024
+          ],
+          [
+            -90.7213,
+            -0.1407
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "north": {
+      "type": "road",
+      "model": "road",
+      "base_state": {
+        "kind": "road",
+        "name": "北侧教工宿舍路",
+        "width": 4,
+        "points": [
+          [
+            -260.1894,
+            -32.841
+          ],
+          [
+            -192.236,
+            -57.9023
+          ],
+          [
+            -129.3504,
+            -81.7731
+          ],
+          [
+            -82.0057,
+            -96.9147
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "bulletin-lane": {
+      "type": "road",
+      "model": "road",
+      "base_state": {
+        "kind": "road",
+        "name": "实训楼东侧通道",
+        "width": 4.5,
+        "points": [
+          [
+            156.9881,
+            -79.2701
+          ],
+          [
+            149.2714,
+            -86.5826
+          ],
+          [
+            148.3585,
+            -105.732
+          ],
+          [
+            147.2943,
+            -129.1097
+          ],
+          [
+            145.7015,
+            -155.432
+          ]
+        ],
+        "hidden": false
+      }
+    }
+  },
+  "legacyIds": {
+    "gate-lamp-1": "lamp-gate-1",
+    "gate-lamp-2": "lamp-gate-2",
+    "gate-lamp-3": "lamp-gate-3",
+    "lotus-bed-1": "lotus-bed-pond-1",
+    "surroundings-shrub-1": "shrub-pavilion-1",
+    "surroundings-shrub-2": "shrub-pavilion-2",
+    "surroundings-shrub-3": "shrub-pavilion-3"
+  }
+}
