@@ -1,0 +1,1388 @@
+{
+  "revision": "plant-audit-photo-2026-10-03",
+  "protectedMeshes": 88,
+  "protectedGeometryUnchanged": true,
+  "originalPlantCount": 335,
+  "totalPlantCount": 350,
+  "replacedPlants": 70,
+  "addedPlants": 15,
+  "retainedPlantFaces": 1183719,
+  "removedGenericFaces": 72712,
+  "preservedPlantFacesVerified": true,
+  "preservedOriginalRoots": true,
+  "groundcoverFaces": 26288,
+  "clearanceAdjustedVertices": {
+    "plant-236": 50,
+    "plant-239": 198,
+    "plant-250": 1,
+    "plant-256": 2621,
+    "plant-049": 1414,
+    "plant-062": 255,
+    "plant-pa-teacher-east-0": 736,
+    "plant-pa-teacher-east-1": 73
+  },
+  "checks": [
+    {
+      "id": "plant-pa-library-conifer",
+      "root": [
+        -174.5,
+        -18.4
+      ],
+      "vertices": 25627,
+      "faces": 20292,
+      "lowestZ": 0.0
+    },
+    {
+      "id": "plant-pa-library-palm",
+      "root": [
+        -177.4,
+        -18.8
+      ],
+      "vertices": 4957,
+      "faces": 3554,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-pa-library-shrub-0",
+      "root": [
+        -188.0,
+        -18.4
+      ],
+      "vertices": 6438,
+      "faces": 5129,
+      "lowestZ": 0.0
+    },
+    {
+      "id": "plant-pa-library-shrub-1",
+      "root": [
+        -183.8,
+        -17.6
+      ],
+      "vertices": 6438,
+      "faces": 5129,
+      "lowestZ": 0.0
+    },
+    {
+      "id": "plant-pa-library-shrub-2",
+      "root": [
+        -174.1,
+        -14.1
+      ],
+      "vertices": 6438,
+      "faces": 5129,
+      "lowestZ": 0.0
+    },
+    {
+      "id": "plant-128",
+      "root": [
+        44.8381,
+        -7.4308
+      ],
+      "vertices": 8290,
+      "faces": 6561,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-132",
+      "root": [
+        53.1452,
+        -7.5162
+      ],
+      "vertices": 8290,
+      "faces": 6561,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-138",
+      "root": [
+        61.0629,
+        -7.4802
+      ],
+      "vertices": 8290,
+      "faces": 6561,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-143",
+      "root": [
+        80.3441,
+        -10.9772
+      ],
+      "vertices": 8290,
+      "faces": 6561,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-145",
+      "root": [
+        76.3161,
+        -7.8798
+      ],
+      "vertices": 8290,
+      "faces": 6561,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-129",
+      "root": [
+        31.6405,
+        -3.0503
+      ],
+      "vertices": 6390,
+      "faces": 5103,
+      "lowestZ": 0.025518331676721573
+    },
+    {
+      "id": "plant-134",
+      "root": [
+        39.9239,
+        -3.0622
+      ],
+      "vertices": 6390,
+      "faces": 5103,
+      "lowestZ": 0.027158252894878387
+    },
+    {
+      "id": "plant-140",
+      "root": [
+        47.9493,
+        -3.0792
+      ],
+      "vertices": 6390,
+      "faces": 5103,
+      "lowestZ": 0.027778316289186478
+    },
+    {
+      "id": "plant-154",
+      "root": [
+        76.2881,
+        -3.0669
+      ],
+      "vertices": 6390,
+      "faces": 5103,
+      "lowestZ": 0.02539723925292492
+    },
+    {
+      "id": "plant-158",
+      "root": [
+        84.3772,
+        -3.2165
+      ],
+      "vertices": 6390,
+      "faces": 5103,
+      "lowestZ": 0.027101876214146614
+    },
+    {
+      "id": "plant-pa-dorm-hedge-0",
+      "root": [
+        37.25,
+        -0.9
+      ],
+      "vertices": 3246,
+      "faces": 2596,
+      "lowestZ": 0.0
+    },
+    {
+      "id": "plant-pa-dorm-hedge-1",
+      "root": [
+        47.5,
+        -0.9
+      ],
+      "vertices": 3756,
+      "faces": 3004,
+      "lowestZ": 0.0
+    },
+    {
+      "id": "plant-pa-dorm-hedge-2",
+      "root": [
+        55.75,
+        -0.9
+      ],
+      "vertices": 1886,
+      "faces": 1508,
+      "lowestZ": 0.0
+    },
+    {
+      "id": "plant-pa-dorm-hedge-3",
+      "root": [
+        72.5,
+        -0.9
+      ],
+      "vertices": 3076,
+      "faces": 2460,
+      "lowestZ": 0.0
+    },
+    {
+      "id": "plant-pa-dorm-hedge-4",
+      "root": [
+        82.5,
+        -0.9
+      ],
+      "vertices": 3756,
+      "faces": 3004,
+      "lowestZ": 0.0
+    },
+    {
+      "id": "plant-167",
+      "root": [
+        53.7601,
+        15.4927
+      ],
+      "vertices": 6870,
+      "faces": 5345,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-169",
+      "root": [
+        65.8245,
+        15.4454
+      ],
+      "vertices": 6870,
+      "faces": 5345,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-178",
+      "root": [
+        39.3378,
+        38.2353
+      ],
+      "vertices": 4509,
+      "faces": 3294,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-183",
+      "root": [
+        49.6723,
+        37.7359
+      ],
+      "vertices": 4533,
+      "faces": 3308,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-186",
+      "root": [
+        57.284,
+        38.4737
+      ],
+      "vertices": 4557,
+      "faces": 3322,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-190",
+      "root": [
+        66.5561,
+        38.3053
+      ],
+      "vertices": 4509,
+      "faces": 3294,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-194",
+      "root": [
+        75.4741,
+        38.2474
+      ],
+      "vertices": 4533,
+      "faces": 3308,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-196",
+      "root": [
+        84.1715,
+        37.4808
+      ],
+      "vertices": 4557,
+      "faces": 3322,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-pa-dorm-clump",
+      "root": [
+        82.4,
+        35.5
+      ],
+      "vertices": 19780,
+      "faces": 14830,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-198",
+      "root": [
+        -48.2889,
+        79.7183
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-205",
+      "root": [
+        -46.4469,
+        89.9381
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-207",
+      "root": [
+        -36.2637,
+        90.3877
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-213",
+      "root": [
+        -14.2438,
+        91.0825
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-214",
+      "root": [
+        -47.5934,
+        103.0248
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-216",
+      "root": [
+        -34.4114,
+        103.2979
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-233",
+      "root": [
+        -19.9181,
+        120.2336
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-236",
+      "root": [
+        -12.0432,
+        119.9331
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-239",
+      "root": [
+        -4.1632,
+        120.0354
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-240",
+      "root": [
+        -45.7644,
+        135.0618
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-246",
+      "root": [
+        -15.8217,
+        130.3069
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-250",
+      "root": [
+        0.7124,
+        132.9359
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-251",
+      "root": [
+        -40.5637,
+        149.3426
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-255",
+      "root": [
+        -26.6887,
+        150.7058
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-256",
+      "root": [
+        -4.0148,
+        150.9173
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-049",
+      "root": [
+        93.4357,
+        -140.1679
+      ],
+      "vertices": 12477,
+      "faces": 9899,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-064",
+      "root": [
+        93.1516,
+        -122.6163
+      ],
+      "vertices": 12477,
+      "faces": 9899,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-075",
+      "root": [
+        94.578,
+        -108.33
+      ],
+      "vertices": 12477,
+      "faces": 9899,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-050",
+      "root": [
+        106.5043,
+        -143.3656
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-062",
+      "root": [
+        106.4032,
+        -131.4019
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-054",
+      "root": [
+        137.5895,
+        -150.4284
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-059",
+      "root": [
+        138.2255,
+        -144.3689
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-068",
+      "root": [
+        138.9479,
+        -129.2997
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-077",
+      "root": [
+        139.9904,
+        -120.5878
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-081",
+      "root": [
+        140.8443,
+        -110.4606
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-086",
+      "root": [
+        141.9262,
+        -99.289
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-090",
+      "root": [
+        112.9738,
+        -86.987
+      ],
+      "vertices": 6390,
+      "faces": 5103,
+      "lowestZ": 0.026312999427318573
+    },
+    {
+      "id": "plant-091",
+      "root": [
+        121.6312,
+        -87.4575
+      ],
+      "vertices": 6390,
+      "faces": 5103,
+      "lowestZ": 0.027465572580695152
+    },
+    {
+      "id": "plant-093",
+      "root": [
+        131.7653,
+        -87.6652
+      ],
+      "vertices": 6390,
+      "faces": 5103,
+      "lowestZ": 0.027969224378466606
+    },
+    {
+      "id": "plant-094",
+      "root": [
+        142.1243,
+        -88.9847
+      ],
+      "vertices": 6390,
+      "faces": 5103,
+      "lowestZ": 0.02617783471941948
+    },
+    {
+      "id": "plant-pa-teacher-east-0",
+      "root": [
+        8.0,
+        -132.1
+      ],
+      "vertices": 12495,
+      "faces": 9910,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-pa-teacher-east-1",
+      "root": [
+        14.0,
+        -133.7
+      ],
+      "vertices": 12495,
+      "faces": 9910,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-pa-teacher-east-2",
+      "root": [
+        21.1,
+        -134.0
+      ],
+      "vertices": 12495,
+      "faces": 9910,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-pa-teacher-east-3",
+      "root": [
+        28.9,
+        -136.5
+      ],
+      "vertices": 12495,
+      "faces": 9910,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-047",
+      "root": [
+        -130.7376,
+        -71.2316
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-048",
+      "root": [
+        -148.0156,
+        -64.9849
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-051",
+      "root": [
+        -164.3604,
+        -58.6986
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-052",
+      "root": [
+        -180.3599,
+        -52.788
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-056",
+      "root": [
+        -208.0827,
+        -42.2684
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-057",
+      "root": [
+        -222.8482,
+        -37.1737
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-058",
+      "root": [
+        -235.7875,
+        -32.1157
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-065",
+      "root": [
+        -128.521,
+        -47.7317
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-066",
+      "root": [
+        -139.8994,
+        -43.1251
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-067",
+      "root": [
+        -151.8106,
+        -39.1065
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-069",
+      "root": [
+        -163.6712,
+        -34.6761
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-123",
+      "root": [
+        -7.1632,
+        5.7254
+      ],
+      "vertices": 4821,
+      "faces": 3476,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-124",
+      "root": [
+        0.9252,
+        4.7131
+      ],
+      "vertices": 4821,
+      "faces": 3476,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-130",
+      "root": [
+        12.281,
+        4.3619
+      ],
+      "vertices": 4821,
+      "faces": 3476,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-135",
+      "root": [
+        23.3492,
+        2.4134
+      ],
+      "vertices": 4821,
+      "faces": 3476,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-103",
+      "root": [
+        -8.8179,
+        -34.0267
+      ],
+      "vertices": 25587,
+      "faces": 20270,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-175",
+      "root": [
+        -47.8754,
+        63.5291
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-187",
+      "root": [
+        -48.1773,
+        71.5678
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-197",
+      "root": [
+        -1.0231,
+        64.1939
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-202",
+      "root": [
+        7.9035,
+        64.5258
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-204",
+      "root": [
+        -1.1152,
+        72.6065
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-206",
+      "root": [
+        7.8061,
+        73.6824
+      ],
+      "vertices": 8263,
+      "faces": 6541,
+      "lowestZ": 0
+    }
+  ],
+  "removedTreeMeshRanges": [
+    {
+      "id": "plant-047",
+      "start": 35018,
+      "end": 35640,
+      "faces": 654
+    },
+    {
+      "id": "plant-048",
+      "start": 35640,
+      "end": 36262,
+      "faces": 654
+    },
+    {
+      "id": "plant-049",
+      "start": 36262,
+      "end": 36884,
+      "faces": 654
+    },
+    {
+      "id": "plant-050",
+      "start": 36884,
+      "end": 37506,
+      "faces": 654
+    },
+    {
+      "id": "plant-051",
+      "start": 37506,
+      "end": 38128,
+      "faces": 654
+    },
+    {
+      "id": "plant-052",
+      "start": 38128,
+      "end": 38750,
+      "faces": 654
+    },
+    {
+      "id": "plant-054",
+      "start": 39372,
+      "end": 39994,
+      "faces": 654
+    },
+    {
+      "id": "plant-056",
+      "start": 40616,
+      "end": 41238,
+      "faces": 654
+    },
+    {
+      "id": "plant-057",
+      "start": 41238,
+      "end": 41860,
+      "faces": 654
+    },
+    {
+      "id": "plant-058",
+      "start": 41860,
+      "end": 42482,
+      "faces": 654
+    },
+    {
+      "id": "plant-059",
+      "start": 42482,
+      "end": 43104,
+      "faces": 654
+    },
+    {
+      "id": "plant-062",
+      "start": 48142,
+      "end": 48764,
+      "faces": 654
+    },
+    {
+      "id": "plant-064",
+      "start": 53180,
+      "end": 53802,
+      "faces": 654
+    },
+    {
+      "id": "plant-065",
+      "start": 53802,
+      "end": 54424,
+      "faces": 654
+    },
+    {
+      "id": "plant-066",
+      "start": 54424,
+      "end": 55046,
+      "faces": 654
+    },
+    {
+      "id": "plant-067",
+      "start": 55046,
+      "end": 55668,
+      "faces": 654
+    },
+    {
+      "id": "plant-068",
+      "start": 55668,
+      "end": 56290,
+      "faces": 654
+    },
+    {
+      "id": "plant-069",
+      "start": 56290,
+      "end": 56912,
+      "faces": 654
+    },
+    {
+      "id": "plant-075",
+      "start": 59400,
+      "end": 60022,
+      "faces": 654
+    },
+    {
+      "id": "plant-077",
+      "start": 64438,
+      "end": 65060,
+      "faces": 654
+    },
+    {
+      "id": "plant-081",
+      "start": 65682,
+      "end": 66304,
+      "faces": 654
+    },
+    {
+      "id": "plant-086",
+      "start": 68170,
+      "end": 68792,
+      "faces": 654
+    },
+    {
+      "id": "plant-090",
+      "start": 70036,
+      "end": 70658,
+      "faces": 654
+    },
+    {
+      "id": "plant-091",
+      "start": 70658,
+      "end": 71280,
+      "faces": 654
+    },
+    {
+      "id": "plant-093",
+      "start": 71902,
+      "end": 72524,
+      "faces": 654
+    },
+    {
+      "id": "plant-094",
+      "start": 72524,
+      "end": 73146,
+      "faces": 654
+    },
+    {
+      "id": "plant-103",
+      "start": 75012,
+      "end": 80912,
+      "faces": 6382
+    },
+    {
+      "id": "plant-123",
+      "start": 84644,
+      "end": 89508,
+      "faces": 2928
+    },
+    {
+      "id": "plant-124",
+      "start": 89508,
+      "end": 94372,
+      "faces": 2928
+    },
+    {
+      "id": "plant-128",
+      "start": 94994,
+      "end": 95616,
+      "faces": 654
+    },
+    {
+      "id": "plant-129",
+      "start": 95616,
+      "end": 96238,
+      "faces": 654
+    },
+    {
+      "id": "plant-130",
+      "start": 96238,
+      "end": 101102,
+      "faces": 2928
+    },
+    {
+      "id": "plant-132",
+      "start": 101102,
+      "end": 101724,
+      "faces": 654
+    },
+    {
+      "id": "plant-134",
+      "start": 101724,
+      "end": 102346,
+      "faces": 654
+    },
+    {
+      "id": "plant-135",
+      "start": 102346,
+      "end": 107210,
+      "faces": 2928
+    },
+    {
+      "id": "plant-138",
+      "start": 107832,
+      "end": 108454,
+      "faces": 654
+    },
+    {
+      "id": "plant-140",
+      "start": 108454,
+      "end": 109076,
+      "faces": 654
+    },
+    {
+      "id": "plant-143",
+      "start": 109698,
+      "end": 110320,
+      "faces": 654
+    },
+    {
+      "id": "plant-145",
+      "start": 110320,
+      "end": 110942,
+      "faces": 654
+    },
+    {
+      "id": "plant-154",
+      "start": 112186,
+      "end": 112808,
+      "faces": 654
+    },
+    {
+      "id": "plant-158",
+      "start": 113430,
+      "end": 114052,
+      "faces": 654
+    },
+    {
+      "id": "plant-167",
+      "start": 114052,
+      "end": 114674,
+      "faces": 654
+    },
+    {
+      "id": "plant-169",
+      "start": 114674,
+      "end": 115296,
+      "faces": 654
+    },
+    {
+      "id": "plant-175",
+      "start": 115918,
+      "end": 116540,
+      "faces": 654
+    },
+    {
+      "id": "plant-178",
+      "start": 117162,
+      "end": 121578,
+      "faces": 2672
+    },
+    {
+      "id": "plant-183",
+      "start": 123444,
+      "end": 127860,
+      "faces": 2672
+    },
+    {
+      "id": "plant-186",
+      "start": 127860,
+      "end": 132276,
+      "faces": 2672
+    },
+    {
+      "id": "plant-187",
+      "start": 132276,
+      "end": 132898,
+      "faces": 654
+    },
+    {
+      "id": "plant-190",
+      "start": 132898,
+      "end": 137314,
+      "faces": 2672
+    },
+    {
+      "id": "plant-194",
+      "start": 138558,
+      "end": 142974,
+      "faces": 2672
+    },
+    {
+      "id": "plant-196",
+      "start": 143596,
+      "end": 148012,
+      "faces": 2672
+    },
+    {
+      "id": "plant-197",
+      "start": 148012,
+      "end": 148634,
+      "faces": 654
+    },
+    {
+      "id": "plant-198",
+      "start": 148634,
+      "end": 149256,
+      "faces": 654
+    },
+    {
+      "id": "plant-202",
+      "start": 150500,
+      "end": 151122,
+      "faces": 654
+    },
+    {
+      "id": "plant-204",
+      "start": 151122,
+      "end": 151744,
+      "faces": 654
+    },
+    {
+      "id": "plant-205",
+      "start": 151744,
+      "end": 152366,
+      "faces": 654
+    },
+    {
+      "id": "plant-206",
+      "start": 152366,
+      "end": 152988,
+      "faces": 654
+    },
+    {
+      "id": "plant-207",
+      "start": 152988,
+      "end": 153610,
+      "faces": 654
+    },
+    {
+      "id": "plant-213",
+      "start": 155476,
+      "end": 156098,
+      "faces": 654
+    },
+    {
+      "id": "plant-214",
+      "start": 156098,
+      "end": 156720,
+      "faces": 654
+    },
+    {
+      "id": "plant-216",
+      "start": 157342,
+      "end": 157964,
+      "faces": 654
+    },
+    {
+      "id": "plant-233",
+      "start": 164806,
+      "end": 165428,
+      "faces": 654
+    },
+    {
+      "id": "plant-236",
+      "start": 166672,
+      "end": 167294,
+      "faces": 654
+    },
+    {
+      "id": "plant-239",
+      "start": 168538,
+      "end": 169160,
+      "faces": 654
+    },
+    {
+      "id": "plant-240",
+      "start": 169160,
+      "end": 169782,
+      "faces": 654
+    },
+    {
+      "id": "plant-246",
+      "start": 172270,
+      "end": 172892,
+      "faces": 654
+    },
+    {
+      "id": "plant-250",
+      "start": 174758,
+      "end": 175380,
+      "faces": 654
+    },
+    {
+      "id": "plant-251",
+      "start": 175380,
+      "end": 176002,
+      "faces": 654
+    },
+    {
+      "id": "plant-255",
+      "start": 177868,
+      "end": 178490,
+      "faces": 654
+    },
+    {
+      "id": "plant-256",
+      "start": 178490,
+      "end": 179112,
+      "faces": 654
+    }
+  ],
+  "protectedMeshDigests": {
+    "sports-annexes": "c05fe79c76929612687f3162cfe7f24f45f0e6720fdbe49c88e995cdbb47d8d5",
+    "office-carports": "ebf6a5ac391ff476926967f07e5b038accb2d032b3b4f93df33f566889a2b7a5",
+    "office-landscape": "acec425fb06c95fd5dea1e75329e2301ff40186dc02dab836b29ca94ffe59212",
+    "teaching2-garden-fixtures": "6b59494837125894f554b0da68bf3bcf34855951603e5409a467c5cfafb2dac3",
+    "hefeng-entry": "e83f33d4605ab0e05c966325e871959f04aa20172c984c3ac2632905d5480169",
+    "round-pavilion-entry": "f7c3147f2ff351160238ab1413c8c5d0e8941808510ef32a10c4fb138fc826db",
+    "grove-fixtures": "3aafbe7088c310b55ce3c18d96af27c729d5677b4eda170dfe8e48be9e8fa981",
+    "dongpo-fixtures": "5268b53550532d984a9769dc7a693655eb933d17bda94dd621114218161ec5fb",
+    "teaching-1": "4a55d1418b4ea22a92c8213d931ce11ecc4a48c643fd1232fa3282882c275861",
+    "teaching-2": "17c9de1c2051288895a4baeebab2ea90a9587f40febf6e97298b4d0133a95965",
+    "office": "6d736af0dc9b47c2a859e68a6d54b29656561c7923f3060050ee105f022f6edb",
+    "gym": "aab79e21e79b199e6a942bfd1f39bee3160839c21b2222ded45ba3def1a31585",
+    "stage": "4c931614cd49017dff2770423c32b1d48729e5e6601f5c59cc6f4553252907fb",
+    "dorm-3": "d1a82759a36be974b6d14bf25f290d2929cde28fbf7f896fb41b3adea0406744",
+    "dorm-2": "e31597f06627e4ed8e55e5fdeb8828c0cab514537daa40a25be82caa5ad566d2",
+    "dorm-1": "42b080c8766f9f5de1a500a2ae7264f56fd77374dc72294cb90334fbee25351b",
+    "dorm-south": "43f50812d58c3cc33ea35eaec249db803fe4e48568d995d50b7ca84780a8f3de",
+    "dorm-bottom": "99521c9380e0ec01ebe38916c724448b65b8a875ec5cbf3e2b8fa523de99db4a",
+    "laboratory": "7be9609a5459f93122c1a8b66ffaf0bdef13bef64b7362153523fe5012645603",
+    "comprehensive": "2a499388b71d8fa7b2b819e63a5cdb37568f9f76cd92719eb624dccc55f826a7",
+    "training": "c855942641875347108e7a67627caf71bce875133f564430261f06a78e1c1b96",
+    "art": "d7f5644b7d058fcc89608c8357fc3ecdf14336e0490760eb1fa34cf4739bf20e",
+    "apartments-tower": "2c91bde2df8ba2c8b61ac51afb8fde7a356b84a8aa7a740573419deb78f4d879",
+    "teacher-1": "5b49d5ce5db6d7cf13032c340b9334afff332c79b83ee49bc0cf35aa210fd44a",
+    "teacher-2": "0cbc0b3215392ec6749955bf9f5d6fa703c7411f5cf96f50145925525eeba5dd",
+    "teacher-3": "a8650adc2f1d68a718388d2677b0415b4817cce78c8401381072903e200d6702",
+    "teacher-4": "e1ae52982cd6d7a37312b4515f3444ab9e4ffadcfc280171f2c4d0825e67de24",
+    "teacher-5": "2bcc08c08f247be5d745ad1361e3f6dc4edd809076ced25302cd5a41eb04f11f",
+    "teacher-6": "d8a016818882ef7a2695fc3f53873c23988eb6bc2201f77693bc56f3ce892f6e",
+    "library": "6c522fcc87bceaf429f6b005dc7b0839c82b49386b0141f8c7584c5628479573",
+    "dongpo": "70651e4079cbc43507c9ba0494819c7fa214c3ff53d909c26c98db59a315ae38",
+    "well": "72baf011875b45837c3223282388507c641345cb369439f2ceee8cf47adafb31",
+    "pond-pavilion": "9920571824e7c3981f939c44d983264a84997d3f40134b0bdd0685322d6e25ec",
+    "shop": "791e9512a76fd83430d0ca738cbf7faf47541833266f7d8d7197c5de553d3b40",
+    "bianzhou": "b33f3e173cd8258d37744b8bdd9e6aa38ca82c86e5feb1ef26e3c19ae779bce0",
+    "teacher-east": "09858835b4ca86ea88c7b11ccdd6c9d8ad8de25b7a8378aaf3ef039c5ebab74a",
+    "teacher-7": "5f4143475f7c728064248efffeff47f91aa39e8705b912c50f17c19b23b9ca64",
+    "equipment": "29a60f57a850312dcfac4a779eff7728f9c4263e604766a0900bba80df036861",
+    "garage": "c17081a6e29037598c5dc0ae2fd7c660e51dbe34a0cd939e5ff83652a4c9d956",
+    "west-fitness": "26113eb17fbb7b18ee1fb1b6b17970b4cd6389a86140d317fe43bc00d0488e9e",
+    "fitness-ground": "721373bcfa98707bd6da671e345ca8d9e756e34b8a69647f20ccc136a806ef0b",
+    "music-pavilion": "50aa050a30b3944dc6f883d0d698ff433f908483c677c14adc98561e411316ae",
+    "tianhan-pavilion": "fea79b1362a9b25bd04178501aba8815a2a14be2225688c07f490fa04461da1f",
+    "bulletin-gallery": "8b29830724f92a3175198f9470665fc74b8fd4a290530cc59d4b6a35329d4488",
+    "main": "a8b9b239e93396dd98e9bba3926e5f45cedc2ffb7114002fab28b347a88ea112",
+    "cross": "bdfd089e4c58f89d96d27bc58f1a10b3de7062571b0a639429209211a8a9eaf2",
+    "sports": "5ead375583a55846b4e704e72fce27c267689215d9faa9ff34384af1b316ae8d",
+    "gym-road": "8f3f210e879e67e2eba338b46d734601902eb10c6df3de1dccc7f492d1492b74",
+    "teaching": "d1572e616f3c01e1d759ae5803cff7e0e48452c63805e6960b28cebfa306018d",
+    "north-access": "727efb9f1ac26d9f8b65b1f05fcebccb518a1235a76547bc3376a3ab0ee126c7",
+    "south-campus": "90a481473c23387996c2a51d7444624d72ab4f14a159effc60438b4058a12e31",
+    "east-street": "f58703aaa5e047c9edb538064926de86ad4f2d6a49b88b3e16d9205d2a7d8b16",
+    "west-street": "04dbbe80dad705f9cd0bd93c28c940a042879dfda3e7e4042714b8c08ce06980",
+    "north-street": "fa5812e3a189b5f7175111501950eca90f893f7738bff37945f5b7b9350b661a",
+    "south-street": "956302c886eeb7bb758edbaf836fb15a6e0e4ff3cb89eae34065e4ffd1d6d181",
+    "entrance": "f5f76b53271d7b20d53060d4deb1d5cc76b24fb5fd841440cf0fc79e7420124d",
+    "library-path": "f264987f76e1527fc28c7556dd02ef8f94271ac4d8b9a8410f486dc1b7b17dfb",
+    "pavilion-path": "67883c09baada2a348a2b5173150a31dd1c8f7f81d41e587a2a078d47088a3bc",
+    "pond-link": "7eb52dea99d7d1b4f45565a6fc9110318e5bf492016da595d24dbec790db0d3a",
+    "lake-east": "064df43093da54b7a399d65ecccf98e8d54f31112899b28969aa9be716361815",
+    "west-pond": "18c7bff073e54df5b471480434d667dd17907a7bbddc3d7b0e8df95f9c995f8d",
+    "canteen-link": "5e23cd643af3b92be263ef3b86f2c014528cb0ce726957de7b37590db030d662",
+    "dongpo-entry": "718b03a8790eaf427baa67938e755a75c2bd609737d3d0b8003d9863ed148072",
+    "dongpo-bridge": "e1d038333dfdf89a80088b9f2a9601510d1c20ec3df3156a646241e78acab06d",
+    "dongpo-forecourt": "c03783ce8408cc03408ed0711ad4d47266010dd6aca38fc4491e723b7dec259e",
+    "lake-grove": "4481b381e663be9c78a21fe49a796a4fe3ea14507e2f33b54d7b94ac9509982a",
+    "grove-link": "22417545361d0f15fc71a0fe720754f505d6b41a20e951d4205df4ba3cc91912",
+    "north": "c9e95e27d937eb70a8e1d93b2ec8404874ecde1751b284e46ce958bc4ec751cb",
+    "bulletin-lane": "270525c31f1457e515932e0ecb576ac4e1b1ff310ee3ec6697f63d2d93fc6dd6",
+    "sports.001": "ffbfb9712b3e76ce25ed0cc1d40951021a2326d8c69a8c4f5f322bdafa909439",
+    "terrain": "5e7c9ce1d3b1b8321afef48a156ade1c003096879a0e560e2a455c800f060cc8",
+    "dongpo-surroundings": "d3bf3688c2c21e6832079b2629f80e95a9f901cd711092e52864253697814b4d",
+    "sushi-statue": "6276f4b03093de690c3d0959cf00ff9eec64ad7c700db9c44fc28e560176295a",
+    "courtyard": "0f1ecf2e2833d9629d4e0fd10ece16ed1659aeb917134bf2a531add3c5fdd630",
+    "landscape-details": "f2e162732bb1e1b3197d2ed2ca3ac56107ca2d6e41c74416deb38fa1d34a3226",
+    "guard-booth": "1e9c8c8d750178fef16d5760d362c2e93f1de04d7e8009ec773ba37c4d2e2147",
+    "entrance-inscription": "01244fe7e7cea377bc4dd42bc8b549eaeb138f5324da9c204d178830a3039b10",
+    "gate-approach": "1055bfa7198febb7f9c252b6a4ebdd462ac426484fad9248778900f6a888715c",
+    "gate": "01e572c445af9781e7684f8b0212efa561640bdb99c75b1ce67d3fd3834995c1",
+    "canteen-wing": "a7977798fa218e4f3e26080499761a2c0222f1a9ad14e846bf1b5fd5416b00dc",
+    "hall": "d13137054dc37c17aa675d97becd0c8df0a1fce9a9e44f923f87f15f39471e70",
+    "staff-activity": "792caebc0f47bfcafb6d62054d0d55c9c467370b6aa98cca3cca8d32d15d3b6c",
+    "dining-wash": "ac30a57f718a7c586412c8b8b0b20c53ad9ad8d239ac64079f7bda547038ebb8",
+    "dining-pergola": "c9d209ec149c0deeece41abef482a53611293e9948cf78b56e18446d1849aaba",
+    "dining-court": "dbdfbe4693e64dffc05786f1dd42d01cb3cc416482f7083f599c00ce11ba5626",
+    "dining-landscape": "ae49350ff6389383d168c354ddeff212a04b0e000aeeaad6935bdd850a14812d",
+    "dining-west-gate": "916b529bb588b14483131d6ee077caf2e87783b5fda9a6d74bd9be01faca0906",
+    "canteen": "9bc9a95ad3654ae44448321b1219df3c96f9c0d97c390d7da3ee002bc2b5628a"
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "revision": "ground-audit-20261003-v1",
+  "changedMeshes": [
+    {
+      "id": "office-landscape",
+      "faces": {
+        "of-path -> ground-stone-mosaic": 40
+      }
+    },
+    {
+      "id": "teaching2-garden-fixtures",
+      "faces": {
+        "green -> ground-grass": 8
+      }
+    },
+    {
+      "id": "hefeng-entry",
+      "faces": {
+        "gr-path -> ground-aggregate": 7
+      }
+    },
+    {
+      "id": "round-pavilion-entry",
+      "faces": {
+        "gr-path -> ground-aggregate": 7
+      }
+    },
+    {
+      "id": "grove-fixtures",
+      "faces": {
+        "gr-soil -> ground-soil": 165
+      }
+    },
+    {
+      "id": "dongpo-fixtures",
+      "faces": {
+        "dp-soil -> ground-soil": 20,
+        "gr-path -> ground-concrete": 1,
+        "dp-tile -> ground-grey-pavers": 408
+      }
+    },
+    {
+      "id": "teaching-1",
+      "faces": {
+        "t1-floor -> ground-ceramic": 5
+      }
+    },
+    {
+      "id": "teaching-2",
+      "faces": {
+        "t2-floor -> ground-ceramic": 8
+      }
+    },
+    {
+      "id": "dorm-3",
+      "faces": {
+        "final-white -> ground-ceramic": 14
+      }
+    },
+    {
+      "id": "dorm-2",
+      "faces": {
+        "final-white -> ground-ceramic": 2
+      }
+    },
+    {
+      "id": "dorm-1",
+      "faces": {
+        "final-white -> ground-ceramic": 2
+      }
+    },
+    {
+      "id": "dorm-south",
+      "faces": {
+        "final-white -> ground-ceramic": 6
+      }
+    },
+    {
+      "id": "dorm-bottom",
+      "faces": {
+        "final-white -> ground-ceramic": 27
+      }
+    },
+    {
+      "id": "laboratory",
+      "faces": {
+        "final-white -> ground-ceramic": 50
+      }
+    },
+    {
+      "id": "comprehensive",
+      "faces": {
+        "zh-floor -> ground-ceramic": 71
+      }
+    },
+    {
+      "id": "apartments-tower",
+      "faces": {
+        "final-white -> ground-ceramic": 6
+      }
+    },
+    {
+      "id": "teacher-1",
+      "faces": {
+        "final-white -> ground-ceramic": 2
+      }
+    },
+    {
+      "id": "teacher-2",
+      "faces": {
+        "final-white -> ground-ceramic": 2
+      }
+    },
+    {
+      "id": "teacher-3",
+      "faces": {
+        "final-white -> ground-ceramic": 2
+      }
+    },
+    {
+      "id": "teacher-4",
+      "faces": {
+        "final-white -> ground-ceramic": 2
+      }
+    },
+    {
+      "id": "teacher-5",
+      "faces": {
+        "final-white -> ground-ceramic": 2
+      }
+    },
+    {
+      "id": "teacher-6",
+      "faces": {
+        "final-white -> ground-ceramic": 2
+      }
+    },
+    {
+      "id": "library",
+      "faces": {
+        "final-white -> ground-ceramic": 2
+      }
+    },
+    {
+      "id": "shop",
+      "faces": {
+        "final-white -> ground-ceramic": 2
+      }
+    },
+    {
+      "id": "teacher-7",
+      "faces": {
+        "final-white -> ground-ceramic": 3
+      }
+    },
+    {
+      "id": "equipment",
+      "faces": {
+        "final-white -> ground-ceramic": 2
+      }
+    },
+    {
+      "id": "garage",
+      "faces": {
+        "final-white -> ground-ceramic": 2
+      }
+    },
+    {
+      "id": "west-fitness",
+      "faces": {
+        "paving -> ground-concrete": 2
+      }
+    },
+    {
+      "id": "main",
+      "faces": {
+        "paving -> ground-concrete": 8,
+        "asphalt -> ground-concrete": 8
+      }
+    },
+    {
+      "id": "cross",
+      "faces": {
+        "paving -> ground-concrete": 4,
+        "asphalt -> ground-concrete": 4
+      }
+    },
+    {
+      "id": "sports-surfaces",
+      "faces": {
+        "sport-grass -> ground-grass": 197,
+        "sport-grass-light -> ground-grass": 4,
+        "sport-green -> sport-court-green": 9,
+        "paving -> ground-concrete": 5
+      }
+    },
+    {
+      "id": "gym-road",
+      "faces": {
+        "paving -> ground-concrete": 6,
+        "asphalt -> ground-concrete": 6
+      }
+    },
+    {
+      "id": "teaching",
+      "faces": {
+        "paving -> ground-concrete": 2,
+        "asphalt -> ground-concrete": 2
+      }
+    },
+    {
+      "id": "north-access",
+      "faces": {
+        "paving -> ground-concrete": 8,
+        "asphalt -> ground-concrete": 8
+      }
+    },
+    {
+      "id": "south-campus",
+      "faces": {
+        "paving -> ground-concrete": 8,
+        "asphalt -> ground-concrete": 8
+      }
+    },
+    {
+      "id": "east-street",
+      "faces": {
+        "paving -> ground-grey-pavers": 10,
+        "asphalt -> ground-asphalt": 10,
+        "unverified generic street dash faces removed": 1349
+      }
+    },
+    {
+      "id": "west-street",
+      "faces": {
+        "paving -> ground-grey-pavers": 4,
+        "asphalt -> ground-asphalt": 4,
+        "unverified generic street dash faces removed": 684
+      }
+    },
+    {
+      "id": "north-street",
+      "faces": {
+        "paving -> ground-grey-pavers": 6,
+        "asphalt -> ground-asphalt": 6,
+        "unverified generic street dash faces removed": 1444
+      }
+    },
+    {
+      "id": "south-street",
+      "faces": {
+        "paving -> ground-grey-pavers": 6,
+        "asphalt -> ground-asphalt": 6,
+        "unverified generic street dash faces removed": 779
+      }
+    },
+    {
+      "id": "entrance",
+      "faces": {
+        "avenue-concrete -> ground-concrete": 24,
+        "paving -> ground-concrete": 2,
+        "avenue-soil -> ground-soil": 36
+      }
+    },
+    {
+      "id": "library-path",
+      "faces": {
+        "gr-path -> ground-concrete": 13,
+        "gr-path -> ground-path-pattern": 21
+      }
+    },
+    {
+      "id": "pavilion-path",
+      "faces": {
+        "gr-path -> ground-concrete": 22
+      }
+    },
+    {
+      "id": "pond-link",
+      "faces": {
+        "gr-path -> ground-concrete": 16
+      }
+    },
+    {
+      "id": "lake-east",
+      "faces": {
+        "paving -> ground-concrete": 22,
+        "asphalt -> ground-concrete": 22
+      }
+    },
+    {
+      "id": "west-pond",
+      "faces": {
+        "paving -> ground-concrete": 36
+      }
+    },
+    {
+      "id": "canteen-link",
+      "faces": {
+        "paving -> ground-concrete": 8
+      }
+    },
+    {
+      "id": "dongpo-entry",
+      "faces": {
+        "gr-path -> ground-concrete": 7
+      }
+    },
+    {
+      "id": "dongpo-bridge",
+      "faces": {
+        "bridge-concrete -> ground-concrete": 194
+      }
+    },
+    {
+      "id": "dongpo-forecourt",
+      "faces": {
+        "paving -> ground-concrete": 4,
+        "asphalt -> ground-concrete": 4
+      }
+    },
+    {
+      "id": "lake-grove",
+      "faces": {
+        "gr-path -> ground-aggregate": 31
+      }
+    },
+    {
+      "id": "grove-link",
+      "faces": {
+        "paving -> ground-aggregate": 8
+      }
+    },
+    {
+      "id": "north",
+      "faces": {
+        "paving -> ground-concrete": 6,
+        "asphalt -> ground-concrete": 6
+      }
+    },
+    {
+      "id": "bulletin-lane",
+      "faces": {
+        "paving -> ground-concrete": 8,
+        "asphalt -> ground-concrete": 8
+      }
+    },
+    {
+      "id": "terrain",
+      "faces": {
+        "paving -> ground-concrete": 150,
+        "green -> ground-woodland": 16,
+        "green -> ground-grass": 24,
+        "paving -> ground-grey-pavers": 18,
+        "paving -> ground-aggregate": 5
+      }
+    },
+    {
+      "id": "hall",
+      "faces": {
+        "dining-concrete -> ground-concrete": 3
+      }
+    },
+    {
+      "id": "staff-activity",
+      "faces": {
+        "dining-concrete -> ground-concrete": 3
+      }
+    },
+    {
+      "id": "dining-pergola",
+      "faces": {
+        "dining-tile -> ground-dining-pattern": 1
+      }
+    },
+    {
+      "id": "dining-court",
+      "faces": {
+        "dining-concrete -> ground-concrete": 1
+      }
+    },
+    {
+      "id": "dining-landscape",
+      "faces": {
+        "dining-soil -> ground-soil": 3,
+        "dining-concrete -> ground-concrete": 1
+      }
+    },
+    {
+      "id": "canteen",
+      "faces": {
+        "dining-white -> ground-ceramic": 4
+      }
+    }
+  ],
+  "removedMeshes": [
+    {
+      "id": "sports.001",
+      "vertices": 102956,
+      "faces": 33856,
+      "overlapFraction": 1.0
+    }
+  ],
+  "protectedGeometryCount": 85,
+  "retainedMeshGeometryUnchanged": true,
+  "plantsExactlyPreserved": true,
+  "plantCount": 350,
+  "buildingDimensionsUnchanged": true,
+  "roadDimensionsUnchanged": true,
+  "bridgeGeometryUnchanged": true,
+  "newDetailFaces": 11739,
+  "newRoadsideFaces": 5932,
+  "patchCount": 20,
+  "markingGroups": 21,
+  "concreteJointCount": 325,
+  "finalModelSha256": "f700e1713bd0b52fff3f01962c3ba21ce6097c6b440ba53fe594ce83da87f89b"
+}

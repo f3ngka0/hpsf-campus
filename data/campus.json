@@ -21207,7 +21207,10 @@
         ]
       ],
       "width": 6,
-      "kind": "road"
+      "kind": "road",
+      "surface": "concrete",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G01"
     },
     {
       "id": "cross",
@@ -21227,7 +21230,10 @@
         ]
       ],
       "width": 4,
-      "kind": "road"
+      "kind": "road",
+      "surface": "concrete",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G01"
     },
     {
       "id": "sports",
@@ -21243,7 +21249,10 @@
         ]
       ],
       "width": 3,
-      "kind": "road"
+      "kind": "road",
+      "surface": "concrete",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G02"
     },
     {
       "id": "gym-road",
@@ -21267,7 +21276,10 @@
         ]
       ],
       "width": 3,
-      "kind": "road"
+      "kind": "road",
+      "surface": "concrete",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G02"
     },
     {
       "id": "teaching",
@@ -21283,7 +21295,10 @@
         ]
       ],
       "width": 2,
-      "kind": "road"
+      "kind": "road",
+      "surface": "concrete",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G01"
     },
     {
       "id": "north-access",
@@ -21311,7 +21326,10 @@
         ]
       ],
       "width": 4,
-      "kind": "road"
+      "kind": "road",
+      "surface": "concrete",
+      "surfaceConfidence": "medium",
+      "groundAuditRegion": "G08"
     },
     {
       "id": "south-campus",
@@ -21339,7 +21357,10 @@
         ]
       ],
       "width": 6,
-      "kind": "road"
+      "kind": "road",
+      "surface": "concrete",
+      "surfaceConfidence": "medium",
+      "groundAuditRegion": "G04"
     },
     {
       "id": "east-street",
@@ -21371,7 +21392,11 @@
         ]
       ],
       "width": 12,
-      "kind": "street"
+      "kind": "street",
+      "surface": "asphalt",
+      "surfaceConfidence": "low",
+      "groundAuditRegion": "G13",
+      "centreMarking": "none-unverified"
     },
     {
       "id": "west-street",
@@ -21391,7 +21416,11 @@
         ]
       ],
       "width": 7,
-      "kind": "street"
+      "kind": "street",
+      "surface": "asphalt",
+      "surfaceConfidence": "low",
+      "groundAuditRegion": "G13",
+      "centreMarking": "none-unverified"
     },
     {
       "id": "north-street",
@@ -21415,7 +21444,11 @@
         ]
       ],
       "width": 9,
-      "kind": "street"
+      "kind": "street",
+      "surface": "asphalt",
+      "surfaceConfidence": "low",
+      "groundAuditRegion": "G13",
+      "centreMarking": "none-unverified"
     },
     {
       "id": "south-street",
@@ -21439,7 +21472,11 @@
         ]
       ],
       "width": 6,
-      "kind": "street"
+      "kind": "street",
+      "surface": "asphalt",
+      "surfaceConfidence": "low",
+      "groundAuditRegion": "G13",
+      "centreMarking": "none-unverified"
     },
     {
       "id": "entrance",
@@ -21500,7 +21537,10 @@
       ],
       "width": 6.0,
       "kind": "road",
-      "source": "DJI_0442：双排高干椰子树、窄灰色车道与黄色中心线；车道约6米、树距约8.5米为影像比例估算"
+      "source": "DJI_0442：双排高干椰子树、窄灰色车道与黄色中心线；车道约6米、树距约8.5米为影像比例估算",
+      "surface": "concrete",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G07"
     },
     {
       "id": "library-path",
@@ -21597,7 +21637,10 @@
         ]
       ],
       "modelRevision": "grove-photo-2026-10-02",
-      "walkHeight": 0.075
+      "walkHeight": 0.075,
+      "surface": "concrete",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G09"
     },
     {
       "id": "pavilion-path",
@@ -21640,7 +21683,10 @@
       "kind": "bridge",
       "source": "本地规划图定位；东坡亭桥面与浅色栏杆按用户补充航拍，尺寸估算",
       "walkHeight": 0.06,
-      "modelRevision": "dongpo-pdf-2026-10-02"
+      "modelRevision": "dongpo-pdf-2026-10-02",
+      "surface": "concrete",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G11"
     },
     {
       "id": "pond-link",
@@ -21693,7 +21739,10 @@
         ]
       ],
       "modelRevision": "grove-photo-2026-10-02",
-      "walkHeight": 0.075
+      "walkHeight": 0.075,
+      "surface": "concrete",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G10"
     },
     {
       "id": "lake-east",
@@ -21750,7 +21799,10 @@
       ],
       "width": 4.5,
       "kind": "road",
-      "source": "本地规划图定位；东坡亭桥面与浅色栏杆按用户补充航拍，尺寸估算"
+      "source": "本地规划图定位；东坡亭桥面与浅色栏杆按用户补充航拍，尺寸估算",
+      "surface": "concrete",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G10"
     },
     {
       "id": "west-pond",
@@ -21799,7 +21851,10 @@
       ],
       "width": 3,
       "kind": "path",
-      "source": "本地规划图定位；东坡亭桥面与浅色栏杆按用户补充航拍，尺寸估算"
+      "source": "本地规划图定位；东坡亭桥面与浅色栏杆按用户补充航拍，尺寸估算",
+      "surface": "concrete",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G12"
     },
     {
       "id": "canteen-link",
@@ -21820,7 +21875,10 @@
       ],
       "width": 8,
       "kind": "path",
-      "source": "本地规划图定位；东坡亭桥面与浅色栏杆按用户补充航拍，尺寸估算"
+      "source": "本地规划图定位；东坡亭桥面与浅色栏杆按用户补充航拍，尺寸估算",
+      "surface": "concrete",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G12"
     },
     {
       "id": "dongpo-entry",
@@ -21843,7 +21901,10 @@
       "kind": "path",
       "source": "本地规划图定位；东坡亭桥面与浅色栏杆按用户补充航拍，尺寸估算",
       "walkHeight": 0.06,
-      "modelRevision": "dongpo-pdf-2026-10-02"
+      "modelRevision": "dongpo-pdf-2026-10-02",
+      "surface": "concrete",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G11"
     },
     {
       "id": "dongpo-bridge",
@@ -21875,7 +21936,10 @@
         0.45,
         0.85
       ],
-      "railStyle": "白色水泥方柱、葫芦柱帽、下部实心框线栏板、上部镂空葫芦短柱、端部卷云圆盘"
+      "railStyle": "白色水泥方柱、葫芦柱帽、下部实心框线栏板、上部镂空葫芦短柱、端部卷云圆盘",
+      "surface": "concrete",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G12"
     },
     {
       "id": "dongpo-forecourt",
@@ -21896,7 +21960,10 @@
       ],
       "width": 5.5,
       "kind": "road",
-      "source": "本地规划图定位；东坡亭桥面与浅色栏杆按用户补充航拍，尺寸估算"
+      "source": "本地规划图定位；东坡亭桥面与浅色栏杆按用户补充航拍，尺寸估算",
+      "surface": "concrete",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G11"
     },
     {
       "id": "lake-grove",
@@ -21981,7 +22048,10 @@
         ]
       ],
       "modelRevision": "grove-photo-2026-10-02",
-      "walkHeight": 0.075
+      "walkHeight": 0.075,
+      "surface": "exposed-aggregate",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G10"
     },
     {
       "id": "grove-link",
@@ -22002,7 +22072,10 @@
       ],
       "width": 1.6,
       "kind": "path",
-      "source": "本地规划图定位；东坡亭桥面与浅色栏杆按用户补充航拍，尺寸估算"
+      "source": "本地规划图定位；东坡亭桥面与浅色栏杆按用户补充航拍，尺寸估算",
+      "surface": "exposed-aggregate",
+      "surfaceConfidence": "medium",
+      "groundAuditRegion": "G10"
     },
     {
       "id": "north",
@@ -22027,7 +22100,10 @@
       ],
       "width": 4,
       "kind": "road",
-      "source": "本地规划图定位；东坡亭桥面与浅色栏杆按用户补充航拍，尺寸估算"
+      "source": "本地规划图定位；东坡亭桥面与浅色栏杆按用户补充航拍，尺寸估算",
+      "surface": "concrete",
+      "surfaceConfidence": "medium",
+      "groundAuditRegion": "G08"
     },
     {
       "id": "bulletin-lane",
@@ -22056,7 +22132,10 @@
       ],
       "width": 4.5,
       "kind": "road",
-      "source": "本地规划图定位；东坡亭桥面与浅色栏杆按用户补充航拍，尺寸估算"
+      "source": "本地规划图定位；东坡亭桥面与浅色栏杆按用户补充航拍，尺寸估算",
+      "surface": "concrete",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G07"
     },
     {
       "id": "hefeng-entry",
@@ -22078,7 +22157,10 @@
           30.6012
         ]
       ],
-      "modelRevision": "grove-photo-2026-10-02"
+      "modelRevision": "grove-photo-2026-10-02",
+      "surface": "exposed-aggregate",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G10"
     },
     {
       "id": "round-pavilion-entry",
@@ -22100,7 +22182,10 @@
           -24.8979
         ]
       ],
-      "modelRevision": "grove-photo-2026-10-02"
+      "modelRevision": "grove-photo-2026-10-02",
+      "surface": "exposed-aggregate",
+      "surfaceConfidence": "high",
+      "groundAuditRegion": "G10"
     }
   ],
   "waterBodies": [
@@ -26233,102 +26318,6 @@
     },
     {
       "sourcePosition": [
-        703.98,
-        331.01
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.79,
-      "source": "规划图实心树冠符号",
-      "id": "plant-047",
-      "position": [
-        -130.7376,
-        -71.2316
-      ],
-      "height": 5.8,
-      "crownEnvelope": 3.1806
-    },
-    {
-      "sourcePosition": [
-        654.5,
-        333.23
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.7,
-      "source": "规划图实心树冠符号",
-      "id": "plant-048",
-      "position": [
-        -148.0156,
-        -64.9849
-      ],
-      "height": 5.8,
-      "crownEnvelope": 3.078
-    },
-    {
-      "sourcePosition": [
-        1336.24,
-        333.37
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.723,
-      "source": "规划图实心树冠符号",
-      "id": "plant-049",
-      "position": [
-        93.4357,
-        -140.1679
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.9642
-    },
-    {
-      "sourcePosition": [
-        1372.44,
-        335.62
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.719,
-      "source": "规划图实心树冠符号",
-      "id": "plant-050",
-      "position": [
-        106.5043,
-        -143.3656
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.9597
-    },
-    {
-      "sourcePosition": [
-        607.39,
-        336.3
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.7,
-      "source": "规划图实心树冠符号",
-      "id": "plant-051",
-      "position": [
-        -164.3604,
-        -58.6986
-      ],
-      "height": 5.8,
-      "crownEnvelope": 3.078
-    },
-    {
-      "sourcePosition": [
-        561.47,
-        338.68
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.6,
-      "source": "规划图实心树冠符号",
-      "id": "plant-052",
-      "position": [
-        -180.3599,
-        -52.788
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.964
-    },
-    {
-      "sourcePosition": [
         527.43,
         340.05
       ],
@@ -26345,22 +26334,6 @@
     },
     {
       "sourcePosition": [
-        1458.11,
-        342.37
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.23,
-      "source": "规划图实心树冠符号",
-      "id": "plant-054",
-      "position": [
-        137.5895,
-        -150.4284
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.5422
-    },
-    {
-      "sourcePosition": [
         365.23,
         343.06
       ],
@@ -26374,70 +26347,6 @@
       ],
       "height": 5.8,
       "crownEnvelope": 2.4396
-    },
-    {
-      "sourcePosition": [
-        481.68,
-        343.52
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.7,
-      "source": "规划图实心树冠符号",
-      "id": "plant-056",
-      "position": [
-        -208.0827,
-        -42.2684
-      ],
-      "height": 5.8,
-      "crownEnvelope": 3.078
-    },
-    {
-      "sourcePosition": [
-        439.59,
-        344.79
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.6,
-      "source": "规划图实心树冠符号",
-      "id": "plant-057",
-      "position": [
-        -222.8482,
-        -37.1737
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.964
-    },
-    {
-      "sourcePosition": [
-        402.23,
-        347.43
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.88,
-      "source": "规划图实心树冠符号",
-      "id": "plant-058",
-      "position": [
-        -235.7875,
-        -32.1157
-      ],
-      "height": 5.8,
-      "crownEnvelope": 3.2832
-    },
-    {
-      "sourcePosition": [
-        1454.89,
-        358.47
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.23,
-      "source": "规划图实心树冠符号",
-      "id": "plant-059",
-      "position": [
-        138.2255,
-        -144.3689
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.5422
     },
     {
       "sourcePosition": [
@@ -26473,22 +26382,6 @@
     },
     {
       "sourcePosition": [
-        1362.59,
-        366.32
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 0.772,
-      "source": "规划图实心树冠符号",
-      "id": "plant-062",
-      "position": [
-        106.4032,
-        -131.4019
-      ],
-      "height": 5.8,
-      "crownEnvelope": 0.8801
-    },
-    {
-      "sourcePosition": [
         736,
         373
       ],
@@ -26502,102 +26395,6 @@
       ],
       "height": 9.0,
       "crownEnvelope": 3.96
-    },
-    {
-      "sourcePosition": [
-        1321.44,
-        378.3
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.23,
-      "source": "规划图实心树冠符号",
-      "id": "plant-064",
-      "position": [
-        93.1516,
-        -122.6163
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.5422
-    },
-    {
-      "sourcePosition": [
-        690.85,
-        393.25
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.05,
-      "source": "规划图实心树冠符号",
-      "id": "plant-065",
-      "position": [
-        -128.521,
-        -47.7317
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.337
-    },
-    {
-      "sourcePosition": [
-        657.87,
-        395.98
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.05,
-      "source": "规划图实心树冠符号",
-      "id": "plant-066",
-      "position": [
-        -139.8994,
-        -43.1251
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.337
-    },
-    {
-      "sourcePosition": [
-        623.99,
-        396.77
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.14,
-      "source": "规划图实心树冠符号",
-      "id": "plant-067",
-      "position": [
-        -151.8106,
-        -39.1065
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.4396
-    },
-    {
-      "sourcePosition": [
-        1444.67,
-        397.82
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.595,
-      "source": "规划图实心树冠符号",
-      "id": "plant-068",
-      "position": [
-        138.9479,
-        -129.2997
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.8183
-    },
-    {
-      "sourcePosition": [
-        589.91,
-        398.66
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.05,
-      "source": "规划图实心树冠符号",
-      "id": "plant-069",
-      "position": [
-        -163.6712,
-        -34.6761
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.337
     },
     {
       "sourcePosition": [
@@ -26665,22 +26462,6 @@
     },
     {
       "sourcePosition": [
-        1313.66,
-        416.2
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.51,
-      "source": "规划图实心树冠符号",
-      "id": "plant-075",
-      "position": [
-        94.578,
-        -108.33
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.8614
-    },
-    {
-      "sourcePosition": [
         756,
         417
       ],
@@ -26697,22 +26478,6 @@
     },
     {
       "sourcePosition": [
-        1440.37,
-        421.07
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.05,
-      "source": "规划图实心树冠符号",
-      "id": "plant-077",
-      "position": [
-        139.9904,
-        -120.5878
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.337
-    },
-    {
-      "sourcePosition": [
         778.77,
         447.25
       ],
@@ -26726,22 +26491,6 @@
       ],
       "height": 5.8,
       "crownEnvelope": 2.223
-    },
-    {
-      "sourcePosition": [
-        1434.45,
-        447.81
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.33,
-      "source": "规划图实心树冠符号",
-      "id": "plant-081",
-      "position": [
-        140.8443,
-        -110.4606
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.6562
     },
     {
       "sourcePosition": [
@@ -26793,22 +26542,6 @@
     },
     {
       "sourcePosition": [
-        1428.28,
-        477.42
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.14,
-      "source": "规划图实心树冠符号",
-      "id": "plant-086",
-      "position": [
-        141.9262,
-        -99.289
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.4396
-    },
-    {
-      "sourcePosition": [
         766.77,
         484.0
       ],
@@ -26841,38 +26574,6 @@
     },
     {
       "sourcePosition": [
-        1343.9,
-        485.86
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.23,
-      "source": "规划图实心树冠符号",
-      "id": "plant-090",
-      "position": [
-        112.9738,
-        -86.987
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.5422
-    },
-    {
-      "sourcePosition": [
-        1366.56,
-        491.59
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.23,
-      "source": "规划图实心树冠符号",
-      "id": "plant-091",
-      "position": [
-        121.6312,
-        -87.4575
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.5422
-    },
-    {
-      "sourcePosition": [
         943.88,
         498.81
       ],
@@ -26886,38 +26587,6 @@
       ],
       "height": 5.8,
       "crownEnvelope": 2.1204
-    },
-    {
-      "sourcePosition": [
-        1392.81,
-        499.18
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.14,
-      "source": "规划图实心树冠符号",
-      "id": "plant-093",
-      "position": [
-        131.7653,
-        -87.6652
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.4396
-    },
-    {
-      "sourcePosition": [
-        1420.53,
-        504.09
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.14,
-      "source": "规划图实心树冠符号",
-      "id": "plant-094",
-      "position": [
-        142.1243,
-        -88.9847
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.4396
     },
     {
       "sourcePosition": [
@@ -26967,24 +26636,6 @@
       ],
       "height": 5.8,
       "crownEnvelope": 2.5422
-    },
-    {
-      "sourcePosition": [
-        1057.55,
-        551.73
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.67,
-      "source": "规划图实心树冠符号",
-      "id": "plant-103",
-      "position": [
-        -8.8179,
-        -34.0267
-      ],
-      "height": 12,
-      "crownEnvelope": 1.9038,
-      "displayKind": "conifer",
-      "displaySource": "User correction: conifer beside flag podium on the opposite side of stage."
     },
     {
       "sourcePosition": [
@@ -27084,42 +26735,6 @@
     },
     {
       "sourcePosition": [
-        960.37,
-        628.08
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.88,
-      "source": "规划图实心树冠符号",
-      "id": "plant-123",
-      "position": [
-        -7.1632,
-        5.7254
-      ],
-      "height": 15,
-      "crownEnvelope": 3.2832,
-      "displayKind": "coconut",
-      "displaySource": "体育馆正立面高棕榈实拍；保留根部位置"
-    },
-    {
-      "sourcePosition": [
-        982.0,
-        631.96
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.25,
-      "source": "规划图实心树冠符号",
-      "id": "plant-124",
-      "position": [
-        0.9252,
-        4.7131
-      ],
-      "height": 15,
-      "crownEnvelope": 1.425,
-      "displayKind": "coconut",
-      "displaySource": "体育馆正立面高棕榈实拍；保留根部位置"
-    },
-    {
-      "sourcePosition": [
         1206.5,
         635.39
       ],
@@ -27136,106 +26751,6 @@
     },
     {
       "sourcePosition": [
-        1104.76,
-        635.92
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.25,
-      "source": "规划图实心树冠符号",
-      "id": "plant-128",
-      "position": [
-        44.8381,
-        -7.4308
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.425
-    },
-    {
-      "sourcePosition": [
-        1067.28,
-        636.61
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.25,
-      "source": "规划图实心树冠符号",
-      "id": "plant-129",
-      "position": [
-        31.6405,
-        -3.0503
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.425
-    },
-    {
-      "sourcePosition": [
-        1011.51,
-        640.16
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 3.44,
-      "source": "规划图实心树冠符号",
-      "id": "plant-130",
-      "position": [
-        12.281,
-        4.3619
-      ],
-      "height": 15,
-      "crownEnvelope": 3.9216,
-      "displayKind": "coconut",
-      "displaySource": "体育馆正立面高棕榈实拍；保留根部位置"
-    },
-    {
-      "sourcePosition": [
-        1126.21,
-        642.36
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.25,
-      "source": "规划图实心树冠符号",
-      "id": "plant-132",
-      "position": [
-        53.1452,
-        -7.5162
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.425
-    },
-    {
-      "sourcePosition": [
-        1088.61,
-        643.22
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.25,
-      "source": "规划图实心树冠符号",
-      "id": "plant-134",
-      "position": [
-        39.9239,
-        -3.0622
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.425
-    },
-    {
-      "sourcePosition": [
-        1041.56,
-        644.02
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.14,
-      "source": "规划图实心树冠符号",
-      "id": "plant-135",
-      "position": [
-        23.3492,
-        2.4134
-      ],
-      "height": 15,
-      "crownEnvelope": 2.4396,
-      "displayKind": "coconut",
-      "displaySource": "体育馆正立面高棕榈实拍；保留根部位置"
-    },
-    {
-      "sourcePosition": [
         690.79,
         646.7
       ],
@@ -27249,22 +26764,6 @@
       ],
       "height": 5.8,
       "crownEnvelope": 2.964
-    },
-    {
-      "sourcePosition": [
-        1146.56,
-        648.8
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.25,
-      "source": "规划图实心树冠符号",
-      "id": "plant-138",
-      "position": [
-        61.0629,
-        -7.4802
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.425
     },
     {
       "sourcePosition": [
@@ -27288,22 +26787,6 @@
     },
     {
       "sourcePosition": [
-        1109.28,
-        649.61
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.25,
-      "source": "规划图实心树冠符号",
-      "id": "plant-140",
-      "position": [
-        47.9493,
-        -3.0792
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.425
-    },
-    {
-      "sourcePosition": [
         668.96,
         649.71
       ],
@@ -27317,38 +26800,6 @@
       ],
       "height": 5.8,
       "crownEnvelope": 3.078
-    },
-    {
-      "sourcePosition": [
-        1198.99,
-        655.26
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.42,
-      "source": "规划图实心树冠符号",
-      "id": "plant-143",
-      "position": [
-        80.3441,
-        -10.9772
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.7588
-    },
-    {
-      "sourcePosition": [
-        1186.14,
-        660.0
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.25,
-      "source": "规划图实心树冠符号",
-      "id": "plant-145",
-      "position": [
-        76.3161,
-        -7.8798
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.425
     },
     {
       "sourcePosition": [
@@ -27389,22 +26840,6 @@
       "name": "庭院丛生羽叶棕榈",
       "displaySource": "办公楼照片交叉比对后逐株重建；根部保留原规划坐标",
       "referenceModel": "office-palm-2"
-    },
-    {
-      "sourcePosition": [
-        1182.21,
-        672.36
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.25,
-      "source": "规划图实心树冠符号",
-      "id": "plant-154",
-      "position": [
-        76.2881,
-        -3.0669
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.425
     },
     {
       "sourcePosition": [
@@ -27461,22 +26896,6 @@
       "name": "庭院簇生锥形常绿灌木",
       "displaySource": "办公楼照片交叉比对后逐株重建；根部保留原规划坐标",
       "referenceModel": "office-evergreen-4"
-    },
-    {
-      "sourcePosition": [
-        1203.15,
-        678.46
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.25,
-      "source": "规划图实心树冠符号",
-      "id": "plant-158",
-      "position": [
-        84.3772,
-        -3.2165
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.425
     },
     {
       "sourcePosition": [
@@ -27540,38 +26959,6 @@
     },
     {
       "sourcePosition": [
-        1109.35,
-        702.05
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.77,
-      "source": "规划图实心树冠符号",
-      "id": "plant-167",
-      "position": [
-        53.7601,
-        15.4927
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.0178
-    },
-    {
-      "sourcePosition": [
-        1140.44,
-        711.6
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.86,
-      "source": "规划图实心树冠符号",
-      "id": "plant-169",
-      "position": [
-        65.8245,
-        15.4454
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.1204
-    },
-    {
-      "sourcePosition": [
         899.87,
         738.97
       ],
@@ -27592,22 +26979,6 @@
     },
     {
       "sourcePosition": [
-        809.25,
-        744.16
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.77,
-      "source": "规划图实心树冠符号",
-      "id": "plant-175",
-      "position": [
-        -47.8754,
-        63.5291
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.0178
-    },
-    {
-      "sourcePosition": [
         917.1,
         745.23
       ],
@@ -27625,22 +26996,6 @@
       "name": "办公楼前不规则疏叶乔木",
       "displaySource": "办公楼照片交叉比对后逐株重建；根部保留原规划坐标",
       "referenceModel": "office-paperbark-9"
-    },
-    {
-      "sourcePosition": [
-        1054,
-        749
-      ],
-      "kind": "coconut",
-      "crownRadius": 2.4,
-      "source": "规划图星形椰子树符号逐点描绘",
-      "id": "plant-178",
-      "position": [
-        39.3378,
-        38.2353
-      ],
-      "height": 9.0,
-      "crownEnvelope": 3.96
     },
     {
       "sourcePosition": [
@@ -27680,22 +27035,6 @@
     },
     {
       "sourcePosition": [
-        1081,
-        756
-      ],
-      "kind": "coconut",
-      "crownRadius": 2.4,
-      "source": "规划图星形椰子树符号逐点描绘",
-      "id": "plant-183",
-      "position": [
-        49.6723,
-        37.7359
-      ],
-      "height": 9.0,
-      "crownEnvelope": 3.96
-    },
-    {
-      "sourcePosition": [
         960.6,
         759.84
       ],
@@ -27716,38 +27055,6 @@
     },
     {
       "sourcePosition": [
-        1100,
-        764
-      ],
-      "kind": "coconut",
-      "crownRadius": 2.4,
-      "source": "规划图星形椰子树符号逐点描绘",
-      "id": "plant-186",
-      "position": [
-        57.284,
-        38.4737
-      ],
-      "height": 9.0,
-      "crownEnvelope": 3.96
-    },
-    {
-      "sourcePosition": [
-        802.03,
-        764.6
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.86,
-      "source": "规划图实心树冠符号",
-      "id": "plant-187",
-      "position": [
-        -48.1773,
-        71.5678
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.1204
-    },
-    {
-      "sourcePosition": [
         980.5,
         765.62
       ],
@@ -27765,22 +27072,6 @@
       "name": "办公楼前不规则疏叶乔木",
       "displaySource": "办公楼照片交叉比对后逐株重建；根部保留原规划坐标",
       "referenceModel": "office-paperbark-12"
-    },
-    {
-      "sourcePosition": [
-        1124,
-        771
-      ],
-      "kind": "coconut",
-      "crownRadius": 2.4,
-      "source": "规划图星形椰子树符号逐点描绘",
-      "id": "plant-190",
-      "position": [
-        66.5561,
-        38.3053
-      ],
-      "height": 9.0,
-      "crownEnvelope": 3.96
     },
     {
       "sourcePosition": [
@@ -27836,22 +27127,6 @@
     },
     {
       "sourcePosition": [
-        1147,
-        778
-      ],
-      "kind": "coconut",
-      "crownRadius": 2.4,
-      "source": "规划图星形椰子树符号逐点描绘",
-      "id": "plant-194",
-      "position": [
-        75.4741,
-        38.2474
-      ],
-      "height": 9.0,
-      "crownEnvelope": 3.96
-    },
-    {
-      "sourcePosition": [
         312.41,
         782.35
       ],
@@ -27865,54 +27140,6 @@
       ],
       "height": 5.8,
       "crownEnvelope": 2.4396
-    },
-    {
-      "sourcePosition": [
-        1170,
-        783
-      ],
-      "kind": "coconut",
-      "crownRadius": 2.4,
-      "source": "规划图星形椰子树符号逐点描绘",
-      "id": "plant-196",
-      "position": [
-        84.1715,
-        37.4808
-      ],
-      "height": 9.0,
-      "crownEnvelope": 3.96
-    },
-    {
-      "sourcePosition": [
-        929.31,
-        783.43
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.67,
-      "source": "规划图实心树冠符号",
-      "id": "plant-197",
-      "position": [
-        -1.0231,
-        64.1939
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.9038
-    },
-    {
-      "sourcePosition": [
-        795.21,
-        785.48
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.67,
-      "source": "规划图实心树冠符号",
-      "id": "plant-198",
-      "position": [
-        -48.2889,
-        79.7183
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.9038
     },
     {
       "sourcePosition": [
@@ -27945,86 +27172,6 @@
       ],
       "height": 5.8,
       "crownEnvelope": 2.4396
-    },
-    {
-      "sourcePosition": [
-        952.02,
-        791.44
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.95,
-      "source": "规划图实心树冠符号",
-      "id": "plant-202",
-      "position": [
-        7.9035,
-        64.5258
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.223
-    },
-    {
-      "sourcePosition": [
-        922.33,
-        805.0
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.58,
-      "source": "规划图实心树冠符号",
-      "id": "plant-204",
-      "position": [
-        -1.1152,
-        72.6065
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.8012
-    },
-    {
-      "sourcePosition": [
-        791.76,
-        813.25
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.23,
-      "source": "规划图实心树冠符号",
-      "id": "plant-205",
-      "position": [
-        -46.4469,
-        89.9381
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.5422
-    },
-    {
-      "sourcePosition": [
-        944.43,
-        814.92
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.86,
-      "source": "规划图实心树冠符号",
-      "id": "plant-206",
-      "position": [
-        7.8061,
-        73.6824
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.1204
-    },
-    {
-      "sourcePosition": [
-        817.61,
-        822.57
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.42,
-      "source": "规划图实心树冠符号",
-      "id": "plant-207",
-      "position": [
-        -36.2637,
-        90.3877
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.7588
     },
     {
       "sourcePosition": [
@@ -28076,38 +27223,6 @@
     },
     {
       "sourcePosition": [
-        873.73,
-        842.01
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.51,
-      "source": "规划图实心树冠符号",
-      "id": "plant-213",
-      "position": [
-        -14.2438,
-        91.0825
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.8614
-    },
-    {
-      "sourcePosition": [
-        778.32,
-        846.0
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.05,
-      "source": "规划图实心树冠符号",
-      "id": "plant-214",
-      "position": [
-        -47.5934,
-        103.0248
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.337
-    },
-    {
-      "sourcePosition": [
         905.48,
         849.26
       ],
@@ -28121,22 +27236,6 @@
       ],
       "height": 5.8,
       "crownEnvelope": 2.5422
-    },
-    {
-      "sourcePosition": [
-        812.03,
-        857.27
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.77,
-      "source": "规划图实心树冠符号",
-      "id": "plant-216",
-      "position": [
-        -34.4114,
-        103.2979
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.0178
     },
     {
       "sourcePosition": [
@@ -28316,22 +27415,6 @@
     },
     {
       "sourcePosition": [
-        835.76,
-        912.46
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.4,
-      "source": "规划图实心树冠符号",
-      "id": "plant-233",
-      "position": [
-        -19.9181,
-        120.2336
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.596
-    },
-    {
-      "sourcePosition": [
         1003.58,
         913.26
       ],
@@ -28364,22 +27447,6 @@
     },
     {
       "sourcePosition": [
-        856.27,
-        918.0
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.49,
-      "source": "规划图实心树冠符号",
-      "id": "plant-236",
-      "position": [
-        -12.0432,
-        119.9331
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.6986
-    },
-    {
-      "sourcePosition": [
         1029.63,
         922.06
       ],
@@ -28409,38 +27476,6 @@
       ],
       "height": 5.8,
       "crownEnvelope": 2.6562
-    },
-    {
-      "sourcePosition": [
-        876.47,
-        924.58
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.3,
-      "source": "规划图实心树冠符号",
-      "id": "plant-239",
-      "position": [
-        -4.1632,
-        120.0354
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.482
-    },
-    {
-      "sourcePosition": [
-        757.35,
-        929.89
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.14,
-      "source": "规划图实心树冠符号",
-      "id": "plant-240",
-      "position": [
-        -45.7644,
-        135.0618
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.4396
     },
     {
       "sourcePosition": [
@@ -28508,22 +27543,6 @@
     },
     {
       "sourcePosition": [
-        838.23,
-        941.66
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.49,
-      "source": "规划图实心树冠符号",
-      "id": "plant-246",
-      "position": [
-        -15.8217,
-        130.3069
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.6986
-    },
-    {
-      "sourcePosition": [
         938.52,
         943.88
       ],
@@ -28569,39 +27588,6 @@
       ],
       "height": 5.8,
       "crownEnvelope": 2.1204
-    },
-    {
-      "sourcePosition": [
-        865.81,
-        957.67
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.127,
-      "source": "规划图实心树冠符号",
-      "id": "plant-250",
-      "position": [
-        0.7124,
-        132.9359
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.4248,
-      "comprehensiveClearanceRevision": "comprehensive-photo-2026-09-29"
-    },
-    {
-      "sourcePosition": [
-        759.29,
-        970.8
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.6,
-      "source": "规划图实心树冠符号",
-      "id": "plant-251",
-      "position": [
-        -40.5637,
-        149.3426
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.964
     },
     {
       "sourcePosition": [
@@ -28651,38 +27637,6 @@
       ],
       "height": 5.8,
       "crownEnvelope": 2.1204
-    },
-    {
-      "sourcePosition": [
-        793.91,
-        985.43
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.23,
-      "source": "规划图实心树冠符号",
-      "id": "plant-255",
-      "position": [
-        -26.6887,
-        150.7058
-      ],
-      "height": 5.8,
-      "crownEnvelope": 2.5422
-    },
-    {
-      "sourcePosition": [
-        852.1,
-        1004.15
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 1.4,
-      "source": "规划图实心树冠符号",
-      "id": "plant-256",
-      "position": [
-        -4.0148,
-        150.9173
-      ],
-      "height": 5.8,
-      "crownEnvelope": 1.596
     },
     {
       "sourcePosition": [
@@ -31310,6 +30264,2760 @@
       "displaySource": "DJI_0302 9.8-15.4 秒与食堂照片交叉定位；位置、树种和冠幅均为实景建模估计",
       "sourceRegion": "dining",
       "estimate": true
+    },
+    {
+      "id": "plant-pa-library-conifer",
+      "position": [
+        -174.5,
+        -18.4
+      ],
+      "kind": "conifer",
+      "form": "conifer",
+      "height": 18.8,
+      "crownRadius": 2.0,
+      "referenceModel": "audit-plant-pa-library-conifer",
+      "displayKind": "audit-plant-pa-library-conifer",
+      "sourceRegion": "plant-audit-R01",
+      "photoEvidence": [
+        "L05",
+        "L12",
+        "L26"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "photo-relative-estimate",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "高瘦针叶形树"
+    },
+    {
+      "id": "plant-pa-library-palm",
+      "position": [
+        -177.4,
+        -18.8
+      ],
+      "kind": "coconut",
+      "form": "palm",
+      "height": 16.5,
+      "crownRadius": 2.6,
+      "referenceModel": "audit-plant-pa-library-palm",
+      "displayKind": "audit-plant-pa-library-palm",
+      "sourceRegion": "plant-audit-R01",
+      "photoEvidence": [
+        "L05",
+        "L12"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "photo-relative-estimate",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "高干羽叶棕榈"
+    },
+    {
+      "id": "plant-pa-library-shrub-0",
+      "position": [
+        -188.0,
+        -18.4
+      ],
+      "kind": "broadleaf",
+      "form": "shrub",
+      "height": 1.45,
+      "crownRadius": 1.3,
+      "referenceModel": "audit-plant-pa-library-shrub-0",
+      "displayKind": "audit-plant-pa-library-shrub-0",
+      "sourceRegion": "plant-audit-R01",
+      "photoEvidence": [
+        "L12",
+        "L26"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "photo-relative-estimate",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "不规则灌木"
+    },
+    {
+      "id": "plant-pa-library-shrub-1",
+      "position": [
+        -183.8,
+        -17.6
+      ],
+      "kind": "broadleaf",
+      "form": "shrub",
+      "height": 1.45,
+      "crownRadius": 1.3,
+      "referenceModel": "audit-plant-pa-library-shrub-1",
+      "displayKind": "audit-plant-pa-library-shrub-1",
+      "sourceRegion": "plant-audit-R01",
+      "photoEvidence": [
+        "L12",
+        "L26"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "photo-relative-estimate",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "不规则灌木"
+    },
+    {
+      "id": "plant-pa-library-shrub-2",
+      "position": [
+        -174.1,
+        -14.1
+      ],
+      "kind": "broadleaf",
+      "form": "shrub",
+      "height": 1.45,
+      "crownRadius": 1.3,
+      "referenceModel": "audit-plant-pa-library-shrub-2",
+      "displayKind": "audit-plant-pa-library-shrub-2",
+      "sourceRegion": "plant-audit-R01",
+      "photoEvidence": [
+        "L12",
+        "L26"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "photo-relative-estimate",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "不规则灌木"
+    },
+    {
+      "sourcePosition": [
+        1104.76,
+        635.92
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.7,
+      "source": "规划图实心树冠符号",
+      "id": "plant-128",
+      "position": [
+        44.8381,
+        -7.4308
+      ],
+      "height": 6.4,
+      "crownEnvelope": 1.425,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-128",
+      "displayKind": "audit-plant-128",
+      "sourceRegion": "plant-audit-R02",
+      "photoEvidence": [
+        "D10",
+        "D34",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.0,
+        -0.65
+      ],
+      "forkHeight": 0.25,
+      "whitewash": true
+    },
+    {
+      "sourcePosition": [
+        1126.21,
+        642.36
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.7,
+      "source": "规划图实心树冠符号",
+      "id": "plant-132",
+      "position": [
+        53.1452,
+        -7.5162
+      ],
+      "height": 6.8500000000000005,
+      "crownEnvelope": 1.425,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-132",
+      "displayKind": "audit-plant-132",
+      "sourceRegion": "plant-audit-R02",
+      "photoEvidence": [
+        "D10",
+        "D34",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.37866194316355345,
+        -0.65
+      ],
+      "forkHeight": 0.25,
+      "whitewash": true
+    },
+    {
+      "sourcePosition": [
+        1146.56,
+        648.8
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.7,
+      "source": "规划图实心树冠符号",
+      "id": "plant-138",
+      "position": [
+        61.0629,
+        -7.4802
+      ],
+      "height": 7.300000000000001,
+      "crownEnvelope": 1.425,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-138",
+      "displayKind": "audit-plant-138",
+      "sourceRegion": "plant-audit-R02",
+      "photoEvidence": [
+        "D10",
+        "D34",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.4091838420715568,
+        -0.65
+      ],
+      "forkHeight": 0.25,
+      "whitewash": true
+    },
+    {
+      "sourcePosition": [
+        1198.99,
+        655.26
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.7,
+      "source": "规划图实心树冠符号",
+      "id": "plant-143",
+      "position": [
+        80.3441,
+        -10.9772
+      ],
+      "height": 6.4,
+      "crownEnvelope": 2.7588,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-143",
+      "displayKind": "audit-plant-143",
+      "sourceRegion": "plant-audit-R02",
+      "photoEvidence": [
+        "D10",
+        "D34",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.06350400362694025,
+        -0.65
+      ],
+      "forkHeight": 0.25,
+      "whitewash": true
+    },
+    {
+      "sourcePosition": [
+        1186.14,
+        660.0
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.7,
+      "source": "规划图实心树冠符号",
+      "id": "plant-145",
+      "position": [
+        76.3161,
+        -7.8798
+      ],
+      "height": 6.8500000000000005,
+      "crownEnvelope": 1.425,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-145",
+      "displayKind": "audit-plant-145",
+      "sourceRegion": "plant-audit-R02",
+      "photoEvidence": [
+        "D10",
+        "D34",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        -0.3405611228885677,
+        -0.65
+      ],
+      "forkHeight": 0.25,
+      "whitewash": true
+    },
+    {
+      "sourcePosition": [
+        1067.28,
+        636.61
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 0.72,
+      "source": "规划图实心树冠符号",
+      "id": "plant-129",
+      "position": [
+        31.6405,
+        -3.0503
+      ],
+      "height": 0.85,
+      "crownEnvelope": 1.425,
+      "form": "shrub",
+      "referenceModel": "audit-plant-129",
+      "displayKind": "audit-plant-129",
+      "sourceRegion": "plant-audit-R02",
+      "photoEvidence": [
+        "D10",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "不规则灌木",
+      "lean": [
+        0.0,
+        -0.65
+      ]
+    },
+    {
+      "sourcePosition": [
+        1088.61,
+        643.22
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 0.72,
+      "source": "规划图实心树冠符号",
+      "id": "plant-134",
+      "position": [
+        39.9239,
+        -3.0622
+      ],
+      "height": 1.3,
+      "crownEnvelope": 1.425,
+      "form": "shrub",
+      "referenceModel": "audit-plant-134",
+      "displayKind": "audit-plant-134",
+      "sourceRegion": "plant-audit-R02",
+      "photoEvidence": [
+        "D10",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "不规则灌木",
+      "lean": [
+        0.37866194316355345,
+        -0.65
+      ]
+    },
+    {
+      "sourcePosition": [
+        1109.28,
+        649.61
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 0.72,
+      "source": "规划图实心树冠符号",
+      "id": "plant-140",
+      "position": [
+        47.9493,
+        -3.0792
+      ],
+      "height": 1.75,
+      "crownEnvelope": 1.425,
+      "form": "shrub",
+      "referenceModel": "audit-plant-140",
+      "displayKind": "audit-plant-140",
+      "sourceRegion": "plant-audit-R02",
+      "photoEvidence": [
+        "D10",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "不规则灌木",
+      "lean": [
+        0.4091838420715568,
+        -0.65
+      ]
+    },
+    {
+      "sourcePosition": [
+        1182.21,
+        672.36
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 0.72,
+      "source": "规划图实心树冠符号",
+      "id": "plant-154",
+      "position": [
+        76.2881,
+        -3.0669
+      ],
+      "height": 0.85,
+      "crownEnvelope": 1.425,
+      "form": "shrub",
+      "referenceModel": "audit-plant-154",
+      "displayKind": "audit-plant-154",
+      "sourceRegion": "plant-audit-R02",
+      "photoEvidence": [
+        "D10",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "不规则灌木",
+      "lean": [
+        0.06350400362694025,
+        -0.65
+      ]
+    },
+    {
+      "sourcePosition": [
+        1203.15,
+        678.46
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 0.72,
+      "source": "规划图实心树冠符号",
+      "id": "plant-158",
+      "position": [
+        84.3772,
+        -3.2165
+      ],
+      "height": 1.3,
+      "crownEnvelope": 1.425,
+      "form": "shrub",
+      "referenceModel": "audit-plant-158",
+      "displayKind": "audit-plant-158",
+      "sourceRegion": "plant-audit-R02",
+      "photoEvidence": [
+        "D10",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "不规则灌木",
+      "lean": [
+        -0.3405611228885677,
+        -0.65
+      ]
+    },
+    {
+      "id": "plant-pa-dorm-hedge-0",
+      "position": [
+        37.25,
+        -0.9
+      ],
+      "kind": "broadleaf",
+      "form": "hedge",
+      "height": 0.9,
+      "crownRadius": 4.75,
+      "referenceModel": "audit-plant-pa-dorm-hedge-0",
+      "displayKind": "audit-plant-pa-dorm-hedge-0",
+      "sourceRegion": "plant-audit-R02",
+      "photoEvidence": [
+        "D10",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "photo-relative-estimate",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "连续修剪绿篱",
+      "length": 9.5,
+      "width": 0.68
+    },
+    {
+      "id": "plant-pa-dorm-hedge-1",
+      "position": [
+        47.5,
+        -0.9
+      ],
+      "kind": "broadleaf",
+      "form": "hedge",
+      "height": 0.9,
+      "crownRadius": 5.5,
+      "referenceModel": "audit-plant-pa-dorm-hedge-1",
+      "displayKind": "audit-plant-pa-dorm-hedge-1",
+      "sourceRegion": "plant-audit-R02",
+      "photoEvidence": [
+        "D10",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "photo-relative-estimate",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "连续修剪绿篱",
+      "length": 11,
+      "width": 0.68
+    },
+    {
+      "id": "plant-pa-dorm-hedge-2",
+      "position": [
+        55.75,
+        -0.9
+      ],
+      "kind": "broadleaf",
+      "form": "hedge",
+      "height": 0.9,
+      "crownRadius": 2.75,
+      "referenceModel": "audit-plant-pa-dorm-hedge-2",
+      "displayKind": "audit-plant-pa-dorm-hedge-2",
+      "sourceRegion": "plant-audit-R02",
+      "photoEvidence": [
+        "D10",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "photo-relative-estimate",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "连续修剪绿篱",
+      "length": 5.5,
+      "width": 0.68
+    },
+    {
+      "id": "plant-pa-dorm-hedge-3",
+      "position": [
+        72.5,
+        -0.9
+      ],
+      "kind": "broadleaf",
+      "form": "hedge",
+      "height": 0.9,
+      "crownRadius": 4.5,
+      "referenceModel": "audit-plant-pa-dorm-hedge-3",
+      "displayKind": "audit-plant-pa-dorm-hedge-3",
+      "sourceRegion": "plant-audit-R02",
+      "photoEvidence": [
+        "D10",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "photo-relative-estimate",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "连续修剪绿篱",
+      "length": 9,
+      "width": 0.68
+    },
+    {
+      "id": "plant-pa-dorm-hedge-4",
+      "position": [
+        82.5,
+        -0.9
+      ],
+      "kind": "broadleaf",
+      "form": "hedge",
+      "height": 0.9,
+      "crownRadius": 5.5,
+      "referenceModel": "audit-plant-pa-dorm-hedge-4",
+      "displayKind": "audit-plant-pa-dorm-hedge-4",
+      "sourceRegion": "plant-audit-R02",
+      "photoEvidence": [
+        "D10",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "photo-relative-estimate",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "连续修剪绿篱",
+      "length": 11,
+      "width": 0.68
+    },
+    {
+      "sourcePosition": [
+        1109.35,
+        702.05
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 1.2,
+      "source": "规划图实心树冠符号",
+      "id": "plant-167",
+      "position": [
+        53.7601,
+        15.4927
+      ],
+      "height": 1.4,
+      "crownEnvelope": 2.0178,
+      "form": "flower-shrub",
+      "referenceModel": "audit-plant-167",
+      "displayKind": "audit-plant-167",
+      "sourceRegion": "plant-audit-R03",
+      "photoEvidence": [
+        "D21",
+        "D55"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "院落花灌木",
+      "planter": true
+    },
+    {
+      "sourcePosition": [
+        1140.44,
+        711.6
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 1.2,
+      "source": "规划图实心树冠符号",
+      "id": "plant-169",
+      "position": [
+        65.8245,
+        15.4454
+      ],
+      "height": 1.4,
+      "crownEnvelope": 2.1204,
+      "form": "flower-shrub",
+      "referenceModel": "audit-plant-169",
+      "displayKind": "audit-plant-169",
+      "sourceRegion": "plant-audit-R03",
+      "photoEvidence": [
+        "D21",
+        "D55"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "院落花灌木",
+      "planter": true
+    },
+    {
+      "sourcePosition": [
+        1054,
+        749
+      ],
+      "kind": "coconut",
+      "crownRadius": 2.3,
+      "source": "规划图星形椰子树符号逐点描绘",
+      "id": "plant-178",
+      "position": [
+        39.3378,
+        38.2353
+      ],
+      "height": 9.0,
+      "crownEnvelope": 3.96,
+      "form": "palm",
+      "referenceModel": "audit-plant-178",
+      "displayKind": "audit-plant-178",
+      "sourceRegion": "plant-audit-R03",
+      "photoEvidence": [
+        "D51",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "高干羽叶棕榈",
+      "lean": [
+        0.0,
+        -0.65
+      ],
+      "whitewash": true
+    },
+    {
+      "sourcePosition": [
+        1081,
+        756
+      ],
+      "kind": "coconut",
+      "crownRadius": 2.3,
+      "source": "规划图星形椰子树符号逐点描绘",
+      "id": "plant-183",
+      "position": [
+        49.6723,
+        37.7359
+      ],
+      "height": 9.45,
+      "crownEnvelope": 3.96,
+      "form": "palm",
+      "referenceModel": "audit-plant-183",
+      "displayKind": "audit-plant-183",
+      "sourceRegion": "plant-audit-R03",
+      "photoEvidence": [
+        "D51",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "高干羽叶棕榈",
+      "lean": [
+        0.37866194316355345,
+        -0.65
+      ],
+      "whitewash": true
+    },
+    {
+      "sourcePosition": [
+        1100,
+        764
+      ],
+      "kind": "coconut",
+      "crownRadius": 2.3,
+      "source": "规划图星形椰子树符号逐点描绘",
+      "id": "plant-186",
+      "position": [
+        57.284,
+        38.4737
+      ],
+      "height": 9.9,
+      "crownEnvelope": 3.96,
+      "form": "palm",
+      "referenceModel": "audit-plant-186",
+      "displayKind": "audit-plant-186",
+      "sourceRegion": "plant-audit-R03",
+      "photoEvidence": [
+        "D51",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "高干羽叶棕榈",
+      "lean": [
+        0.4091838420715568,
+        -0.65
+      ],
+      "whitewash": true
+    },
+    {
+      "sourcePosition": [
+        1124,
+        771
+      ],
+      "kind": "coconut",
+      "crownRadius": 2.3,
+      "source": "规划图星形椰子树符号逐点描绘",
+      "id": "plant-190",
+      "position": [
+        66.5561,
+        38.3053
+      ],
+      "height": 9.0,
+      "crownEnvelope": 3.96,
+      "form": "palm",
+      "referenceModel": "audit-plant-190",
+      "displayKind": "audit-plant-190",
+      "sourceRegion": "plant-audit-R03",
+      "photoEvidence": [
+        "D51",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "高干羽叶棕榈",
+      "lean": [
+        0.06350400362694025,
+        -0.65
+      ],
+      "whitewash": true
+    },
+    {
+      "sourcePosition": [
+        1147,
+        778
+      ],
+      "kind": "coconut",
+      "crownRadius": 2.3,
+      "source": "规划图星形椰子树符号逐点描绘",
+      "id": "plant-194",
+      "position": [
+        75.4741,
+        38.2474
+      ],
+      "height": 9.45,
+      "crownEnvelope": 3.96,
+      "form": "palm",
+      "referenceModel": "audit-plant-194",
+      "displayKind": "audit-plant-194",
+      "sourceRegion": "plant-audit-R03",
+      "photoEvidence": [
+        "D51",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "高干羽叶棕榈",
+      "lean": [
+        -0.3405611228885677,
+        -0.65
+      ],
+      "whitewash": true
+    },
+    {
+      "sourcePosition": [
+        1170,
+        783
+      ],
+      "kind": "coconut",
+      "crownRadius": 2.3,
+      "source": "规划图星形椰子树符号逐点描绘",
+      "id": "plant-196",
+      "position": [
+        84.1715,
+        37.4808
+      ],
+      "height": 9.9,
+      "crownEnvelope": 3.96,
+      "form": "palm",
+      "referenceModel": "audit-plant-196",
+      "displayKind": "audit-plant-196",
+      "sourceRegion": "plant-audit-R03",
+      "photoEvidence": [
+        "D51",
+        "D39"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "高干羽叶棕榈",
+      "lean": [
+        -0.4315159235984123,
+        -0.65
+      ],
+      "whitewash": true
+    },
+    {
+      "id": "plant-pa-dorm-clump",
+      "position": [
+        82.4,
+        35.5
+      ],
+      "kind": "coconut",
+      "form": "clump-palm",
+      "height": 2.6,
+      "crownRadius": 1.6,
+      "referenceModel": "audit-plant-pa-dorm-clump",
+      "displayKind": "audit-plant-pa-dorm-clump",
+      "sourceRegion": "plant-audit-R03",
+      "photoEvidence": [
+        "D51"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "photo-relative-estimate",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "丛生棕榈"
+    },
+    {
+      "sourcePosition": [
+        795.21,
+        785.48
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 4.3,
+      "source": "规划图实心树冠符号",
+      "id": "plant-198",
+      "position": [
+        -48.2889,
+        79.7183
+      ],
+      "height": 8.8,
+      "crownEnvelope": 1.9038,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-198",
+      "displayKind": "audit-plant-198",
+      "sourceRegion": "plant-audit-R04",
+      "photoEvidence": [
+        "W02",
+        "W06",
+        "W08"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.0,
+        -0.65
+      ],
+      "forkHeight": 0.28,
+      "trunkRadius": 0.36
+    },
+    {
+      "sourcePosition": [
+        791.76,
+        813.25
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 4.3,
+      "source": "规划图实心树冠符号",
+      "id": "plant-205",
+      "position": [
+        -46.4469,
+        89.9381
+      ],
+      "height": 9.25,
+      "crownEnvelope": 2.5422,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-205",
+      "displayKind": "audit-plant-205",
+      "sourceRegion": "plant-audit-R04",
+      "photoEvidence": [
+        "W02",
+        "W06",
+        "W08"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.37866194316355345,
+        -0.65
+      ],
+      "forkHeight": 0.28,
+      "trunkRadius": 0.36
+    },
+    {
+      "sourcePosition": [
+        817.61,
+        822.57
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 4.3,
+      "source": "规划图实心树冠符号",
+      "id": "plant-207",
+      "position": [
+        -36.2637,
+        90.3877
+      ],
+      "height": 9.700000000000001,
+      "crownEnvelope": 2.7588,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-207",
+      "displayKind": "audit-plant-207",
+      "sourceRegion": "plant-audit-R04",
+      "photoEvidence": [
+        "W02",
+        "W06",
+        "W08"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.4091838420715568,
+        -0.65
+      ],
+      "forkHeight": 0.28,
+      "trunkRadius": 0.36
+    },
+    {
+      "sourcePosition": [
+        873.73,
+        842.01
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 4.3,
+      "source": "规划图实心树冠符号",
+      "id": "plant-213",
+      "position": [
+        -14.2438,
+        91.0825
+      ],
+      "height": 8.8,
+      "crownEnvelope": 2.8614,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-213",
+      "displayKind": "audit-plant-213",
+      "sourceRegion": "plant-audit-R04",
+      "photoEvidence": [
+        "W02",
+        "W06",
+        "W08"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.06350400362694025,
+        -0.65
+      ],
+      "forkHeight": 0.28,
+      "trunkRadius": 0.36
+    },
+    {
+      "sourcePosition": [
+        778.32,
+        846.0
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.4,
+      "source": "规划图实心树冠符号",
+      "id": "plant-214",
+      "position": [
+        -47.5934,
+        103.0248
+      ],
+      "height": 9.25,
+      "crownEnvelope": 2.337,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-214",
+      "displayKind": "audit-plant-214",
+      "sourceRegion": "plant-audit-R04",
+      "photoEvidence": [
+        "W02",
+        "W06",
+        "W08"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0,
+        -1.2
+      ],
+      "forkHeight": 0.28,
+      "trunkRadius": 0.36
+    },
+    {
+      "sourcePosition": [
+        812.03,
+        857.27
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.4,
+      "source": "规划图实心树冠符号",
+      "id": "plant-216",
+      "position": [
+        -34.4114,
+        103.2979
+      ],
+      "height": 9.700000000000001,
+      "crownEnvelope": 2.0178,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-216",
+      "displayKind": "audit-plant-216",
+      "sourceRegion": "plant-audit-R04",
+      "photoEvidence": [
+        "W02",
+        "W06",
+        "W08"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0,
+        -1.2
+      ],
+      "forkHeight": 0.28,
+      "trunkRadius": 0.36
+    },
+    {
+      "sourcePosition": [
+        835.76,
+        912.46
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.35,
+      "source": "规划图实心树冠符号",
+      "id": "plant-233",
+      "position": [
+        -19.9181,
+        120.2336
+      ],
+      "height": 7.4,
+      "crownEnvelope": 1.596,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-233",
+      "displayKind": "audit-plant-233",
+      "sourceRegion": "plant-audit-R05",
+      "photoEvidence": [
+        "C19",
+        "C24",
+        "C50"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.0,
+        -0.65
+      ],
+      "forkHeight": 0.3
+    },
+    {
+      "sourcePosition": [
+        856.27,
+        918.0
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.35,
+      "source": "规划图实心树冠符号",
+      "id": "plant-236",
+      "position": [
+        -12.0432,
+        119.9331
+      ],
+      "height": 7.8500000000000005,
+      "crownEnvelope": 1.6986,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-236",
+      "displayKind": "audit-plant-236",
+      "sourceRegion": "plant-audit-R05",
+      "photoEvidence": [
+        "C19",
+        "C24",
+        "C50"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.37866194316355345,
+        -0.65
+      ],
+      "forkHeight": 0.3
+    },
+    {
+      "sourcePosition": [
+        876.47,
+        924.58
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.35,
+      "source": "规划图实心树冠符号",
+      "id": "plant-239",
+      "position": [
+        -4.1632,
+        120.0354
+      ],
+      "height": 8.3,
+      "crownEnvelope": 1.482,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-239",
+      "displayKind": "audit-plant-239",
+      "sourceRegion": "plant-audit-R05",
+      "photoEvidence": [
+        "C19",
+        "C24",
+        "C50"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.4091838420715568,
+        -0.65
+      ],
+      "forkHeight": 0.3
+    },
+    {
+      "sourcePosition": [
+        757.35,
+        929.89
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.35,
+      "source": "规划图实心树冠符号",
+      "id": "plant-240",
+      "position": [
+        -45.7644,
+        135.0618
+      ],
+      "height": 7.4,
+      "crownEnvelope": 2.4396,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-240",
+      "displayKind": "audit-plant-240",
+      "sourceRegion": "plant-audit-R05",
+      "photoEvidence": [
+        "C19",
+        "C24",
+        "C50"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.06350400362694025,
+        -0.65
+      ],
+      "forkHeight": 0.3
+    },
+    {
+      "sourcePosition": [
+        838.23,
+        941.66
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.35,
+      "source": "规划图实心树冠符号",
+      "id": "plant-246",
+      "position": [
+        -15.8217,
+        130.3069
+      ],
+      "height": 7.8500000000000005,
+      "crownEnvelope": 1.6986,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-246",
+      "displayKind": "audit-plant-246",
+      "sourceRegion": "plant-audit-R05",
+      "photoEvidence": [
+        "C19",
+        "C24",
+        "C50"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        -0.3405611228885677,
+        -0.65
+      ],
+      "forkHeight": 0.3
+    },
+    {
+      "sourcePosition": [
+        865.81,
+        957.67
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.35,
+      "source": "规划图实心树冠符号",
+      "id": "plant-250",
+      "position": [
+        0.7124,
+        132.9359
+      ],
+      "height": 8.3,
+      "crownEnvelope": 2.4248,
+      "comprehensiveClearanceRevision": "comprehensive-photo-2026-09-29",
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-250",
+      "displayKind": "audit-plant-250",
+      "sourceRegion": "plant-audit-R05",
+      "photoEvidence": [
+        "C19",
+        "C24",
+        "C50"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        -0.4315159235984123,
+        -0.65
+      ],
+      "forkHeight": 0.3
+    },
+    {
+      "sourcePosition": [
+        759.29,
+        970.8
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.35,
+      "source": "规划图实心树冠符号",
+      "id": "plant-251",
+      "position": [
+        -40.5637,
+        149.3426
+      ],
+      "height": 7.4,
+      "crownEnvelope": 2.964,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-251",
+      "displayKind": "audit-plant-251",
+      "sourceRegion": "plant-audit-R05",
+      "photoEvidence": [
+        "C19",
+        "C24",
+        "C50"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        -0.12573697418951665,
+        -0.65
+      ],
+      "forkHeight": 0.3
+    },
+    {
+      "sourcePosition": [
+        793.91,
+        985.43
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.35,
+      "source": "规划图实心树冠符号",
+      "id": "plant-255",
+      "position": [
+        -26.6887,
+        150.7058
+      ],
+      "height": 7.8500000000000005,
+      "crownEnvelope": 2.5422,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-255",
+      "displayKind": "audit-plant-255",
+      "sourceRegion": "plant-audit-R05",
+      "photoEvidence": [
+        "C19",
+        "C24",
+        "C50"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.2956439694234551,
+        -0.65
+      ],
+      "forkHeight": 0.3
+    },
+    {
+      "sourcePosition": [
+        852.1,
+        1004.15
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.35,
+      "source": "规划图实心树冠符号",
+      "id": "plant-256",
+      "position": [
+        -4.0148,
+        150.9173
+      ],
+      "height": 8.3,
+      "crownEnvelope": 1.596,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-256",
+      "displayKind": "audit-plant-256",
+      "sourceRegion": "plant-audit-R05",
+      "photoEvidence": [
+        "C19",
+        "C24",
+        "C50"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.4452112109805218,
+        -0.65
+      ],
+      "forkHeight": 0.3
+    },
+    {
+      "sourcePosition": [
+        1336.24,
+        333.37
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 3.5,
+      "source": "规划图实心树冠符号",
+      "id": "plant-049",
+      "position": [
+        93.4357,
+        -140.1679
+      ],
+      "height": 14.4,
+      "crownEnvelope": 1.9642,
+      "form": "tiered",
+      "referenceModel": "audit-plant-049",
+      "displayKind": "audit-plant-049",
+      "sourceRegion": "plant-audit-R06",
+      "photoEvidence": [
+        "E22"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "高大分层乔木",
+      "lean": [
+        0.0,
+        -0.65
+      ],
+      "trunkRadius": 0.38
+    },
+    {
+      "sourcePosition": [
+        1321.44,
+        378.3
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 3.5,
+      "source": "规划图实心树冠符号",
+      "id": "plant-064",
+      "position": [
+        93.1516,
+        -122.6163
+      ],
+      "height": 14.85,
+      "crownEnvelope": 2.5422,
+      "form": "tiered",
+      "referenceModel": "audit-plant-064",
+      "displayKind": "audit-plant-064",
+      "sourceRegion": "plant-audit-R06",
+      "photoEvidence": [
+        "E22"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "高大分层乔木",
+      "lean": [
+        0.37866194316355345,
+        -0.65
+      ],
+      "trunkRadius": 0.38
+    },
+    {
+      "sourcePosition": [
+        1313.66,
+        416.2
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 3.5,
+      "source": "规划图实心树冠符号",
+      "id": "plant-075",
+      "position": [
+        94.578,
+        -108.33
+      ],
+      "height": 15.3,
+      "crownEnvelope": 2.8614,
+      "form": "tiered",
+      "referenceModel": "audit-plant-075",
+      "displayKind": "audit-plant-075",
+      "sourceRegion": "plant-audit-R06",
+      "photoEvidence": [
+        "E22"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "高大分层乔木",
+      "lean": [
+        0.4091838420715568,
+        -0.65
+      ],
+      "trunkRadius": 0.38
+    },
+    {
+      "sourcePosition": [
+        1372.44,
+        335.62
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.1,
+      "source": "规划图实心树冠符号",
+      "id": "plant-050",
+      "position": [
+        106.5043,
+        -143.3656
+      ],
+      "height": 7.3,
+      "crownEnvelope": 1.9597,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-050",
+      "displayKind": "audit-plant-050",
+      "sourceRegion": "plant-audit-R06",
+      "photoEvidence": [
+        "E22"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.0,
+        -0.65
+      ],
+      "forkHeight": 0.34
+    },
+    {
+      "sourcePosition": [
+        1362.59,
+        366.32
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.1,
+      "source": "规划图实心树冠符号",
+      "id": "plant-062",
+      "position": [
+        106.4032,
+        -131.4019
+      ],
+      "height": 7.75,
+      "crownEnvelope": 0.8801,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-062",
+      "displayKind": "audit-plant-062",
+      "sourceRegion": "plant-audit-R06",
+      "photoEvidence": [
+        "E22"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.37866194316355345,
+        -0.65
+      ],
+      "forkHeight": 0.34
+    },
+    {
+      "sourcePosition": [
+        1458.11,
+        342.37
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 1.45,
+      "source": "规划图实心树冠符号",
+      "id": "plant-054",
+      "position": [
+        137.5895,
+        -150.4284
+      ],
+      "height": 7.2,
+      "crownEnvelope": 2.5422,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-054",
+      "displayKind": "audit-plant-054",
+      "sourceRegion": "plant-audit-R06",
+      "photoEvidence": [
+        "E08",
+        "E66"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        1.15,
+        0
+      ],
+      "forkHeight": 0.3
+    },
+    {
+      "sourcePosition": [
+        1454.89,
+        358.47
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 1.45,
+      "source": "规划图实心树冠符号",
+      "id": "plant-059",
+      "position": [
+        138.2255,
+        -144.3689
+      ],
+      "height": 7.65,
+      "crownEnvelope": 2.5422,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-059",
+      "displayKind": "audit-plant-059",
+      "sourceRegion": "plant-audit-R06",
+      "photoEvidence": [
+        "E08",
+        "E66"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        1.15,
+        0
+      ],
+      "forkHeight": 0.3
+    },
+    {
+      "sourcePosition": [
+        1444.67,
+        397.82
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.15,
+      "source": "规划图实心树冠符号",
+      "id": "plant-068",
+      "position": [
+        138.9479,
+        -129.2997
+      ],
+      "height": 8.1,
+      "crownEnvelope": 1.8183,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-068",
+      "displayKind": "audit-plant-068",
+      "sourceRegion": "plant-audit-R06",
+      "photoEvidence": [
+        "E08",
+        "E66"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.4091838420715568,
+        -0.65
+      ],
+      "forkHeight": 0.3
+    },
+    {
+      "sourcePosition": [
+        1440.37,
+        421.07
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.15,
+      "source": "规划图实心树冠符号",
+      "id": "plant-077",
+      "position": [
+        139.9904,
+        -120.5878
+      ],
+      "height": 7.2,
+      "crownEnvelope": 2.337,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-077",
+      "displayKind": "audit-plant-077",
+      "sourceRegion": "plant-audit-R06",
+      "photoEvidence": [
+        "E08",
+        "E66"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.06350400362694025,
+        -0.65
+      ],
+      "forkHeight": 0.3
+    },
+    {
+      "sourcePosition": [
+        1434.45,
+        447.81
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.15,
+      "source": "规划图实心树冠符号",
+      "id": "plant-081",
+      "position": [
+        140.8443,
+        -110.4606
+      ],
+      "height": 7.65,
+      "crownEnvelope": 2.6562,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-081",
+      "displayKind": "audit-plant-081",
+      "sourceRegion": "plant-audit-R06",
+      "photoEvidence": [
+        "E08",
+        "E66"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        -0.3405611228885677,
+        -0.65
+      ],
+      "forkHeight": 0.3
+    },
+    {
+      "sourcePosition": [
+        1428.28,
+        477.42
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.15,
+      "source": "规划图实心树冠符号",
+      "id": "plant-086",
+      "position": [
+        141.9262,
+        -99.289
+      ],
+      "height": 8.1,
+      "crownEnvelope": 2.4396,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-086",
+      "displayKind": "audit-plant-086",
+      "sourceRegion": "plant-audit-R06",
+      "photoEvidence": [
+        "E08",
+        "E66"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        -0.4315159235984123,
+        -0.65
+      ],
+      "forkHeight": 0.3
+    },
+    {
+      "sourcePosition": [
+        1343.9,
+        485.86
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 0.8,
+      "source": "规划图实心树冠符号",
+      "id": "plant-090",
+      "position": [
+        112.9738,
+        -86.987
+      ],
+      "height": 1.05,
+      "crownEnvelope": 2.5422,
+      "form": "shrub",
+      "referenceModel": "audit-plant-090",
+      "displayKind": "audit-plant-090",
+      "sourceRegion": "plant-audit-R06",
+      "photoEvidence": [
+        "E08",
+        "E66"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "不规则灌木",
+      "lean": [
+        0.0,
+        -0.65
+      ]
+    },
+    {
+      "sourcePosition": [
+        1366.56,
+        491.59
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 0.8,
+      "source": "规划图实心树冠符号",
+      "id": "plant-091",
+      "position": [
+        121.6312,
+        -87.4575
+      ],
+      "height": 1.5,
+      "crownEnvelope": 2.5422,
+      "form": "shrub",
+      "referenceModel": "audit-plant-091",
+      "displayKind": "audit-plant-091",
+      "sourceRegion": "plant-audit-R06",
+      "photoEvidence": [
+        "E08",
+        "E66"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "不规则灌木",
+      "lean": [
+        0.37866194316355345,
+        -0.65
+      ]
+    },
+    {
+      "sourcePosition": [
+        1392.81,
+        499.18
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 0.8,
+      "source": "规划图实心树冠符号",
+      "id": "plant-093",
+      "position": [
+        131.7653,
+        -87.6652
+      ],
+      "height": 1.9500000000000002,
+      "crownEnvelope": 2.4396,
+      "form": "shrub",
+      "referenceModel": "audit-plant-093",
+      "displayKind": "audit-plant-093",
+      "sourceRegion": "plant-audit-R06",
+      "photoEvidence": [
+        "E08",
+        "E66"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "不规则灌木",
+      "lean": [
+        0.4091838420715568,
+        -0.65
+      ]
+    },
+    {
+      "sourcePosition": [
+        1420.53,
+        504.09
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 0.8,
+      "source": "规划图实心树冠符号",
+      "id": "plant-094",
+      "position": [
+        142.1243,
+        -88.9847
+      ],
+      "height": 1.05,
+      "crownEnvelope": 2.4396,
+      "form": "shrub",
+      "referenceModel": "audit-plant-094",
+      "displayKind": "audit-plant-094",
+      "sourceRegion": "plant-audit-R06",
+      "photoEvidence": [
+        "E08",
+        "E66"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "不规则灌木",
+      "lean": [
+        0.06350400362694025,
+        -0.65
+      ]
+    },
+    {
+      "id": "plant-pa-teacher-east-0",
+      "position": [
+        8.0,
+        -132.1
+      ],
+      "kind": "broadleaf",
+      "form": "tiered",
+      "height": 15.8,
+      "crownRadius": 3.3,
+      "referenceModel": "audit-plant-pa-teacher-east-0",
+      "displayKind": "audit-plant-pa-teacher-east-0",
+      "sourceRegion": "plant-audit-R07",
+      "photoEvidence": [
+        "T11",
+        "T14",
+        "E26"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "photo-relative-estimate",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "高大分层乔木",
+      "lean": [
+        0.7,
+        1.4
+      ],
+      "trunkRadius": 0.32,
+      "whitewash": true
+    },
+    {
+      "id": "plant-pa-teacher-east-1",
+      "position": [
+        14.0,
+        -133.7
+      ],
+      "kind": "broadleaf",
+      "form": "tiered",
+      "height": 10.6,
+      "crownRadius": 2.9,
+      "referenceModel": "audit-plant-pa-teacher-east-1",
+      "displayKind": "audit-plant-pa-teacher-east-1",
+      "sourceRegion": "plant-audit-R07",
+      "photoEvidence": [
+        "T11",
+        "T14",
+        "E26"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "photo-relative-estimate",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "高大分层乔木",
+      "lean": [
+        0.7,
+        1.4
+      ],
+      "trunkRadius": 0.32,
+      "whitewash": true
+    },
+    {
+      "id": "plant-pa-teacher-east-2",
+      "position": [
+        21.1,
+        -134.0
+      ],
+      "kind": "broadleaf",
+      "form": "tiered",
+      "height": 17.4,
+      "crownRadius": 3.9,
+      "referenceModel": "audit-plant-pa-teacher-east-2",
+      "displayKind": "audit-plant-pa-teacher-east-2",
+      "sourceRegion": "plant-audit-R07",
+      "photoEvidence": [
+        "T11",
+        "T14",
+        "E26"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "photo-relative-estimate",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "高大分层乔木",
+      "lean": [
+        0.7,
+        1.4
+      ],
+      "trunkRadius": 0.32,
+      "whitewash": true
+    },
+    {
+      "id": "plant-pa-teacher-east-3",
+      "position": [
+        28.9,
+        -136.5
+      ],
+      "kind": "broadleaf",
+      "form": "tiered",
+      "height": 12.9,
+      "crownRadius": 3.0,
+      "referenceModel": "audit-plant-pa-teacher-east-3",
+      "displayKind": "audit-plant-pa-teacher-east-3",
+      "sourceRegion": "plant-audit-R07",
+      "photoEvidence": [
+        "T11",
+        "T14",
+        "E26"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "photo-relative-estimate",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "高大分层乔木",
+      "lean": [
+        0.7,
+        1.4
+      ],
+      "trunkRadius": 0.32,
+      "whitewash": true
+    },
+    {
+      "sourcePosition": [
+        703.98,
+        331.01
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 3.25,
+      "source": "规划图实心树冠符号",
+      "id": "plant-047",
+      "position": [
+        -130.7376,
+        -71.2316
+      ],
+      "height": 7.3,
+      "crownEnvelope": 3.1806,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-047",
+      "displayKind": "audit-plant-047",
+      "sourceRegion": "plant-audit-R08",
+      "photoEvidence": [
+        "T12",
+        "T15",
+        "L33"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.0,
+        -0.65
+      ],
+      "forkHeight": 0.32
+    },
+    {
+      "sourcePosition": [
+        654.5,
+        333.23
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 3.25,
+      "source": "规划图实心树冠符号",
+      "id": "plant-048",
+      "position": [
+        -148.0156,
+        -64.9849
+      ],
+      "height": 7.75,
+      "crownEnvelope": 3.078,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-048",
+      "displayKind": "audit-plant-048",
+      "sourceRegion": "plant-audit-R08",
+      "photoEvidence": [
+        "T12",
+        "T15",
+        "L33"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.37866194316355345,
+        -0.65
+      ],
+      "forkHeight": 0.32
+    },
+    {
+      "sourcePosition": [
+        607.39,
+        336.3
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 3.25,
+      "source": "规划图实心树冠符号",
+      "id": "plant-051",
+      "position": [
+        -164.3604,
+        -58.6986
+      ],
+      "height": 8.2,
+      "crownEnvelope": 3.078,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-051",
+      "displayKind": "audit-plant-051",
+      "sourceRegion": "plant-audit-R08",
+      "photoEvidence": [
+        "T12",
+        "T15",
+        "L33"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.4091838420715568,
+        -0.65
+      ],
+      "forkHeight": 0.32
+    },
+    {
+      "sourcePosition": [
+        561.47,
+        338.68
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 3.25,
+      "source": "规划图实心树冠符号",
+      "id": "plant-052",
+      "position": [
+        -180.3599,
+        -52.788
+      ],
+      "height": 7.3,
+      "crownEnvelope": 2.964,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-052",
+      "displayKind": "audit-plant-052",
+      "sourceRegion": "plant-audit-R08",
+      "photoEvidence": [
+        "T12",
+        "T15",
+        "L33"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.06350400362694025,
+        -0.65
+      ],
+      "forkHeight": 0.32
+    },
+    {
+      "sourcePosition": [
+        481.68,
+        343.52
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 3.25,
+      "source": "规划图实心树冠符号",
+      "id": "plant-056",
+      "position": [
+        -208.0827,
+        -42.2684
+      ],
+      "height": 7.75,
+      "crownEnvelope": 3.078,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-056",
+      "displayKind": "audit-plant-056",
+      "sourceRegion": "plant-audit-R08",
+      "photoEvidence": [
+        "T12",
+        "T15",
+        "L33"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        -0.3405611228885677,
+        -0.65
+      ],
+      "forkHeight": 0.32
+    },
+    {
+      "sourcePosition": [
+        439.59,
+        344.79
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 3.25,
+      "source": "规划图实心树冠符号",
+      "id": "plant-057",
+      "position": [
+        -222.8482,
+        -37.1737
+      ],
+      "height": 8.2,
+      "crownEnvelope": 2.964,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-057",
+      "displayKind": "audit-plant-057",
+      "sourceRegion": "plant-audit-R08",
+      "photoEvidence": [
+        "T12",
+        "T15",
+        "L33"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        -0.4315159235984123,
+        -0.65
+      ],
+      "forkHeight": 0.32
+    },
+    {
+      "sourcePosition": [
+        402.23,
+        347.43
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 3.25,
+      "source": "规划图实心树冠符号",
+      "id": "plant-058",
+      "position": [
+        -235.7875,
+        -32.1157
+      ],
+      "height": 7.3,
+      "crownEnvelope": 3.2832,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-058",
+      "displayKind": "audit-plant-058",
+      "sourceRegion": "plant-audit-R08",
+      "photoEvidence": [
+        "T12",
+        "T15",
+        "L33"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        -0.12573697418951665,
+        -0.65
+      ],
+      "forkHeight": 0.32
+    },
+    {
+      "sourcePosition": [
+        690.85,
+        393.25
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 3.25,
+      "source": "规划图实心树冠符号",
+      "id": "plant-065",
+      "position": [
+        -128.521,
+        -47.7317
+      ],
+      "height": 7.75,
+      "crownEnvelope": 2.337,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-065",
+      "displayKind": "audit-plant-065",
+      "sourceRegion": "plant-audit-R08",
+      "photoEvidence": [
+        "T12",
+        "T15",
+        "L33"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.2956439694234551,
+        -0.65
+      ],
+      "forkHeight": 0.32
+    },
+    {
+      "sourcePosition": [
+        657.87,
+        395.98
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 3.25,
+      "source": "规划图实心树冠符号",
+      "id": "plant-066",
+      "position": [
+        -139.8994,
+        -43.1251
+      ],
+      "height": 8.2,
+      "crownEnvelope": 2.337,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-066",
+      "displayKind": "audit-plant-066",
+      "sourceRegion": "plant-audit-R08",
+      "photoEvidence": [
+        "T12",
+        "T15",
+        "L33"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.4452112109805218,
+        -0.65
+      ],
+      "forkHeight": 0.32
+    },
+    {
+      "sourcePosition": [
+        623.99,
+        396.77
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 3.25,
+      "source": "规划图实心树冠符号",
+      "id": "plant-067",
+      "position": [
+        -151.8106,
+        -39.1065
+      ],
+      "height": 7.3,
+      "crownEnvelope": 2.4396,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-067",
+      "displayKind": "audit-plant-067",
+      "sourceRegion": "plant-audit-R08",
+      "photoEvidence": [
+        "T12",
+        "T15",
+        "L33"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.18545331835879048,
+        -0.65
+      ],
+      "forkHeight": 0.32
+    },
+    {
+      "sourcePosition": [
+        589.91,
+        398.66
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 3.25,
+      "source": "规划图实心树冠符号",
+      "id": "plant-069",
+      "position": [
+        -163.6712,
+        -34.6761
+      ],
+      "height": 7.75,
+      "crownEnvelope": 2.337,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-069",
+      "displayKind": "audit-plant-069",
+      "sourceRegion": "plant-audit-R08",
+      "photoEvidence": [
+        "T12",
+        "T15",
+        "L33"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        -0.24480949990021642,
+        -0.65
+      ],
+      "forkHeight": 0.32
+    },
+    {
+      "sourcePosition": [
+        960.37,
+        628.08
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.88,
+      "source": "规划图实心树冠符号",
+      "id": "plant-123",
+      "position": [
+        -7.1632,
+        5.7254
+      ],
+      "height": 15,
+      "crownEnvelope": 3.2832,
+      "displayKind": "audit-plant-123",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "form": "palm",
+      "referenceModel": "audit-plant-123",
+      "sourceRegion": "plant-audit-R09",
+      "photoEvidence": [
+        "S46"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "name": "高干羽叶棕榈"
+    },
+    {
+      "sourcePosition": [
+        982.0,
+        631.96
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 1.25,
+      "source": "规划图实心树冠符号",
+      "id": "plant-124",
+      "position": [
+        0.9252,
+        4.7131
+      ],
+      "height": 15,
+      "crownEnvelope": 1.425,
+      "displayKind": "audit-plant-124",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "form": "palm",
+      "referenceModel": "audit-plant-124",
+      "sourceRegion": "plant-audit-R09",
+      "photoEvidence": [
+        "S46"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "name": "高干羽叶棕榈"
+    },
+    {
+      "sourcePosition": [
+        1011.51,
+        640.16
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 3.44,
+      "source": "规划图实心树冠符号",
+      "id": "plant-130",
+      "position": [
+        12.281,
+        4.3619
+      ],
+      "height": 15,
+      "crownEnvelope": 3.9216,
+      "displayKind": "audit-plant-130",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "form": "palm",
+      "referenceModel": "audit-plant-130",
+      "sourceRegion": "plant-audit-R09",
+      "photoEvidence": [
+        "S46"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "name": "高干羽叶棕榈"
+    },
+    {
+      "sourcePosition": [
+        1041.56,
+        644.02
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.14,
+      "source": "规划图实心树冠符号",
+      "id": "plant-135",
+      "position": [
+        23.3492,
+        2.4134
+      ],
+      "height": 15,
+      "crownEnvelope": 2.4396,
+      "displayKind": "audit-plant-135",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "form": "palm",
+      "referenceModel": "audit-plant-135",
+      "sourceRegion": "plant-audit-R09",
+      "photoEvidence": [
+        "S46"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "name": "高干羽叶棕榈"
+    },
+    {
+      "sourcePosition": [
+        1057.55,
+        551.73
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 1.67,
+      "source": "规划图实心树冠符号",
+      "id": "plant-103",
+      "position": [
+        -8.8179,
+        -34.0267
+      ],
+      "height": 12,
+      "crownEnvelope": 1.9038,
+      "displayKind": "audit-plant-103",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "form": "conifer",
+      "referenceModel": "audit-plant-103",
+      "sourceRegion": "plant-audit-R09",
+      "photoEvidence": [
+        "S34"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "name": "高瘦针叶形树"
+    },
+    {
+      "sourcePosition": [
+        809.25,
+        744.16
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.8,
+      "source": "规划图实心树冠符号",
+      "id": "plant-175",
+      "position": [
+        -47.8754,
+        63.5291
+      ],
+      "height": 7.8,
+      "crownEnvelope": 2.0178,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-175",
+      "displayKind": "audit-plant-175",
+      "sourceRegion": "plant-audit-R09",
+      "photoEvidence": [
+        "S82",
+        "W02"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.0,
+        -0.65
+      ],
+      "forkHeight": 0.32
+    },
+    {
+      "sourcePosition": [
+        802.03,
+        764.6
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.8,
+      "source": "规划图实心树冠符号",
+      "id": "plant-187",
+      "position": [
+        -48.1773,
+        71.5678
+      ],
+      "height": 8.25,
+      "crownEnvelope": 2.1204,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-187",
+      "displayKind": "audit-plant-187",
+      "sourceRegion": "plant-audit-R09",
+      "photoEvidence": [
+        "S82",
+        "W02"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.37866194316355345,
+        -0.65
+      ],
+      "forkHeight": 0.32
+    },
+    {
+      "sourcePosition": [
+        929.31,
+        783.43
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.8,
+      "source": "规划图实心树冠符号",
+      "id": "plant-197",
+      "position": [
+        -1.0231,
+        64.1939
+      ],
+      "height": 8.7,
+      "crownEnvelope": 1.9038,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-197",
+      "displayKind": "audit-plant-197",
+      "sourceRegion": "plant-audit-R09",
+      "photoEvidence": [
+        "S82",
+        "W02"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.4091838420715568,
+        -0.65
+      ],
+      "forkHeight": 0.32
+    },
+    {
+      "sourcePosition": [
+        952.02,
+        791.44
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.8,
+      "source": "规划图实心树冠符号",
+      "id": "plant-202",
+      "position": [
+        7.9035,
+        64.5258
+      ],
+      "height": 7.8,
+      "crownEnvelope": 2.223,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-202",
+      "displayKind": "audit-plant-202",
+      "sourceRegion": "plant-audit-R09",
+      "photoEvidence": [
+        "S82",
+        "W02"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        0.06350400362694025,
+        -0.65
+      ],
+      "forkHeight": 0.32
+    },
+    {
+      "sourcePosition": [
+        922.33,
+        805.0
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.8,
+      "source": "规划图实心树冠符号",
+      "id": "plant-204",
+      "position": [
+        -1.1152,
+        72.6065
+      ],
+      "height": 8.25,
+      "crownEnvelope": 1.8012,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-204",
+      "displayKind": "audit-plant-204",
+      "sourceRegion": "plant-audit-R09",
+      "photoEvidence": [
+        "S82",
+        "W02"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        -0.3405611228885677,
+        -0.65
+      ],
+      "forkHeight": 0.32
+    },
+    {
+      "sourcePosition": [
+        944.43,
+        814.92
+      ],
+      "kind": "broadleaf",
+      "crownRadius": 2.8,
+      "source": "规划图实心树冠符号",
+      "id": "plant-206",
+      "position": [
+        7.8061,
+        73.6824
+      ],
+      "height": 8.7,
+      "crownEnvelope": 2.1204,
+      "form": "fork-tree",
+      "referenceModel": "audit-plant-206",
+      "displayKind": "audit-plant-206",
+      "sourceRegion": "plant-audit-R09",
+      "photoEvidence": [
+        "S82",
+        "W02"
+      ],
+      "modelRevision": "plant-audit-photo-2026-10-03",
+      "dimensionStatus": "photo-estimate",
+      "placementConfidence": "existing-plan-root",
+      "displaySource": "规划PDF统一坐标；多图对照树形；高度、冠幅为估计",
+      "name": "分叉遮阴乔木",
+      "lean": [
+        -0.4315159235984123,
+        -0.65
+      ],
+      "forkHeight": 0.32
     }
   ],
   "plantingNote": "规划图星形符号为椰子树、实心圆冠为普通树；树位取自原图，树高及冠幅为估计，临建筑树冠按实际间距收小。；保留所有树位，补充草叶、低篱和不规则树冠；非逐株测绘。",
@@ -39766,5 +41474,865 @@
       ]
     },
     "plantPlacement": "照片互证后的相对位置估算，非测量坐标；建筑坐标不使用鸟瞰图"
+  },
+  "plantAuditReference": {
+    "revision": "plant-audit-photo-2026-10-03",
+    "report": "output/plant-audit-20261003.md",
+    "plantIds": [
+      "plant-pa-library-conifer",
+      "plant-pa-library-palm",
+      "plant-pa-library-shrub-0",
+      "plant-pa-library-shrub-1",
+      "plant-pa-library-shrub-2",
+      "plant-128",
+      "plant-132",
+      "plant-138",
+      "plant-143",
+      "plant-145",
+      "plant-129",
+      "plant-134",
+      "plant-140",
+      "plant-154",
+      "plant-158",
+      "plant-pa-dorm-hedge-0",
+      "plant-pa-dorm-hedge-1",
+      "plant-pa-dorm-hedge-2",
+      "plant-pa-dorm-hedge-3",
+      "plant-pa-dorm-hedge-4",
+      "plant-167",
+      "plant-169",
+      "plant-178",
+      "plant-183",
+      "plant-186",
+      "plant-190",
+      "plant-194",
+      "plant-196",
+      "plant-pa-dorm-clump",
+      "plant-198",
+      "plant-205",
+      "plant-207",
+      "plant-213",
+      "plant-214",
+      "plant-216",
+      "plant-233",
+      "plant-236",
+      "plant-239",
+      "plant-240",
+      "plant-246",
+      "plant-250",
+      "plant-251",
+      "plant-255",
+      "plant-256",
+      "plant-049",
+      "plant-064",
+      "plant-075",
+      "plant-050",
+      "plant-062",
+      "plant-054",
+      "plant-059",
+      "plant-068",
+      "plant-077",
+      "plant-081",
+      "plant-086",
+      "plant-090",
+      "plant-091",
+      "plant-093",
+      "plant-094",
+      "plant-pa-teacher-east-0",
+      "plant-pa-teacher-east-1",
+      "plant-pa-teacher-east-2",
+      "plant-pa-teacher-east-3",
+      "plant-047",
+      "plant-048",
+      "plant-051",
+      "plant-052",
+      "plant-056",
+      "plant-057",
+      "plant-058",
+      "plant-065",
+      "plant-066",
+      "plant-067",
+      "plant-069",
+      "plant-123",
+      "plant-124",
+      "plant-130",
+      "plant-135",
+      "plant-103",
+      "plant-175",
+      "plant-187",
+      "plant-197",
+      "plant-202",
+      "plant-204",
+      "plant-206"
+    ],
+    "completedRegions": [
+      "R01",
+      "R02",
+      "R03",
+      "R04",
+      "R05",
+      "R06",
+      "R07",
+      "R08",
+      "R09"
+    ],
+    "placementBasis": "已有PDF米制坐标保留；新树位参照建筑立面、入口与照片相邻关系估计。",
+    "unresolved": [
+      "第一教学楼照片可能混入第二教学楼，未新增不确定树位",
+      "艺术楼前场保持空地；公寓塔楼背面证据不足",
+      "旧题字廊林荫道年代与路段未确认，保留已校正34株主路棕榈"
+    ],
+    "dimensions": "树高、冠幅及新根部坐标为估计；非测绘结果。"
+  },
+  "groundAuditReference": {
+    "revision": "ground-audit-20261003-v1",
+    "auditReport": "output/ground-audit-20261003.md",
+    "repairReport": "output/ground-repairs-20261003.md",
+    "photoCount": 636,
+    "roadCount": 27,
+    "courtCount": 16,
+    "completedRegions": [
+      "G01",
+      "G02",
+      "G03",
+      "G04",
+      "G05",
+      "G06",
+      "G07",
+      "G08",
+      "G09",
+      "G10",
+      "G11",
+      "G12",
+      "G13"
+    ],
+    "patches": [
+      {
+        "id": "dorm-3-2-pattern-court",
+        "material": "ground-ochre-pavers",
+        "height": 0.054,
+        "area": 290.794,
+        "photos": [
+          "D21",
+          "D55"
+        ]
+      },
+      {
+        "id": "dorm-court-red-edge",
+        "material": "ground-red-pavers",
+        "height": 0.057,
+        "area": 35.376,
+        "photos": [
+          "D54",
+          "D55"
+        ]
+      },
+      {
+        "id": "comprehensive-old-square-pavers",
+        "material": "ground-grey-pavers",
+        "height": 0.053,
+        "area": 232.14,
+        "photos": [
+          "C29",
+          "C60"
+        ]
+      },
+      {
+        "id": "well-grey-pavers",
+        "material": "ground-grey-pavers",
+        "height": 0.056,
+        "area": 25.155,
+        "photos": [
+          "W06",
+          "W09"
+        ]
+      },
+      {
+        "id": "training-forecourt",
+        "material": "ground-concrete",
+        "height": 0.055,
+        "area": 306.715,
+        "photos": [
+          "E43",
+          "E68"
+        ]
+      },
+      {
+        "id": "office-concrete-forecourt",
+        "material": "ground-concrete",
+        "height": 0.005,
+        "area": 339.239,
+        "photos": [
+          "O13",
+          "O17"
+        ]
+      },
+      {
+        "id": "canteen-entry-white",
+        "material": "ground-ceramic",
+        "height": 0.068,
+        "area": 38.08,
+        "photos": [
+          "J40",
+          "J42"
+        ]
+      },
+      {
+        "id": "canteen-side-red",
+        "material": "ground-red-pavers",
+        "height": 0.052,
+        "area": 55.35,
+        "photos": [
+          "J39",
+          "J41",
+          "J43"
+        ]
+      },
+      {
+        "id": "gym-front-pebble-strips",
+        "material": "ground-aggregate",
+        "height": 0.054,
+        "area": 97.24,
+        "photos": [
+          "S42",
+          "S55"
+        ]
+      },
+      {
+        "id": "teaching2-sports-red-edge",
+        "material": "ground-red-pavers",
+        "height": 0.055,
+        "area": 60.3,
+        "photos": [
+          "Q49",
+          "Q65"
+        ]
+      },
+      {
+        "id": "dorm-gate-grey-pavers",
+        "material": "ground-grey-pavers",
+        "height": 0.055,
+        "area": 27.3,
+        "photos": [
+          "D48"
+        ]
+      },
+      {
+        "id": "pit-plant-128",
+        "material": "ground-soil",
+        "height": 0.005,
+        "area": 1.85,
+        "photos": [
+          "O17"
+        ]
+      },
+      {
+        "id": "pit-plant-132",
+        "material": "ground-soil",
+        "height": 0.005,
+        "area": 1.85,
+        "photos": [
+          "O17"
+        ]
+      },
+      {
+        "id": "pit-plant-138",
+        "material": "ground-soil",
+        "height": 0.005,
+        "area": 1.85,
+        "photos": [
+          "O17"
+        ]
+      },
+      {
+        "id": "pit-plant-143",
+        "material": "ground-soil",
+        "height": 0.005,
+        "area": 1.85,
+        "photos": [
+          "O17"
+        ]
+      },
+      {
+        "id": "pit-plant-145",
+        "material": "ground-soil",
+        "height": 0.005,
+        "area": 1.85,
+        "photos": [
+          "O17"
+        ]
+      },
+      {
+        "id": "pit-plant-pa-teacher-east-0",
+        "material": "ground-soil",
+        "height": 0.005,
+        "area": 1.85,
+        "photos": [
+          "T11",
+          "T14"
+        ]
+      },
+      {
+        "id": "pit-plant-pa-teacher-east-1",
+        "material": "ground-soil",
+        "height": 0.005,
+        "area": 1.85,
+        "photos": [
+          "T11",
+          "T14"
+        ]
+      },
+      {
+        "id": "pit-plant-pa-teacher-east-2",
+        "material": "ground-soil",
+        "height": 0.005,
+        "area": 1.85,
+        "photos": [
+          "T11",
+          "T14"
+        ]
+      },
+      {
+        "id": "pit-plant-pa-teacher-east-3",
+        "material": "ground-soil",
+        "height": 0.005,
+        "area": 1.85,
+        "photos": [
+          "T11",
+          "T14"
+        ]
+      }
+    ],
+    "markings": [
+      {
+        "id": "office-yellow-centre",
+        "points": [
+          [
+            3.5034,
+            47.65
+          ],
+          [
+            3.5034,
+            56.65
+          ]
+        ],
+        "width": 0.1,
+        "height": 0.018,
+        "photos": [
+          "O13",
+          "O17"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "office-parking--1-0",
+        "points": [
+          [
+            -5.4,
+            47.8
+          ],
+          [
+            -5.4,
+            52.5
+          ],
+          [
+            -2.4000000000000004,
+            52.5
+          ],
+          [
+            -2.4000000000000004,
+            47.8
+          ]
+        ],
+        "width": 0.055,
+        "height": 0.018,
+        "photos": [
+          "O17"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "office-parking--1-1",
+        "points": [
+          [
+            -8.8,
+            47.8
+          ],
+          [
+            -8.8,
+            52.5
+          ],
+          [
+            -5.800000000000001,
+            52.5
+          ],
+          [
+            -5.800000000000001,
+            47.8
+          ]
+        ],
+        "width": 0.055,
+        "height": 0.018,
+        "photos": [
+          "O17"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "office-parking--1-2",
+        "points": [
+          [
+            -12.2,
+            47.8
+          ],
+          [
+            -12.2,
+            52.5
+          ],
+          [
+            -9.2,
+            52.5
+          ],
+          [
+            -9.2,
+            47.8
+          ]
+        ],
+        "width": 0.055,
+        "height": 0.018,
+        "photos": [
+          "O17"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "office-parking-1-0",
+        "points": [
+          [
+            9.4,
+            47.8
+          ],
+          [
+            9.4,
+            52.5
+          ],
+          [
+            12.4,
+            52.5
+          ],
+          [
+            12.4,
+            47.8
+          ]
+        ],
+        "width": 0.055,
+        "height": 0.018,
+        "photos": [
+          "O17"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "office-parking-1-1",
+        "points": [
+          [
+            12.8,
+            47.8
+          ],
+          [
+            12.8,
+            52.5
+          ],
+          [
+            15.8,
+            52.5
+          ],
+          [
+            15.8,
+            47.8
+          ]
+        ],
+        "width": 0.055,
+        "height": 0.018,
+        "photos": [
+          "O17"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "office-parking-1-2",
+        "points": [
+          [
+            16.2,
+            47.8
+          ],
+          [
+            16.2,
+            52.5
+          ],
+          [
+            19.2,
+            52.5
+          ],
+          [
+            19.2,
+            47.8
+          ]
+        ],
+        "width": 0.055,
+        "height": 0.018,
+        "photos": [
+          "O17"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "main-yellow-north",
+        "points": [
+          [
+            1.8006,
+            98.0
+          ],
+          [
+            1.8006,
+            117.4
+          ]
+        ],
+        "width": 0.1,
+        "height": 0.078,
+        "photos": [
+          "C14",
+          "C48"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "main-yellow-south",
+        "points": [
+          [
+            1.8006,
+            123.0
+          ],
+          [
+            1.8006,
+            166.8
+          ]
+        ],
+        "width": 0.1,
+        "height": 0.078,
+        "photos": [
+          "C48",
+          "C50"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "lab-zebra-0",
+        "points": [
+          [
+            -0.85,
+            118.4
+          ],
+          [
+            4.45,
+            118.4
+          ]
+        ],
+        "width": 0.36,
+        "height": 0.081,
+        "photos": [
+          "C14",
+          "C19"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "lab-zebra-1",
+        "points": [
+          [
+            -0.85,
+            119.12
+          ],
+          [
+            4.45,
+            119.12
+          ]
+        ],
+        "width": 0.36,
+        "height": 0.081,
+        "photos": [
+          "C14",
+          "C19"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "lab-zebra-2",
+        "points": [
+          [
+            -0.85,
+            119.84
+          ],
+          [
+            4.45,
+            119.84
+          ]
+        ],
+        "width": 0.36,
+        "height": 0.081,
+        "photos": [
+          "C14",
+          "C19"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "lab-zebra-3",
+        "points": [
+          [
+            -0.85,
+            120.56
+          ],
+          [
+            4.45,
+            120.56
+          ]
+        ],
+        "width": 0.36,
+        "height": 0.081,
+        "photos": [
+          "C14",
+          "C19"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "lab-zebra-4",
+        "points": [
+          [
+            -0.85,
+            121.28
+          ],
+          [
+            4.45,
+            121.28
+          ]
+        ],
+        "width": 0.36,
+        "height": 0.081,
+        "photos": [
+          "C14",
+          "C19"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "lab-zebra-5",
+        "points": [
+          [
+            -0.85,
+            122.0
+          ],
+          [
+            4.45,
+            122.0
+          ]
+        ],
+        "width": 0.36,
+        "height": 0.081,
+        "photos": [
+          "C14",
+          "C19"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "well-avenue-yellow",
+        "points": [
+          [
+            11.4494,
+            95.8995
+          ],
+          [
+            2.067,
+            95.7135
+          ],
+          [
+            -45.9536,
+            97.4609
+          ],
+          [
+            -95.9651,
+            99.0515
+          ],
+          [
+            -136.2399,
+            100.7177
+          ]
+        ],
+        "width": 0.1,
+        "height": 0.093,
+        "photos": [
+          "W06",
+          "W07",
+          "C08"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "training-parking-0",
+        "points": [
+          [
+            111.0,
+            -88.2
+          ],
+          [
+            111.0,
+            -83.0
+          ],
+          [
+            113.5,
+            -83.0
+          ],
+          [
+            113.5,
+            -88.2
+          ]
+        ],
+        "width": 0.075,
+        "height": 0.065,
+        "photos": [
+          "E44",
+          "E45",
+          "E67"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "training-parking-1",
+        "points": [
+          [
+            115.6,
+            -88.2
+          ],
+          [
+            115.6,
+            -83.0
+          ],
+          [
+            118.1,
+            -83.0
+          ],
+          [
+            118.1,
+            -88.2
+          ]
+        ],
+        "width": 0.075,
+        "height": 0.065,
+        "photos": [
+          "E44",
+          "E45",
+          "E67"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "training-parking-2",
+        "points": [
+          [
+            120.2,
+            -88.2
+          ],
+          [
+            120.2,
+            -83.0
+          ],
+          [
+            122.7,
+            -83.0
+          ],
+          [
+            122.7,
+            -88.2
+          ]
+        ],
+        "width": 0.075,
+        "height": 0.065,
+        "photos": [
+          "E44",
+          "E45",
+          "E67"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "training-parking-3",
+        "points": [
+          [
+            124.8,
+            -88.2
+          ],
+          [
+            124.8,
+            -83.0
+          ],
+          [
+            127.3,
+            -83.0
+          ],
+          [
+            127.3,
+            -88.2
+          ]
+        ],
+        "width": 0.075,
+        "height": 0.065,
+        "photos": [
+          "E44",
+          "E45",
+          "E67"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      },
+      {
+        "id": "training-parking-4",
+        "points": [
+          [
+            129.4,
+            -88.2
+          ],
+          [
+            129.4,
+            -83.0
+          ],
+          [
+            131.9,
+            -83.0
+          ],
+          [
+            131.9,
+            -88.2
+          ]
+        ],
+        "width": 0.075,
+        "height": 0.065,
+        "photos": [
+          "E44",
+          "E45",
+          "E67"
+        ],
+        "placement": "建筑/道路锚点定位，照片比例估计，非实测"
+      }
+    ],
+    "additionalRoadsideGroundPlants": 163,
+    "additionalLeafLitter": 312,
+    "plantCountPreserved": 350,
+    "unresolved": [
+      "校外四街材质暂定沥青，缺少连续实景；已去除未证实的统一虚线。",
+      "T03黄色网格精确楼位未确认，未猜位置建模。",
+      "未找到可精确配准的地面箭头，不新增。"
+    ],
+    "dimensionBasis": "保持现有PDF米制位置和尺寸；新增方砖、板缝、排水与标线间距为照片比例估计，非实测。"
   }
 }
