@@ -354,6 +354,11 @@
         5.7
       ],
       "status": "inferred from PDF entrance strip and matched west-facing photographs, not surveyed"
-    }
+    },
+    "courtyardDoorOffsets": [
+      -9.75,
+      9.75
+    ],
+    "doorPlacement": "ground doors on the central side of each staircase foot, outside solid stair footprint"
   }
 }
