@@ -1,287 +1,197 @@
-# 云游合浦师范
+﻿# 合师漫游 · 云游合浦师范
 
-> 用 Three.js 重建的合浦师范学校校园。沿东坡湖慢行，走过老街与林荫，抵达景点收集纪念章。
+基于 Three.js 的合浦师范学校三维校园浏览项目。校园建筑、道路、水体与景观由本地数据和 Blender 模型组成，浏览器提供鸟瞰导航、景点介绍、实景照片对照和导览功能；维护者可以使用独立的本地编辑页，或进入受邀用户使用的在线协作编辑模式。
 
-**在线访问：<https://f3ngka0.github.io/hpsf-campus/>**
+Demo：https://f3ngka0.github.io/hpsf-campus/
 
-## 目录
+## 当前功能
 
-- [项目简介与核心功能](#项目简介与核心功能)
-- [技术栈与运行环境](#技术栈与运行环境)
-- [安装与启动步骤](#安装与启动步骤)
-- [配置说明](#配置说明)
-- [基础使用示例](#基础使用示例)
-- [目录结构](#目录结构)
-- [贡献指南](#贡献指南)
-- [许可证信息](#许可证信息)
+- **三维校园浏览**：展示教学楼、办公楼、图书馆、宿舍、食堂、体育馆、校门，以及东坡亭、东坡井等校园建筑与景观。
+- **目的地导航**：从地点列表、导览图或建筑标签定位景点；跟随导览依次浏览各个地点。
+- **照片对照**：查看景点照片，以及按建筑和区域分类的本地参考相册。
+- **漫游工具**：日落光线、画面截图、全屏浏览、建筑名称标签，以及移动速度和画面质量设置。设置保存在当前浏览器。
+- **本地场景维护**：调整植物、设施和道路，支持变换、复制、删除、撤销、重做和 JSON 导出。
 
----
+场景用于校园外观与空间关系展示。建模脚本使用尺寸图坐标和照片参考，部分高度及不可见立面为估算，不属于实测测绘成果。
 
-## 项目简介与核心功能
+## 环境与启动
 
-合浦师范学校校园的三维复原。建筑依据实地照片建模，平面坐标依据校园尺寸图纸统一标定，湖岸、街巷、球场与绿化沿用同一份几何数据。整个场景在浏览器中实时渲染，可自由环视，也可切换第一人称步行。
+开发和构建需要 Node.js 与 npm。按当前 Vite 依赖的运行要求，使用 Node.js **20.19+（20.x）或 22.12+**；项目的 Pages 工作流使用 Node.js 22。
 
-### 核心功能
+在项目根目录执行：
 
-| 功能 | 说明 |
-| --- | --- |
-| **鸟瞰全景** | 环绕旋转、滚轮缩放、右键平移，从任意角度观察校园全貌 |
-| **第一人称步行** | 走进校园贴地漫游，带碰撞检测与地面高度跟随，可进亭、上桥、走连廊 |
-| **12 处目的地** | 按「校园入口 / 人文地标 / 教学空间 / 运动空间」分类筛选，点击即飞抵 |
-| **纪念章收集** | 步行抵达景点后按 `E` 收集专属纪念章，12 枚集齐即完成校园探索 |
-| **跟随导览** | 自动逐站介绍 12 个地点，每站停留 9 秒，可随时暂停转为自由探索 |
-| **校园导览图** | 右下角 SVG 迷你地图实时标注当前位置与朝向，点击圆点即可跳转 |
-| **光线切换** | 午后晴光与日落时分两套光照，含雾色、背景与曝光联动 |
-| **校园拍照** | 一键截取当前视角画面，保存为 PNG 明信片 |
-| **还原依据** | 内置 518 张实景照片、尺寸图与卫星图对照，可追溯每栋建筑的建模来源 |
-| **移动端适配** | 手机使用左下角虚拟摇杆移动，松手即停；竖屏自动放宽视场角 |
-
-### 12 处目的地
-
-| 编号 | 名称 | 分类 |
-| --- | --- | --- |
-| 01 | 东校门 | 校园入口 |
-| 02 | 中山图书馆 | 人文地标 |
-| 03 | 东坡亭 | 人文地标 |
-| 04 | 东坡井 | 人文地标 |
-| 05 | 第二教学楼 | 教学空间 |
-| 06 | 办公楼 | 教学空间 |
-| 07 | 体育馆 | 运动空间 |
-| 08 | 综合楼 | 教学空间 |
-| 09 | 实训楼 | 教学空间 |
-| 10 | 艺术楼 | 教学空间 |
-| 11 | 第一教学楼 | 教学空间 |
-| 12 | 露天舞台 | 运动空间 |
-
----
-
-## 技术栈与运行环境
-
-### 技术栈
-
-| 层次 | 采用方案 |
-| --- | --- |
-| 三维渲染 | [Three.js](https://threejs.org/) `0.180` — WebGL 渲染器、`OrbitControls`、`GLTFLoader`、`CSS2DRenderer` |
-| 构建工具 | [Vite](https://vitejs.dev/) `7.1` — 产物输出为 IIFE 单包，`base: './'` 相对路径 |
-| 场景模型 | Blender `4.5.3 LTS` 导出 glTF/GLB，共 76 个独立模型 |
-| 字体 | 思源宋体（Noto Serif SC）自托管子集，按 `unicode-range` 按需加载 |
-| 样式 | 原生 CSS，无框架依赖 |
-| 测试 | [Playwright](https://playwright.dev/) `1.55` + `node:test` |
-
-
-### 浏览器要求
-
-| 能力 | 最低要求 | 用途 |
-| --- | --- | --- |
-| WebGL | 现代浏览器，需启用硬件加速 | 三维场景渲染 |
-| `DecompressionStream` | Chrome 80+ / Edge 80+ / Safari 16.4+ / Firefox 113+ | 就地解压模型包 |
-| ES2018 | 同上 | 运行主程序包 |
-
-不支持的浏览器会在加载页给出中文提示与「重新载入」按钮，而不是静默失败或白屏。
-
-### 关于模型体积
-
-场景需要 136.6 MB 的 `campus.glb`，它有两个绕不开的约束：
-
-1. **GitHub 单文件上限 100 MB** —— 原始模型和它 182.1 MB 的 base64 打包版都超限，根本推不上去。
-2. **Pages 不读 Git LFS** —— 所以 LFS 解决不了托管问题。
-
-于是模型以 **gzip 预压缩**形式随站点发布：`models/campus.glb.gz.js`（79.9 MB），gzip 级别 9 把二进制压到原体积的 **23.7%**（几何体是浮点数，压缩率很高）。页面用浏览器原生的 `DecompressionStream('gzip')` 就地解压，解压后的字节与原始 glb **完全一致**（已用 SHA-256 逐字节校验）。
-
-也就是说：**首次打开需要下载约 80 MB 的模型包**。加载页有进度条，但解压阶段是整段跳跃而非平滑推进（gzip 无法按比例报告进度）。
-
----
-
-## 安装与启动步骤
-
-站点本身无需安装。以下三种方式任选其一。
-
-### 方式一：在线访问（最省事）
-
-直接打开：**<https://f3ngka0.github.io/hpsf-campus/>**
-
-### 方式二：本地双击打开（离线可用）
-
-1. 克隆或下载本仓库到本地任意目录：
-
-   ```bash
-   git clone https://github.com/f3ngka0/hpsf-campus.git
-   cd hpsf-campus
-   ```
-
-   或在仓库页面点击 `Code` → `Download ZIP` 后解压。
-
-2. 双击根目录的 **`index.html`**。
-
-   页面使用普通 `<script>`（非 ES module）与全相对路径，因此可以由 `file://` 协议直接加载，不需要任何服务器。首次打开同样需要等待模型包加载。
-
-> **提示**：若浏览器限制了本地文件读取，改用方式三，效果完全一致。
-
-### 方式三：本地静态服务器
-
-任意静态服务器均可。以 Python 为例（不必安装额外依赖）：
-
-```bash
-# 在仓库根目录执行
-python -m http.server 8080
+```sh
+npm ci
+npx playwright install chromium
+npm run dev
 ```
 
-然后访问 <http://localhost:8080>。
+打开 <http://localhost:5173/>。开发服务固定使用 `5173` 端口，端口被占用时会启动失败。Chromium 用于构建时生成编辑器素材预览，以及运行浏览器测试。
 
-使用 Node.js 也可以：
+Windows PowerShell 若因执行策略阻止 `npm.ps1` 或 `npx.ps1`，可将命令中的 `npm`、`npx` 分别替换为 `npm.cmd`、`npx.cmd`。
 
-```bash
-npx serve .
+开发服务器将 `/` 和 `/index.html` 映射到源码入口 `index.dev.html`。编辑页面的开发入口为 <http://localhost:5173/index.edit.html>，实际读取 `index.edit.dev.html`。
+
+仅浏览已有完整静态构建时，无需安装 Node.js，直接打开项目根目录的 `index.html` 即可。复制或移动时需要保留同目录下的资源文件夹，不能只复制 HTML。
+
+## 浏览操作
+
+| 操作 | 方式 |
+| --- | --- |
+| 平移鸟瞰相机 | `WASD` 或方向键 |
+| 临时加速 | 按住 `Shift` |
+| 旋转视角 | 鼠标拖动 |
+| 缩放 | 鼠标滚轮 |
+| 鼠标平移 | 右键拖动 |
+| 定位地点 | 点击地点列表、导览图圆点或已开启的建筑标签 |
+| 触屏移动 | 按住左下角方向按钮，松开停止 |
+
+在设置中可调整移动速度、切换画面质量及开启建筑标签。性能不足时选择流畅模式，降低渲染分辨率并关闭阴影。
+
+## 构建与离线打开
+
+```sh
+npm run build
 ```
 
+完整构建会依次生成场景索引、道具资源包、编辑器素材预览、校园数据脚本和模型脚本包，再构建游客页面与协作模块，最后将 `dist/` 中的静态资源同步到项目根目录。
 
-### 部署到自己的托管
+构建完成后可以：
 
-连同目录结构整体上传即可，**不需要改任何代码**：
+- 双击根目录 `index.html` 离线浏览。
+- 将 `dist/` 作为静态站点目录托管。
+- 执行 `npm run preview`，通过 Vite 预览构建产物。
 
-- 静态托管（GitHub Pages / Cloudflare Pages / Netlify / Vercel / 对象存储）：直接上传根目录全部内容。
-- `.nojekyll` 已随仓库提供，用于让 GitHub Pages 跳过 Jekyll 处理。
+项目通过普通脚本和相对资源路径适配 `file://`：校园数据提供 `campus.js`，模型提供 `campus.glb.gz.js` 与 Base64 备用包，避免离线页面依赖模块脚本或直接请求 JSON/GLB。模型压缩包优先使用浏览器的 `DecompressionStream` 解压。
 
+**构建会更新生成的数据文件，并替换根目录中的静态资源副本。** 修改源码请使用 `src/`、开发入口及 `public/` 下的源资源；不要把根目录的构建产物当作源文件维护。仅修改源数据后，仍需重新构建才能更新离线页面。
 
-### 本地存储键位
+## 本地编辑
 
-页面把少量状态写入浏览器本地存储，**不上传任何数据**：
+独立编辑页用于本地维护，不需要协作账号。开发时运行 `npm run dev`，访问 `/index.edit.html`。
 
-| 键名 | 内容 | 清除方式 |
-| --- | --- | --- |
-| `hepu-campus-stamps-v1` | 已收集的纪念章 ID 列表 | 页面内「漫游手册 → 重新开始探索」，或清除站点数据 |
-| `hepu-settings` | 移动速度与画面质量偏好 | 页面内「设置 → 恢复默认设置」 |
+需要生成可直接打开的独立编辑页时：
 
-若浏览器禁止写入本地存储，页面会提示「足迹将在本次会话内保留」，功能本身不受影响。
+```sh
+npm run build
+npm run build:edit
+```
 
-### 模型加载的兜底顺序
+之后打开根目录 `index.edit.html` 或 `index_edit.html`。编辑页构建复用游客构建的共享资源，因此需要先完成游客构建。
 
-页面按以下顺序尝试取得场景模型，前一步失败才走下一步，因此**换托管不需要改代码**：
+编辑器支持植物与设施放置、位置/旋转/缩放调整、多选、复制、删除，以及道路绘制和路点调整。常用快捷键：
+
+| 操作 | 快捷键 |
+| --- | --- |
+| 移动、旋转、缩放工具 | `G`、`T`、`Y` |
+| 撤销 | `Ctrl+Z` |
+| 重做 | `Ctrl+Shift+Z` 或 `Ctrl+Y` |
+| 复制选中对象 | `Ctrl+D` |
+| 相机移动 | `WASD` |
+| 相机升降 | `E` / `Q` |
+
+“保存到 public/data”在开发服务器下通过 `/__planting-edits` 写入 `public/data/planting-edits.json`。离线打开或使用普通静态服务器时没有写盘接口，保存会改为下载 JSON；将下载文件放回该路径并重新构建，才能更新游客页面。
+
+常规 `npm run build` 不会把独立本地编辑页加入游客构建；只有 `build:edit` 明确执行额外同步。
+
+## 在线协作
+
+游客页的“设置 → 进入编辑模式”按需加载 `assets/editor-collaboration.js`。使用前需要配置服务：
+
+1. 将 `.env.example` 复制为本地 `.env`，填写下面两个变量，然后重新构建。
+2. 在目标 Supabase 项目中应用 `supabase/migrations/` 内的迁移，并部署 `supabase/functions/` 内的函数。
+3. 配置匿名登录供邀请兑换使用，为管理者建立 Auth 账号及启用的 `owner` 协作者记录，并使数据库内的已发布状态与站点版本一致。
+4. Owner 登录后创建一次性邀请，受邀用户通过链接填写昵称加入。
+
+```dotenv
+VITE_SUPABASE_URL=https://your-project.supabase.co
+VITE_SUPABASE_PUBLISHABLE_KEY=your-publishable-key
+```
+
+这两个值会进入浏览器构建。配置校验接受 publishable key 或兼容的 anon key，拒绝服务端密钥。函数所需的服务端配置由部署环境提供，不应放入 `VITE_` 变量。
+
+协作实现包括：
+
+- `AuthManager`：Owner 邮箱密码登录、匿名会话与邀请兑换。
+- `EntityLockManager`：编辑对象前申请锁，维护锁状态及失效处理。
+- `RealtimeManager`：私有频道中的在线成员与拖动预览。
+- `CollaborationManager`：快照同步、修改提交和冲突处理。
+- `HistoryManager`：编辑记录、撤销/重做与发布候选。
+- `VersionManager`：核对布局哈希和已发布版本；版本变化时要求刷新。
+- `AdminManager`：创建邀请、启停协作者及移出协作会话。
+
+协作修改进入共享 **Draft**，不会直接改变游客使用的 **Published** 场景。Owner 导出的 `Planting-Edits-r<revision>.json` 带有 `meta.publishedRevision`；将其作为 `public/data/planting-edits.json` 纳入源项目、重新构建并部署，部署同步完成后才更新后台 Published 状态。
+
+离线游客页仍可浏览校园，但协作入口需要通过 HTTP/HTTPS 加载清单、索引并连接服务。
+
+## 静态部署与 GitHub Pages
+
+`.github/workflows/pages.yml` 在 `main` 推送或手动触发时部署。该工作流面向**已经包含完整静态产物的仓库**，不会执行 `npm ci` 或 `npm run build`。
+
+部署时，`scripts/deployment-sync.mjs` 为清单写入当前提交标识，校验场景索引与编辑数据，再将允许发布的文件整理到 Pages 产物目录。源码、工具目录及 Supabase 服务端文件不进入该产物。
+
+如需在 Pages 发布成功后同步协作版本，配置 GitHub Actions secrets：
+
+| Secret | 用途 |
+| --- | --- |
+| `SUPABASE_DEPLOYMENT_SYNC_URL` | `deployment-sync` Edge Function 的地址 |
+| `DEPLOYMENT_SECRET` | 调用部署同步接口的专用密钥 |
+
+Edge Function 使用 `DEPLOYMENT_SYNC_SECRET` 校验该密钥，并使用 `PUBLISHED_SITE_URL` 读取站点发布文件进行核对。工作流会等待公开站点提供当前提交的清单后再通知后台。两个 Actions secrets 都未配置时，站点仍可部署，协作版本同步会跳过。
+
+## 项目结构
 
 ```text
-1. <script src="./models/campus.glb.gz.js">   gzip 包，命中即用 DecompressionStream 解压（本仓库采用）
-2. <script src="./models/campus.glb.js">      base64 包，本地双击版才有
-3. GLTFLoader.loadAsync("./models/campus.glb") 真实 .glb，走 HTTP 流式下载
+src/
+  main.js                 游客界面、导航、设置与协作入口
+  scene.js                Three.js 场景、资源加载与相机控制
+  scene-props.js          植物和设施生成、编辑数据应用
+  scene-roads.js          道路与路点编辑
+  scene-lotus.js          荷花及周边景观
+  world-math.js           地形、边界与碰撞计算
+  edit/                   独立本地编辑器
+  editor/                 在线协作编辑器与管理模块
+public/
+  data/                   校园源数据、编辑覆盖数据和场景索引
+  models/                 校园 GLB、独立模型及道具模型
+  photos/                 景点照片与参考图片
+  textures/               材质贴图
+  fonts/                  本地字体
+  editor-previews/        构建生成的素材预览图
+blender/                  Blender 场景文件
+scripts/                  建模、资源打包、构建、部署与检查脚本
+supabase/
+  migrations/             协作数据库结构、权限和 RPC
+  functions/              邀请创建、兑换与部署同步
+tests/                    逻辑测试及浏览器检查脚本
+index.dev.html            游客源码入口
+index.edit.dev.html       本地编辑器源码入口
+vite.config.js            游客构建、开发路由与本地保存接口
+vite.edit.config.js       本地编辑页构建
+vite.editor.config.js     在线协作模块构建
 ```
 
-三者都缺席时，加载页会显示中文错误与「重新载入」按钮，不会白屏。
+`public/data/campus.json` 描述建筑、景点、道路、水体、植物及平面坐标等基础数据；`planting-edits.json` 保存对象与道路的覆盖修改。`scene-index.json` 为协作对象提供稳定索引，`scene-manifest.json` 记录提交标识、布局哈希和发布版本。
 
-### 调试接口
+## 模型重建
 
-页面就绪后会在 `window.__CAMPUS__` 暴露只读状态查询，便于自动化与排查：
+前端构建直接使用现有模型，不要求安装 Blender。需要从脚本重建校园模型时，使用 Blender 4.5+，在项目根目录执行：
 
-```javascript
-window.__CAMPUS__.ready        // 场景是否构建完成
-window.__CAMPUS__.getState()   // { mode, movementSpeed, position, near, stamps, drawCalls, triangles, treeCount, webgl }
+```sh
+blender --background --python scripts/build_campus.py
+npm run build
 ```
 
----
+建模脚本读取校园数据，并调用各建筑与景观模块，导出独立 GLB 和合并的 `public/models/campus.glb`，同时保存 `blender/hepu-campus.blend` 与模型报告。该过程会重写对应输出，执行前应保存已有模型修改。
 
-## 目录结构
+## 检查命令
 
-```text
-hpsf-campus/
-├── index.html                    入口页。普通 <script>（非 ES module）+ 相对路径，离线可开
-├── favicon.svg                   站点图标
-├── .nojekyll                     让 GitHub Pages 跳过 Jekyll，按静态文件直接发布
-├── README.md                     本文件
-│
-├── assets/                       主程序包与自托管字体（102 个文件）
-│   ├── campus-walk-<hash>.js     主程序，Three.js 与全部逻辑打包为单个 IIFE
-│   ├── style-<hash>.css          样式表（含字体引用）
-│   └── <hash>.<n>-<hash>.woff2   思源宋体子集，100 个，按 unicode-range 按需请求
-│
-├── data/                         校园数据集与建模依据
-│   ├── campus.json               唯一数据源：建筑轮廓、道路宽度、水体、景点、植物、碰撞数据
-│   ├── campus.js                 campus.json 的脚本封装版（file:// 下以全局变量载入）
-│   ├── placement-audit.json      逐栋编号与资料依据核对表
-│   └── plan-overlay.svg          重绘平面图，供人工对照原图
-│
-├── models/                       场景模型（本仓库仅 1 份）
-│   └── campus.glb.gz.js          gzip 预压缩的完整校园场景，79.9 MB，解压后与原始 glb 逐字节一致
-│
-├── photos/                       景点实景照片与参考图纸（625 个文件进入发布集）
-│   ├── dimension-plan.jpg        《校园平面图-尺寸 8-1.pdf》第 1 页，全部平面坐标的基准
-│   ├── satellite.jpg             卫星图
-│   ├── plan.jpg                  总平面图
-│   ├── map.jpg                   校园导览图
-│   ├── layout-source-overlay.jpg 模型轮廓反投影到原图的位置核对图
-│   ├── <building>-<n>.jpg        各景点的实景参考照（如 dongpo-0.jpg ~ dongpo-5.jpg）
-│   ├── east-campus/              东侧建筑相册，68 张（校门、实训楼、艺术楼）
-│   ├── sports-campus/            体育场地相册，83 张（体育馆、舞台、操场）
-│   ├── teaching-1/               第一教学楼相册，8 张
-│   ├── teaching-2/               第二教学楼相册，69 张
-│   └── final-0/ ... final-8/     其余 24 栋建筑与环境相册，共 367 张
-│
-└── textures/                     体育场地程序化贴图
-    └── sports/                   红绿球场、塑胶跑道、沙地、石板铺装等 7 张
+```sh
+npm test
+npm run test:static
 ```
 
-**发布集规模**：734 个文件、约 379.3 MB（不含原始 `campus.glb`）。
+- `npm test` 使用 Node.js 测试运行器，覆盖导航与几何约束、编辑器状态与变换、协作逻辑、数据库 RPC 和部署流程等。
+- `npm run test:static` 需要完整构建及 Chromium，通过 `file://` 打开根目录页面，检查三维场景能否就绪、资源路径是否正确及是否出现网络请求。
 
----
-
-## 如果你发现了问题
-
-欢迎通过 [Issue](https://github.com/f3ngka0/hpsf-campus/issues) 反馈。为提高处理效率，请尽量附上：
-
-| 项目 | 说明 |
-| --- | --- |
-| 问题类型 | 场景错误 / 显示异常 / 操作无响应 / 性能问题 / 建模偏差 |
-| 复现步骤 | 例如「切换到步行模式 → 前往 03 东坡亭 → 按 W 前进」 |
-| 环境信息 | 浏览器及版本、操作系统、桌面或移动端、是否启用硬件加速 |
-| 截图或录屏 | 视觉问题最有说服力的证据 |
-| 控制台输出 | 按 `F12` 打开开发者工具，截图 Console 面板的报错信息 |
-
-若涉及**建模或平面坐标的偏差**，请尽可能指明依据——原始图纸、现场照片或卫星图。本项目的平面坐标以校园尺寸图为统一基准（每图面点 0.60021 米，以 14 × 28 米球场标定），有据可查的修正才会被采纳。
-
-### 提交修正
-
-模型与场景的再生成在源码工程侧完成，流程为：
-
-```text
-素材照片与尺寸图  →  Blender 建模（scripts/build_campus.py）
-                  →  导出 GLB（public/models/）
-                  →  构建站点（npm run build）
-                  →  复制为发布集
-```
-
-因此**针对场景的修正请提交到源码工程**，本仓库只承接构建后的结果。构建完成后可通过 `node tests/static-file-protocol.mjs` 用无头浏览器以 `file://` 协议逐项断言：12 个目的地、模型与照片可加载、字体全部本地、无网络请求、无控制台错误。
-
-### 转载与引用
-
-本项目用于校园复原展示。若需转载、引用或基于本场景二次创作，请先通过 Issue 联系说明用途。
-
----
-
-## 许可证信息
-
-### 本项目代码
-
-页面程序与样式表的作者归属本项目，用于校园复原展示。**当前未附明确的开放源代码许可证**，如需商业使用、二次分发或改编，请先通过 [Issue](https://github.com/f3ngka0/hpsf-campus/issues) 联系取得授权。
-
-### 第三方组件
-
-| 组件 | 许可证 |
-| --- | --- |
-| Three.js | MIT |
-| 思源宋体（Noto Serif SC） | SIL Open Font License 1.1 |
-| Vite | MIT |
-
-### 建模素材
-
-**校园照片、尺寸图与平面图的版权归原作者所有。** 这些素材作为建模依据收录于 `photos/`，仅用于校园复原展示与研究，不随本项目授权再分发。如需在其他场景使用，请自行联系原作者取得许可。
-
-### 关于地图数据
-
-底部「还原依据与地图来源」中出现的**高德地理锚点仅用于方向校正，不参与布局计算**。全部平面坐标以本地尺寸图纸为准，未使用任何地图平台的 POI 定位数据。
-
-### 精度声明
-
-图纸标注为「尺寸未定」的食堂等区域仍属示意轮廓。**楼层高度、未拍到的立面、树木位置和湖岸高差均依据照片估算**；尚未取得可靠 DEM 数据，统一局部地坪不应视为真实海拔或完整测绘地形。本场景为外观与校园空间的重建，不构成测绘成果。
-
----
-
-<p align="center">
-  <sub>合师漫游 · 每一段路，都有故事。</sub>
-</p>
+`tests/` 和 `scripts/` 下还保留了针对页面操作、模型和渲染的专用检查脚本；运行前应查看各脚本的入口参数和环境要求。
