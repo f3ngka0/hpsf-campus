@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "layoutHash": "c12c1ce18583712c51233a0f416a6f349c294d4c3204ec0bdec3fcee0f58b2d4",
+  "layoutHash": "26c40fdd9bc84998480c30cadf7841ce0915f37626c08e8b0827f652e1a70e57",
   "entities": {
     "plant-001": {
       "type": "prop",
@@ -1172,24 +1172,6 @@
         "crownRadius": 1.95
       }
     },
-    "plant-074": {
-      "type": "prop",
-      "model": "coconut",
-      "base_state": {
-        "kind": "coconut",
-        "name": "阔叶树 plant-074",
-        "position": [
-          -117.4586,
-          -42.3366
-        ],
-        "positionY": 0,
-        "rotationY": 0,
-        "scale": 1,
-        "hidden": false,
-        "height": 9,
-        "crownRadius": 2.4
-      }
-    },
     "plant-075": {
       "type": "prop",
       "model": "broadleaf",
@@ -1242,42 +1224,6 @@
         "hidden": false,
         "height": 5.8,
         "crownRadius": 2.05
-      }
-    },
-    "plant-078": {
-      "type": "prop",
-      "model": "broadleaf",
-      "base_state": {
-        "kind": "broadleaf",
-        "name": "阔叶树 plant-078",
-        "position": [
-          -173.0183,
-          -17.857
-        ],
-        "positionY": 0,
-        "rotationY": 0,
-        "scale": 1,
-        "hidden": false,
-        "height": 5.8,
-        "crownRadius": 2.42
-      }
-    },
-    "plant-079": {
-      "type": "prop",
-      "model": "broadleaf",
-      "base_state": {
-        "kind": "broadleaf",
-        "name": "阔叶树 plant-079",
-        "position": [
-          -182.6173,
-          -10.2058
-        ],
-        "positionY": 0,
-        "rotationY": 0,
-        "scale": 1,
-        "hidden": false,
-        "height": 5.8,
-        "crownRadius": 1.77
       }
     },
     "plant-080": {
@@ -1352,24 +1298,6 @@
         "crownRadius": 2.6
       }
     },
-    "plant-084": {
-      "type": "prop",
-      "model": "coconut",
-      "base_state": {
-        "kind": "coconut",
-        "name": "阔叶树 plant-084",
-        "position": [
-          -103.5533,
-          -27.6247
-        ],
-        "positionY": 0,
-        "rotationY": 0,
-        "scale": 1,
-        "hidden": false,
-        "height": 9,
-        "crownRadius": 2.4
-      }
-    },
     "plant-085": {
       "type": "prop",
       "model": "broadleaf",
@@ -1404,24 +1332,6 @@
         "hidden": false,
         "height": 5.8,
         "crownRadius": 2.14
-      }
-    },
-    "plant-087": {
-      "type": "prop",
-      "model": "coconut",
-      "base_state": {
-        "kind": "coconut",
-        "name": "阔叶树 plant-087",
-        "position": [
-          -121.8408,
-          -16.4849
-        ],
-        "positionY": 0,
-        "rotationY": 0,
-        "scale": 1,
-        "hidden": false,
-        "height": 9,
-        "crownRadius": 2.4
       }
     },
     "plant-088": {
@@ -1550,24 +1460,6 @@
         "crownRadius": 2.14
       }
     },
-    "plant-095": {
-      "type": "prop",
-      "model": "coconut",
-      "base_state": {
-        "kind": "coconut",
-        "name": "阔叶树 plant-095",
-        "position": [
-          -103.2389,
-          -7.9004
-        ],
-        "positionY": 0,
-        "rotationY": 0,
-        "scale": 1,
-        "hidden": false,
-        "height": 9,
-        "crownRadius": 2.4
-      }
-    },
     "plant-096": {
       "type": "prop",
       "model": "broadleaf",
@@ -1638,24 +1530,6 @@
         "hidden": false,
         "height": 12,
         "crownRadius": 1.67
-      }
-    },
-    "plant-104": {
-      "type": "prop",
-      "model": "coconut",
-      "base_state": {
-        "kind": "coconut",
-        "name": "阔叶树 plant-104",
-        "position": [
-          -105.6881,
-          9.1871
-        ],
-        "positionY": 0,
-        "rotationY": 0,
-        "scale": 1,
-        "hidden": false,
-        "height": 9,
-        "crownRadius": 2.4
       }
     },
     "plant-107": {
@@ -4502,6 +4376,816 @@
         "crownRadius": 3.6
       }
     },
+    "plant-gr-grove-tree-0": {
+      "type": "prop",
+      "model": "grove-grove-tree-0",
+      "base_state": {
+        "kind": "grove-grove-tree-0",
+        "name": "阔叶树 plant-gr-grove-tree-0",
+        "position": [
+          -117.4586,
+          -42.3366
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.7
+      }
+    },
+    "plant-gr-grove-tree-1": {
+      "type": "prop",
+      "model": "grove-grove-tree-1",
+      "base_state": {
+        "kind": "grove-grove-tree-1",
+        "name": "阔叶树 plant-gr-grove-tree-1",
+        "position": [
+          -103.5533,
+          -27.6247
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.7
+      }
+    },
+    "plant-gr-grove-tree-2": {
+      "type": "prop",
+      "model": "grove-grove-tree-2",
+      "base_state": {
+        "kind": "grove-grove-tree-2",
+        "name": "阔叶树 plant-gr-grove-tree-2",
+        "position": [
+          -121.8408,
+          -16.4849
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 8.5,
+        "crownRadius": 3.4
+      }
+    },
+    "plant-gr-grove-tree-3": {
+      "type": "prop",
+      "model": "grove-grove-tree-3",
+      "base_state": {
+        "kind": "grove-grove-tree-3",
+        "name": "阔叶树 plant-gr-grove-tree-3",
+        "position": [
+          -103.2389,
+          -7.9004
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 8.5,
+        "crownRadius": 3.4
+      }
+    },
+    "plant-gr-grove-tree-4": {
+      "type": "prop",
+      "model": "grove-grove-tree-4",
+      "base_state": {
+        "kind": "grove-grove-tree-4",
+        "name": "阔叶树 plant-gr-grove-tree-4",
+        "position": [
+          -105.6881,
+          9.1871
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 8.5,
+        "crownRadius": 3.4
+      }
+    },
+    "plant-gr-willow-0": {
+      "type": "prop",
+      "model": "grove-willow-0",
+      "base_state": {
+        "kind": "grove-willow-0",
+        "name": "阔叶树 plant-gr-willow-0",
+        "position": [
+          -178.7209,
+          -14.1501
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 7.2,
+        "crownRadius": 3.2
+      }
+    },
+    "plant-gr-willow-1": {
+      "type": "prop",
+      "model": "grove-willow-1",
+      "base_state": {
+        "kind": "grove-willow-1",
+        "name": "阔叶树 plant-gr-willow-1",
+        "position": [
+          -180.5539,
+          -4.329
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 6.7,
+        "crownRadius": 3.1
+      }
+    },
+    "plant-gr-willow-2": {
+      "type": "prop",
+      "model": "grove-willow-2",
+      "base_state": {
+        "kind": "grove-willow-2",
+        "name": "阔叶树 plant-gr-willow-2",
+        "position": [
+          -178.7278,
+          4.6195
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 7.1,
+        "crownRadius": 3.5
+      }
+    },
+    "plant-gr-willow-3": {
+      "type": "prop",
+      "model": "grove-willow-3",
+      "base_state": {
+        "kind": "grove-willow-3",
+        "name": "阔叶树 plant-gr-willow-3",
+        "position": [
+          -175.0895,
+          14.3203
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 6.7,
+        "crownRadius": 3.7
+      }
+    },
+    "plant-gr-willow-4": {
+      "type": "prop",
+      "model": "grove-willow-4",
+      "base_state": {
+        "kind": "grove-willow-4",
+        "name": "阔叶树 plant-gr-willow-4",
+        "position": [
+          -172.4167,
+          18.5296
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 7.5,
+        "crownRadius": 3.2
+      }
+    },
+    "plant-gr-willow-5": {
+      "type": "prop",
+      "model": "grove-willow-5",
+      "base_state": {
+        "kind": "grove-willow-5",
+        "name": "阔叶树 plant-gr-willow-5",
+        "position": [
+          -167.8587,
+          24.6362
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 7.3,
+        "crownRadius": 3.5
+      }
+    },
+    "plant-gr-willow-6": {
+      "type": "prop",
+      "model": "grove-willow-6",
+      "base_state": {
+        "kind": "grove-willow-6",
+        "name": "阔叶树 plant-gr-willow-6",
+        "position": [
+          -160.361,
+          26.4647
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 6.6,
+        "crownRadius": 3
+      }
+    },
+    "plant-gr-willow-7": {
+      "type": "prop",
+      "model": "grove-willow-7",
+      "base_state": {
+        "kind": "grove-willow-7",
+        "name": "阔叶树 plant-gr-willow-7",
+        "position": [
+          -154.436,
+          29.2273
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 7.3,
+        "crownRadius": 3.5
+      }
+    },
+    "plant-gr-willow-8": {
+      "type": "prop",
+      "model": "grove-willow-8",
+      "base_state": {
+        "kind": "grove-willow-8",
+        "name": "阔叶树 plant-gr-willow-8",
+        "position": [
+          -179.4734,
+          1.5388
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 7,
+        "crownRadius": 3.1
+      }
+    },
+    "plant-gr-willow-9": {
+      "type": "prop",
+      "model": "grove-willow-9",
+      "base_state": {
+        "kind": "grove-willow-9",
+        "name": "阔叶树 plant-gr-willow-9",
+        "position": [
+          -172.4217,
+          18.5217
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 6.8,
+        "crownRadius": 3.1
+      }
+    },
+    "plant-gr-willow-10": {
+      "type": "prop",
+      "model": "grove-willow-10",
+      "base_state": {
+        "kind": "grove-willow-10",
+        "name": "阔叶树 plant-gr-willow-10",
+        "position": [
+          -163.6424,
+          23.8055
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 7.7,
+        "crownRadius": 3.6
+      }
+    },
+    "plant-gr-willow-11": {
+      "type": "prop",
+      "model": "grove-willow-11",
+      "base_state": {
+        "kind": "grove-willow-11",
+        "name": "阔叶树 plant-gr-willow-11",
+        "position": [
+          -152.8621,
+          32.9642
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 7,
+        "crownRadius": 3.2
+      }
+    },
+    "plant-gr-specimen-0": {
+      "type": "prop",
+      "model": "grove-specimen-0",
+      "base_state": {
+        "kind": "grove-specimen-0",
+        "name": "阔叶树 plant-gr-specimen-0",
+        "position": [
+          -122,
+          -11
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 10,
+        "crownRadius": 5.5
+      }
+    },
+    "plant-gr-specimen-1": {
+      "type": "prop",
+      "model": "grove-specimen-1",
+      "base_state": {
+        "kind": "grove-specimen-1",
+        "name": "阔叶树 plant-gr-specimen-1",
+        "position": [
+          -107,
+          -14
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 4
+      }
+    },
+    "plant-gr-specimen-2": {
+      "type": "prop",
+      "model": "grove-specimen-2",
+      "base_state": {
+        "kind": "grove-specimen-2",
+        "name": "阔叶树 plant-gr-specimen-2",
+        "position": [
+          -111,
+          -23
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 8,
+        "crownRadius": 3.6
+      }
+    },
+    "plant-gr-specimen-3": {
+      "type": "prop",
+      "model": "grove-specimen-3",
+      "base_state": {
+        "kind": "grove-specimen-3",
+        "name": "阔叶树 plant-gr-specimen-3",
+        "position": [
+          -125,
+          -31
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 3.5
+      }
+    },
+    "plant-gr-specimen-4": {
+      "type": "prop",
+      "model": "grove-specimen-4",
+      "base_state": {
+        "kind": "grove-specimen-4",
+        "name": "阔叶树 plant-gr-specimen-4",
+        "position": [
+          -109,
+          0
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 8,
+        "crownRadius": 3.4
+      }
+    },
+    "plant-gr-specimen-5": {
+      "type": "prop",
+      "model": "grove-specimen-5",
+      "base_state": {
+        "kind": "grove-specimen-5",
+        "name": "阔叶树 plant-gr-specimen-5",
+        "position": [
+          -122,
+          0
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 3.5
+      }
+    },
+    "plant-gr-specimen-6": {
+      "type": "prop",
+      "model": "grove-specimen-6",
+      "base_state": {
+        "kind": "grove-specimen-6",
+        "name": "阔叶树 plant-gr-specimen-6",
+        "position": [
+          -106,
+          -19
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 8.3,
+        "crownRadius": 3.3
+      }
+    },
+    "plant-gr-specimen-7": {
+      "type": "prop",
+      "model": "grove-specimen-7",
+      "base_state": {
+        "kind": "grove-specimen-7",
+        "name": "阔叶树 plant-gr-specimen-7",
+        "position": [
+          -115,
+          9
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9.8,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-gr-specimen-8": {
+      "type": "prop",
+      "model": "grove-specimen-8",
+      "base_state": {
+        "kind": "grove-specimen-8",
+        "name": "阔叶树 plant-gr-specimen-8",
+        "position": [
+          -106,
+          3
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9.5,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-gr-specimen-9": {
+      "type": "prop",
+      "model": "grove-specimen-9",
+      "base_state": {
+        "kind": "grove-specimen-9",
+        "name": "阔叶树 plant-gr-specimen-9",
+        "position": [
+          -110,
+          13
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 8.8,
+        "crownRadius": 2.3
+      }
+    },
+    "plant-gr-specimen-10": {
+      "type": "prop",
+      "model": "grove-specimen-10",
+      "base_state": {
+        "kind": "grove-specimen-10",
+        "name": "阔叶树 plant-gr-specimen-10",
+        "position": [
+          -118,
+          8
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 10.2,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-gr-specimen-11": {
+      "type": "prop",
+      "model": "grove-specimen-11",
+      "base_state": {
+        "kind": "grove-specimen-11",
+        "name": "阔叶树 plant-gr-specimen-11",
+        "position": [
+          -104,
+          -12
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-gr-specimen-12": {
+      "type": "prop",
+      "model": "grove-specimen-12",
+      "base_state": {
+        "kind": "grove-specimen-12",
+        "name": "阔叶树 plant-gr-specimen-12",
+        "position": [
+          -100,
+          -18
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 9.4,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-gr-specimen-13": {
+      "type": "prop",
+      "model": "grove-specimen-13",
+      "base_state": {
+        "kind": "grove-specimen-13",
+        "name": "阔叶树 plant-gr-specimen-13",
+        "position": [
+          -123,
+          -23
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 8.7,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-gr-specimen-14": {
+      "type": "prop",
+      "model": "grove-specimen-14",
+      "base_state": {
+        "kind": "grove-specimen-14",
+        "name": "阔叶树 plant-gr-specimen-14",
+        "position": [
+          -121.8,
+          -21.4
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.65,
+        "crownRadius": 1.05
+      }
+    },
+    "plant-gr-specimen-15": {
+      "type": "prop",
+      "model": "grove-specimen-15",
+      "base_state": {
+        "kind": "grove-specimen-15",
+        "name": "阔叶树 plant-gr-specimen-15",
+        "position": [
+          -114.5,
+          -24.6
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 2.1,
+        "crownRadius": 1.3
+      }
+    },
+    "plant-gr-specimen-16": {
+      "type": "prop",
+      "model": "grove-specimen-16",
+      "base_state": {
+        "kind": "grove-specimen-16",
+        "name": "阔叶树 plant-gr-specimen-16",
+        "position": [
+          -114.9,
+          -29.6
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.8,
+        "crownRadius": 1.1
+      }
+    },
+    "plant-gr-specimen-17": {
+      "type": "prop",
+      "model": "grove-specimen-17",
+      "base_state": {
+        "kind": "grove-specimen-17",
+        "name": "阔叶树 plant-gr-specimen-17",
+        "position": [
+          -120.4,
+          -29.3
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.9,
+        "crownRadius": 1.3
+      }
+    },
+    "plant-gr-specimen-18": {
+      "type": "prop",
+      "model": "grove-specimen-18",
+      "base_state": {
+        "kind": "grove-specimen-18",
+        "name": "阔叶树 plant-gr-specimen-18",
+        "position": [
+          -119,
+          -31.7
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.65,
+        "crownRadius": 1
+      }
+    },
+    "plant-gr-specimen-19": {
+      "type": "prop",
+      "model": "grove-specimen-19",
+      "base_state": {
+        "kind": "grove-specimen-19",
+        "name": "阔叶树 plant-gr-specimen-19",
+        "position": [
+          -114,
+          -30.4
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.8,
+        "crownRadius": 1.1
+      }
+    },
+    "plant-gr-specimen-20": {
+      "type": "prop",
+      "model": "grove-specimen-20",
+      "base_state": {
+        "kind": "grove-specimen-20",
+        "name": "阔叶树 plant-gr-specimen-20",
+        "position": [
+          -117.4,
+          -8.2
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.8,
+        "crownRadius": 1.2
+      }
+    },
+    "plant-gr-specimen-21": {
+      "type": "prop",
+      "model": "grove-specimen-21",
+      "base_state": {
+        "kind": "grove-specimen-21",
+        "name": "阔叶树 plant-gr-specimen-21",
+        "position": [
+          -109.5,
+          -8.4
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.7,
+        "crownRadius": 1.1
+      }
+    },
+    "plant-gr-specimen-22": {
+      "type": "prop",
+      "model": "grove-specimen-22",
+      "base_state": {
+        "kind": "grove-specimen-22",
+        "name": "阔叶树 plant-gr-specimen-22",
+        "position": [
+          -109.3,
+          -4.3
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.9,
+        "crownRadius": 1.2
+      }
+    },
+    "plant-gr-specimen-23": {
+      "type": "prop",
+      "model": "grove-specimen-23",
+      "base_state": {
+        "kind": "grove-specimen-23",
+        "name": "阔叶树 plant-gr-specimen-23",
+        "position": [
+          -117.6,
+          -4.4
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.5,
+        "crownRadius": 1
+      }
+    },
+    "plant-gr-specimen-24": {
+      "type": "prop",
+      "model": "grove-specimen-24",
+      "base_state": {
+        "kind": "grove-specimen-24",
+        "name": "阔叶树 plant-gr-specimen-24",
+        "position": [
+          -120.2,
+          -6.8
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 2,
+        "crownRadius": 1.1
+      }
+    },
+    "plant-gr-specimen-25": {
+      "type": "prop",
+      "model": "grove-specimen-25",
+      "base_state": {
+        "kind": "grove-specimen-25",
+        "name": "阔叶树 plant-gr-specimen-25",
+        "position": [
+          -110,
+          -11.2
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.5,
+        "crownRadius": 1
+      }
+    },
+    "plant-gr-specimen-26": {
+      "type": "prop",
+      "model": "grove-specimen-26",
+      "base_state": {
+        "kind": "grove-specimen-26",
+        "name": "阔叶树 plant-gr-specimen-26",
+        "position": [
+          -149.2,
+          27.9
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 5.5,
+        "crownRadius": 2.4
+      }
+    },
+    "plant-gr-specimen-27": {
+      "type": "prop",
+      "model": "grove-specimen-27",
+      "base_state": {
+        "kind": "grove-specimen-27",
+        "name": "阔叶树 plant-gr-specimen-27",
+        "position": [
+          -142.4,
+          26.3
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 6.5,
+        "crownRadius": 2.7
+      }
+    },
     "lamp-gate-1": {
       "type": "prop",
       "model": "lamp",
@@ -4941,9 +5625,9 @@
     },
     "library-path": {
       "type": "road",
-      "model": "bridge",
+      "model": "path",
       "base_state": {
-        "kind": "bridge",
+        "kind": "path",
         "name": "图书馆湖中曲桥",
         "width": 2,
         "points": [
@@ -4952,8 +5636,12 @@
             -59.4065
           ],
           [
-            -186.6969,
-            -41.3611
+            -192.3,
+            -40.5
+          ],
+          [
+            -193,
+            -21.2
           ],
           [
             -181.3607,
@@ -4978,6 +5666,14 @@
           [
             -147.7961,
             32.4133
+          ],
+          [
+            -145.7,
+            33.7
+          ],
+          [
+            -142.5,
+            33.7
           ],
           [
             -138.9888,
@@ -5038,6 +5734,14 @@
           [
             -147.7961,
             32.4133
+          ],
+          [
+            -145.7,
+            33.7
+          ],
+          [
+            -142.5,
+            33.7
           ],
           [
             -138.9425,
@@ -5256,16 +5960,32 @@
             6.5269
           ],
           [
+            -114.3064,
+            -1.7843
+          ],
+          [
             -113.3524,
             -6.6924
+          ],
+          [
+            -112.3984,
+            -11.6005
           ],
           [
             -114.4269,
             -17.629
           ],
           [
-            -117.4057,
-            -27.195
+            -120.7,
+            -23.3
+          ],
+          [
+            -121.1,
+            -28.3
+          ],
+          [
+            -119.5,
+            -31.3
           ],
           [
             -104.7205,
@@ -5358,6 +6078,54 @@
           [
             145.7015,
             -155.432
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "hefeng-entry": {
+      "type": "road",
+      "model": "path",
+      "base_state": {
+        "kind": "path",
+        "name": "荷风拂柳亭入口",
+        "width": 1.4,
+        "points": [
+          [
+            -138.9888,
+            32.0011
+          ],
+          [
+            -141,
+            30.6012
+          ],
+          [
+            -143.5,
+            30.6012
+          ]
+        ],
+        "hidden": false
+      }
+    },
+    "round-pavilion-entry": {
+      "type": "road",
+      "model": "path",
+      "base_state": {
+        "kind": "path",
+        "name": "圆亭入口",
+        "width": 1.4,
+        "points": [
+          [
+            -120.7,
+            -23.3
+          ],
+          [
+            -117.9914,
+            -24.1822
+          ],
+          [
+            -117.8526,
+            -24.8979
           ]
         ],
         "hidden": false
