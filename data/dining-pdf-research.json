@@ -1,0 +1,444 @@
+{
+  "revision": "dining-pdf-blockout-2026-10-02",
+  "source": "素材\\校园平面图-尺寸8-1.pdf",
+  "sourceSha256": "5ac9d656eb781db43bbe7d5449042588d648072a64a13cefd8700596ae9df4a1",
+  "sourcePage": 1,
+  "fittedMetresPerPoint": 0.6001984200135921,
+  "adoptedMetresPerPoint": 0.60021,
+  "adoptionReason": "Verified existing campus scale; difference from fit under 0.002%, preserve common coordinate frame",
+  "originPDFPoints": [
+    595,
+    390
+  ],
+  "anchors": [
+    {
+      "building": "体育馆",
+      "pathIndex": 65,
+      "axis": "X",
+      "labelledMetres": 44,
+      "pdfPoints": 73.3101806640625,
+      "metresPerPoint": 0.6001894907560814,
+      "reconstructedMetres": 44.00150353637695,
+      "errorMetres": 0.001503536376951331
+    },
+    {
+      "building": "体育馆",
+      "pathIndex": 65,
+      "axis": "Y",
+      "labelledMetres": 22,
+      "pdfPoints": 36.653411865234375,
+      "metresPerPoint": 0.600216975186065,
+      "reconstructedMetres": 21.999744335632325,
+      "errorMetres": -0.0002556643676747683
+    },
+    {
+      "building": "第一教学楼",
+      "pathIndex": 160,
+      "axis": "X",
+      "labelledMetres": 68,
+      "pdfPoints": 113.29241943359375,
+      "metresPerPoint": 0.6002166812216252,
+      "reconstructedMetres": 67.9992430682373,
+      "errorMetres": -0.0007569317626945349
+    },
+    {
+      "building": "第一教学楼",
+      "pathIndex": 160,
+      "axis": "Y",
+      "labelledMetres": 9.5,
+      "pdfPoints": 15.830078125,
+      "metresPerPoint": 0.6001233806292412,
+      "reconstructedMetres": 9.50137119140625,
+      "errorMetres": 0.0013711914062497499
+    },
+    {
+      "building": "学生宿舍 2 号",
+      "pathIndex": 327,
+      "axis": "X",
+      "labelledMetres": 60,
+      "pdfPoints": 99.9671630859375,
+      "metresPerPoint": 0.6001970862014016,
+      "reconstructedMetres": 60.001290955810546,
+      "errorMetres": 0.0012909558105462793
+    },
+    {
+      "building": "学生宿舍 2 号",
+      "pathIndex": 327,
+      "axis": "Y",
+      "labelledMetres": 9.5,
+      "pdfPoints": 15.833343505859375,
+      "metresPerPoint": 0.5999996145150504,
+      "reconstructedMetres": 9.503331105651856,
+      "errorMetres": 0.0033311056518563475
+    },
+    {
+      "building": "学生宿舍 1 号",
+      "pathIndex": 344,
+      "axis": "X",
+      "labelledMetres": 56.5,
+      "pdfPoints": 94.13677978515625,
+      "metresPerPoint": 0.6001904901457982,
+      "reconstructedMetres": 56.50183659484863,
+      "errorMetres": 0.0018365948486334105
+    },
+    {
+      "building": "学生宿舍 1 号",
+      "pathIndex": 344,
+      "axis": "Y",
+      "labelledMetres": 11.5,
+      "pdfPoints": 19.16546630859375,
+      "metresPerPoint": 0.6000375787800909,
+      "reconstructedMetres": 11.503304533081055,
+      "errorMetres": 0.003304533081054828
+    }
+  ],
+  "page2CrossCheck": [
+    {
+      "building": "体育馆",
+      "page2PathIndex": 37,
+      "xScale": 0.5962060606762333,
+      "yScale": 0.5971775355955904
+    },
+    {
+      "building": "第一教学楼",
+      "page2PathIndex": 117,
+      "xScale": 0.596491387749759,
+      "yScale": 0.5952384139264251
+    },
+    {
+      "building": "学生宿舍 2 号",
+      "page2PathIndex": 270,
+      "xScale": 0.5959472386880722,
+      "yScale": 0.5952372757553855
+    },
+    {
+      "building": "学生宿舍 1 号",
+      "page2PathIndex": 287,
+      "xScale": 0.5959916379249847,
+      "yScale": 0.5952378695832109
+    }
+  ],
+  "outlines": [
+    {
+      "pathIndex": 2125,
+      "name": "北侧食堂 A",
+      "targetId": "canteen",
+      "pdfBounds": [
+        173.3956298828125,
+        449.6850280761719,
+        233.599609375,
+        481.68524169921875
+      ],
+      "width": 36.13503053100586,
+      "depth": 19.206848218688965,
+      "position": [
+        -234.9836437225342,
+        45.426974810943605
+      ],
+      "footprint": [
+        [
+          -253.05115898803712,
+          35.823550701599125
+        ],
+        [
+          -216.91612845703125,
+          35.823550701599125
+        ],
+        [
+          -216.91612845703125,
+          55.030398920288086
+        ],
+        [
+          -253.05115898803712,
+          55.030398920288086
+        ]
+      ],
+      "provisionalHeight": 10.4,
+      "status": "schematic-estimate",
+      "dimensionSource": "PDF red outline, calibrated from labelled buildings"
+    },
+    {
+      "pathIndex": 2126,
+      "name": "北侧食堂 B（相接体量）",
+      "targetId": "canteen",
+      "pdfBounds": [
+        162.6439208984375,
+        481.68524169921875,
+        231.1895751953125,
+        503.0056457519531
+      ],
+      "width": 41.14178716552735,
+      "depth": 12.7967197164917,
+      "position": [
+        -238.93354865478517,
+        61.42875877853394
+      ],
+      "footprint": [
+        [
+          -259.50444223754886,
+          55.030398920288086
+        ],
+        [
+          -218.36265507202148,
+          55.030398920288086
+        ],
+        [
+          -218.36265507202148,
+          67.82711863677979
+        ],
+        [
+          -259.50444223754886,
+          67.82711863677979
+        ]
+      ],
+      "provisionalHeight": 5.2,
+      "status": "schematic-estimate",
+      "dimensionSource": "PDF red outline, calibrated from labelled buildings"
+    },
+    {
+      "pathIndex": 2127,
+      "name": "小饭堂",
+      "targetId": "canteen-wing",
+      "pdfBounds": [
+        175.0894775390625,
+        526.1932373046875,
+        232.3341064453125,
+        539.7440795898438
+      ],
+      "width": 34.35879871582031,
+      "depth": 8.133351047973633,
+      "position": [
+        -234.85509532836915,
+        85.81121848663331
+      ],
+      "footprint": [
+        [
+          -252.03449468627932,
+          81.74454296264649
+        ],
+        [
+          -217.675695970459,
+          81.74454296264649
+        ],
+        [
+          -217.675695970459,
+          89.87789401062012
+        ],
+        [
+          -252.03449468627932,
+          89.87789401062012
+        ]
+      ],
+      "provisionalHeight": 3.35,
+      "status": "schematic-estimate",
+      "dimensionSource": "PDF red outline, calibrated from labelled buildings"
+    },
+    {
+      "pathIndex": 2128,
+      "name": "临湖长廊",
+      "targetId": "dining-pergola",
+      "pdfBounds": [
+        242.20623779296875,
+        493.07464599609375,
+        254.25616455078125,
+        543.20703125
+      ],
+      "width": 7.232486539306641,
+      "depth": 30.08995895324707,
+      "position": [
+        -208.1341007446289,
+        76.91141274993896
+      ],
+      "footprint": [
+        [
+          -211.75034401428223,
+          61.86643327331543
+        ],
+        [
+          -204.51785747497559,
+          61.86643327331543
+        ],
+        [
+          -204.51785747497559,
+          91.9563922265625
+        ],
+        [
+          -211.75034401428223,
+          91.9563922265625
+        ]
+      ],
+      "provisionalHeight": 3.0,
+      "status": "schematic-estimate",
+      "dimensionSource": "PDF red outline, calibrated from labelled buildings"
+    },
+    {
+      "pathIndex": 2129,
+      "name": "原教工活动中心 / 学生餐厅",
+      "targetId": "staff-activity",
+      "pdfBounds": [
+        197.32550048828125,
+        539.727783203125,
+        234.75390625,
+        562.5948486328125
+      ],
+      "width": 22.46490342224121,
+      "depth": 13.725041341552735,
+      "position": [
+        -227.4557596408081,
+        96.73063342712403
+      ],
+      "footprint": [
+        [
+          -238.68821135192871,
+          89.86811275634766
+        ],
+        [
+          -216.2233079296875,
+          89.86811275634766
+        ],
+        [
+          -216.2233079296875,
+          103.5931540979004
+        ],
+        [
+          -238.68821135192871,
+          103.5931540979004
+        ]
+      ],
+      "provisionalHeight": 5.6,
+      "status": "schematic-estimate",
+      "dimensionSource": "PDF red outline, calibrated from labelled buildings"
+    },
+    {
+      "pathIndex": 2130,
+      "name": "小礼堂",
+      "targetId": "hall",
+      "pdfBounds": [
+        173.382568359375,
+        562.5948486328125,
+        234.75390625,
+        589.5494384765625
+      ],
+      "width": 36.835690715332035,
+      "depth": 16.17841437011719,
+      "position": [
+        -234.64115328735352,
+        111.682361282959
+      ],
+      "footprint": [
+        [
+          -253.05899864501953,
+          103.5931540979004
+        ],
+        [
+          -216.2233079296875,
+          103.5931540979004
+        ],
+        [
+          -216.2233079296875,
+          119.77156846801758
+        ],
+        [
+          -253.05899864501953,
+          119.77156846801758
+        ]
+      ],
+      "provisionalHeight": 4.7,
+      "status": "schematic-estimate",
+      "dimensionSource": "PDF red outline, calibrated from labelled buildings"
+    },
+    {
+      "pathIndex": 2131,
+      "name": "南侧入口窄条（用途待核，不建实体）",
+      "targetId": null,
+      "pdfBounds": [
+        180.9591064453125,
+        589.5494384765625,
+        185.11859130859375,
+        610.74560546875
+      ],
+      "width": 2.496564409790039,
+      "depth": 12.72215139038086,
+      "position": [
+        -247.26320251556396,
+        126.13264416320801
+      ],
+      "footprint": [
+        [
+          -248.51148472045898,
+          119.77156846801758
+        ],
+        [
+          -246.01492031066894,
+          119.77156846801758
+        ],
+        [
+          -246.01492031066894,
+          132.49371985839844
+        ],
+        [
+          -248.51148472045898,
+          132.49371985839844
+        ]
+      ],
+      "provisionalHeight": 0,
+      "status": "schematic-estimate",
+      "dimensionSource": "PDF red outline, calibrated from labelled buildings"
+    }
+  ],
+  "courtyardPDFBounds": [
+    175.0894775390625,
+    503.0056457519531,
+    232.3341064453125,
+    526.1932373046875
+  ],
+  "previousModels": {
+    "canteen": {
+      "position": [
+        -234,
+        57
+      ],
+      "width": 38,
+      "depth": 18
+    },
+    "canteen-wing": {
+      "position": [
+        -236,
+        88
+      ],
+      "width": 34,
+      "depth": 7
+    },
+    "hall": {
+      "position": [
+        -240,
+        114
+      ],
+      "width": 24,
+      "depth": 10
+    },
+    "staff-activity": {
+      "position": [
+        -236,
+        100
+      ],
+      "width": 34,
+      "depth": 16
+    },
+    "dining-pergola": {
+      "position": [
+        -211,
+        91
+      ],
+      "width": 3.6,
+      "depth": 43
+    }
+  },
+  "caveats": [
+    "食堂区 PDF 原注为“尺寸未定”；以下值仅由示意红框反推，不是实测尺寸。",
+    "第 2 页经过不同排版缩放，须单独校准（约 0.596 米/点），不得混用页面坐标；它不提供独立实测证据。",
+    "高度只是照片辅助的粗模占位值；北侧 B 区层数和独立栋数尚未确认。",
+    "平面图2用于识别饭堂、活动中心、小礼堂和长廊；不以鸟瞰图测量或定位。",
+    "2131 靠南侧入口，不能当成洗手池；暂保留在研究图中，不建实体。"
+  ]
+}
