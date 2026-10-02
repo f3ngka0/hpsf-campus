@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "layoutHash": "26c40fdd9bc84998480c30cadf7841ce0915f37626c08e8b0827f652e1a70e57",
+  "layoutHash": "2420990494138e5f09f06110edd378bd8ebc00028bcb3632c9ebf2827fa52af1",
   "entities": {
     "plant-001": {
       "type": "prop",
@@ -5186,6 +5186,222 @@
         "crownRadius": 2.7
       }
     },
+    "plant-dp-east-banyan-1": {
+      "type": "prop",
+      "model": "dongpo-east-banyan-1",
+      "base_state": {
+        "kind": "dongpo-east-banyan-1",
+        "name": "阔叶树 plant-dp-east-banyan-1",
+        "position": [
+          -143.30514834777833,
+          84.06248454956055
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 10,
+        "crownRadius": 4.6
+      }
+    },
+    "plant-dp-east-banyan-2": {
+      "type": "prop",
+      "model": "dongpo-east-banyan-2",
+      "base_state": {
+        "kind": "dongpo-east-banyan-2",
+        "name": "阔叶树 plant-dp-east-banyan-2",
+        "position": [
+          -143.40514834777832,
+          77.26248454956055
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 10.8,
+        "crownRadius": 4.8
+      }
+    },
+    "plant-dp-waterside-tree-1": {
+      "type": "prop",
+      "model": "dongpo-waterside-tree-1",
+      "base_state": {
+        "kind": "dongpo-waterside-tree-1",
+        "name": "阔叶树 plant-dp-waterside-tree-1",
+        "position": [
+          -143.6051483477783,
+          89.86248454956055
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 7.7,
+        "crownRadius": 3.2
+      }
+    },
+    "plant-dp-waterside-tree-2": {
+      "type": "prop",
+      "model": "dongpo-waterside-tree-2",
+      "base_state": {
+        "kind": "dongpo-waterside-tree-2",
+        "name": "阔叶树 plant-dp-waterside-tree-2",
+        "position": [
+          -143.40514834777832,
+          93.86248454956055
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 6.6,
+        "crownRadius": 2.8
+      }
+    },
+    "plant-dp-norfolk-pine": {
+      "type": "prop",
+      "model": "dongpo-norfolk-pine",
+      "base_state": {
+        "kind": "dongpo-norfolk-pine",
+        "name": "阔叶树 plant-dp-norfolk-pine",
+        "position": [
+          -149.00514834777832,
+          90.96248454956056
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 10,
+        "crownRadius": 2.15
+      }
+    },
+    "plant-dp-right-yellow": {
+      "type": "prop",
+      "model": "dongpo-right-yellow",
+      "base_state": {
+        "kind": "dongpo-right-yellow",
+        "name": "阔叶树 plant-dp-right-yellow",
+        "position": [
+          -148.9551483477783,
+          93.11248454956055
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.35,
+        "crownRadius": 1.4
+      }
+    },
+    "plant-dp-left-yellow": {
+      "type": "prop",
+      "model": "dongpo-left-yellow",
+      "base_state": {
+        "kind": "dongpo-left-yellow",
+        "name": "阔叶树 plant-dp-left-yellow",
+        "position": [
+          -160.9551483477783,
+          93.11248454956055
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.25,
+        "crownRadius": 1.35
+      }
+    },
+    "plant-dp-west-green": {
+      "type": "prop",
+      "model": "dongpo-west-green",
+      "base_state": {
+        "kind": "dongpo-west-green",
+        "name": "阔叶树 plant-dp-west-green",
+        "position": [
+          -161.1051483477783,
+          89.86248454956055
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.8,
+        "crownRadius": 1.35
+      }
+    },
+    "plant-dp-rear-green": {
+      "type": "prop",
+      "model": "dongpo-rear-green",
+      "base_state": {
+        "kind": "dongpo-rear-green",
+        "name": "阔叶树 plant-dp-rear-green",
+        "position": [
+          -149.1051483477783,
+          89.76248454956055
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.9,
+        "crownRadius": 1.2
+      }
+    },
+    "plant-dp-west-tall-shrub": {
+      "type": "prop",
+      "model": "dongpo-west-tall-shrub",
+      "base_state": {
+        "kind": "dongpo-west-tall-shrub",
+        "name": "阔叶树 plant-dp-west-tall-shrub",
+        "position": [
+          -161.6051483477783,
+          90.46248454956056
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 4,
+        "crownRadius": 1.5
+      }
+    },
+    "plant-dp-small-pot": {
+      "type": "prop",
+      "model": "dongpo-small-pot",
+      "base_state": {
+        "kind": "dongpo-small-pot",
+        "name": "阔叶树 plant-dp-small-pot",
+        "position": [
+          -150.1051483477783,
+          90.16248454956055
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.65,
+        "crownRadius": 0.38
+      }
+    },
+    "plant-dp-spiky-pot": {
+      "type": "prop",
+      "model": "dongpo-spiky-pot",
+      "base_state": {
+        "kind": "dongpo-spiky-pot",
+        "name": "阔叶树 plant-dp-spiky-pot",
+        "position": [
+          -149.80514834777833,
+          91.16248454956055
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.1,
+        "crownRadius": 0.58
+      }
+    },
     "lamp-gate-1": {
       "type": "prop",
       "model": "lamp",
@@ -5243,74 +5459,6 @@
         "position": [
           -121.4537,
           62.3841
-        ],
-        "positionY": 0,
-        "rotationY": 0,
-        "scale": 1,
-        "hidden": false,
-        "fixedY": 0
-      }
-    },
-    "shrub-pavilion-1": {
-      "type": "prop",
-      "model": "shrub-orn",
-      "base_state": {
-        "kind": "shrub-orn",
-        "name": "景观灌木 1",
-        "position": [
-          -145.6574,
-          94.5625
-        ],
-        "positionY": 0,
-        "rotationY": 0,
-        "scale": 1,
-        "hidden": false,
-        "fixedY": 0
-      }
-    },
-    "shrub-pavilion-2": {
-      "type": "prop",
-      "model": "shrub-orn",
-      "base_state": {
-        "kind": "shrub-orn",
-        "name": "景观灌木 2",
-        "position": [
-          -141.5574,
-          86.8625
-        ],
-        "positionY": 0,
-        "rotationY": 0,
-        "scale": 1,
-        "hidden": false,
-        "fixedY": 0
-      }
-    },
-    "shrub-pavilion-3": {
-      "type": "prop",
-      "model": "shrub-orn",
-      "base_state": {
-        "kind": "shrub-orn",
-        "name": "景观灌木 3",
-        "position": [
-          -158.5574,
-          98.0625
-        ],
-        "positionY": 0,
-        "rotationY": 0,
-        "scale": 1,
-        "hidden": false,
-        "fixedY": 0
-      }
-    },
-    "surroundings-conifer": {
-      "type": "prop",
-      "model": "conifer-orn",
-      "base_state": {
-        "kind": "conifer-orn",
-        "name": "景观松",
-        "position": [
-          -145.6574,
-          94.5625
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -5704,20 +5852,24 @@
             50.1109
           ],
           [
-            -145.432,
-            61.216
+            -141.6,
+            62
           ],
           [
-            -146.1922,
-            70.0037
+            -139.8,
+            70
           ],
           [
-            -142.685,
-            82.5146
+            -139.8,
+            82
           ],
           [
-            -138.7365,
-            96.4428
+            -139.8,
+            96
+          ],
+          [
+            -136.2399,
+            100.7177
           ]
         ],
         "hidden": false
@@ -5901,19 +6053,19 @@
       "base_state": {
         "kind": "path",
         "name": "东坡亭院内步道",
-        "width": 2.5,
+        "width": 2,
         "points": [
           [
-            -159.9621,
-            101.8905
+            -155.00514834777832,
+            106.7
           ],
           [
-            -154.2263,
-            96.6051
+            -155.00514834777832,
+            95.31248454956055
           ],
           [
-            -152.8041,
-            89.9432
+            -155.00514834777832,
+            93.26248454956055
           ]
         ],
         "hidden": false
@@ -6136,9 +6288,6 @@
     "gate-lamp-1": "lamp-gate-1",
     "gate-lamp-2": "lamp-gate-2",
     "gate-lamp-3": "lamp-gate-3",
-    "lotus-bed-1": "lotus-bed-pond-1",
-    "surroundings-shrub-1": "shrub-pavilion-1",
-    "surroundings-shrub-2": "shrub-pavilion-2",
-    "surroundings-shrub-3": "shrub-pavilion-3"
+    "lotus-bed-1": "lotus-bed-pond-1"
   }
 }
