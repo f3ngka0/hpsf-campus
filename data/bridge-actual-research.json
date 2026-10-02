@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "revision": "dongpo-bridge-photo-2026-10-02",
+  "protectedMeshes": 88,
+  "unrelatedMeshesUnchanged": true,
+  "width": 6.8,
+  "rise": 0.65,
+  "span": 12.241018944516025,
+  "maximumSlopePercent": 16.68190560025395,
+  "deckEndHeight": 0.08,
+  "deckCrownHeight": 0.73,
+  "estimatedWidthRange": [
+    6.2,
+    7.6
+  ],
+  "estimatedRiseRange": [
+    0.45,
+    0.85
+  ],
+  "pdfScale": 0.60021,
+  "limitation": "Photo proportion estimates, not surveyed dimensions"
+}

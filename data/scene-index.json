@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "layoutHash": "2420990494138e5f09f06110edd378bd8ebc00028bcb3632c9ebf2827fa52af1",
+  "layoutHash": "c5d89745d19027218f2b2d17860e52d1b7ecbb8f1a7efd86942c29a2c1533e74",
   "entities": {
     "plant-001": {
       "type": "prop",
@@ -1928,24 +1928,6 @@
         "crownRadius": 1.25
       }
     },
-    "plant-146": {
-      "type": "prop",
-      "model": "broadleaf",
-      "base_state": {
-        "kind": "broadleaf",
-        "name": "阔叶树 plant-146",
-        "position": [
-          -247.0537,
-          93.2035
-        ],
-        "positionY": 0,
-        "rotationY": 0,
-        "scale": 1,
-        "hidden": false,
-        "height": 5.8,
-        "crownRadius": 1.95
-      }
-    },
     "plant-147": {
       "type": "prop",
       "model": "office-broadleaf-1",
@@ -1962,24 +1944,6 @@
         "hidden": false,
         "height": 7.2,
         "crownRadius": 2.6
-      }
-    },
-    "plant-149": {
-      "type": "prop",
-      "model": "broadleaf",
-      "base_state": {
-        "kind": "broadleaf",
-        "name": "阔叶树 plant-149",
-        "position": [
-          -238.4678,
-          92.9418
-        ],
-        "positionY": 0,
-        "rotationY": 0,
-        "scale": 1,
-        "hidden": false,
-        "height": 5.8,
-        "crownRadius": 0.785
       }
     },
     "plant-153": {
@@ -2198,24 +2162,6 @@
         "crownRadius": 3
       }
     },
-    "plant-174": {
-      "type": "prop",
-      "model": "broadleaf",
-      "base_state": {
-        "kind": "broadleaf",
-        "name": "阔叶树 plant-174",
-        "position": [
-          -241.2869,
-          122.6171
-        ],
-        "positionY": 0,
-        "rotationY": 0,
-        "scale": 1,
-        "hidden": false,
-        "height": 5.8,
-        "crownRadius": 1.473
-      }
-    },
     "plant-175": {
       "type": "prop",
       "model": "broadleaf",
@@ -2252,24 +2198,6 @@
         "crownRadius": 3.3
       }
     },
-    "plant-177": {
-      "type": "prop",
-      "model": "broadleaf",
-      "base_state": {
-        "kind": "broadleaf",
-        "name": "阔叶树 plant-177",
-        "position": [
-          -230.7532,
-          121.1617
-        ],
-        "positionY": 0,
-        "rotationY": 0,
-        "scale": 1,
-        "hidden": false,
-        "height": 5.8,
-        "crownRadius": 1.265
-      }
-    },
     "plant-178": {
       "type": "prop",
       "model": "coconut",
@@ -2286,24 +2214,6 @@
         "hidden": false,
         "height": 9,
         "crownRadius": 2.4
-      }
-    },
-    "plant-179": {
-      "type": "prop",
-      "model": "broadleaf",
-      "base_state": {
-        "kind": "broadleaf",
-        "name": "阔叶树 plant-179",
-        "position": [
-          -219.2819,
-          119.5735
-        ],
-        "positionY": 0,
-        "rotationY": 0,
-        "scale": 1,
-        "hidden": false,
-        "height": 5.8,
-        "crownRadius": 1.036
       }
     },
     "plant-180": {
@@ -2340,24 +2250,6 @@
         "hidden": false,
         "height": 5.8,
         "crownRadius": 1.67
-      }
-    },
-    "plant-182": {
-      "type": "prop",
-      "model": "broadleaf",
-      "base_state": {
-        "kind": "broadleaf",
-        "name": "阔叶树 plant-182",
-        "position": [
-          -209.8418,
-          118.1245
-        ],
-        "positionY": 0,
-        "rotationY": 0,
-        "scale": 1,
-        "hidden": false,
-        "height": 5.8,
-        "crownRadius": 0.724
       }
     },
     "plant-183": {
@@ -5400,6 +5292,744 @@
         "hidden": false,
         "height": 1.1,
         "crownRadius": 0.58
+      }
+    },
+    "dining-tree-1": {
+      "type": "prop",
+      "model": "dining-tree",
+      "base_state": {
+        "kind": "dining-tree",
+        "name": "临湖阔叶乔木",
+        "position": [
+          -213.5,
+          105
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 11,
+        "crownRadius": 5.4
+      }
+    },
+    "dining-tree-2": {
+      "type": "prop",
+      "model": "dining-tree",
+      "base_state": {
+        "kind": "dining-tree",
+        "name": "临湖阔叶乔木",
+        "position": [
+          -213.5,
+          88.5
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 12,
+        "crownRadius": 5.8
+      }
+    },
+    "dining-tree-3": {
+      "type": "prop",
+      "model": "dining-tree",
+      "base_state": {
+        "kind": "dining-tree",
+        "name": "临湖阔叶乔木",
+        "position": [
+          -205.8,
+          67
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 8.5,
+        "crownRadius": 4
+      }
+    },
+    "dining-tree-4": {
+      "type": "prop",
+      "model": "dining-tree",
+      "base_state": {
+        "kind": "dining-tree",
+        "name": "临湖阔叶乔木",
+        "position": [
+          -205.8,
+          79
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 8,
+        "crownRadius": 3.7
+      }
+    },
+    "dining-tree-5": {
+      "type": "prop",
+      "model": "dining-tree",
+      "base_state": {
+        "kind": "dining-tree",
+        "name": "临湖阔叶乔木",
+        "position": [
+          -205.8,
+          91
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 8.5,
+        "crownRadius": 4
+      }
+    },
+    "dining-tree-6": {
+      "type": "prop",
+      "model": "dining-tree",
+      "base_state": {
+        "kind": "dining-tree",
+        "name": "临湖阔叶乔木",
+        "position": [
+          -205.8,
+          101
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 8,
+        "crownRadius": 3.5
+      }
+    },
+    "dining-cycad-1": {
+      "type": "prop",
+      "model": "dining-cycad",
+      "base_state": {
+        "kind": "dining-cycad",
+        "name": "花池苏铁",
+        "position": [
+          -208.3,
+          110.5
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 2.5,
+        "crownRadius": 1.8
+      }
+    },
+    "dining-cycad-2": {
+      "type": "prop",
+      "model": "dining-cycad",
+      "base_state": {
+        "kind": "dining-cycad",
+        "name": "花池苏铁",
+        "position": [
+          -208.3,
+          118.5
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 2.5,
+        "crownRadius": 1.8
+      }
+    },
+    "dining-bed-centre": {
+      "type": "prop",
+      "model": "dining-variegated",
+      "base_state": {
+        "kind": "dining-variegated",
+        "name": "花池亮叶灌木",
+        "position": [
+          -208.3,
+          114.5
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 2.3,
+        "crownRadius": 1.4
+      }
+    },
+    "dining-croton-1-1": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -206.75,
+          110.5
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-1-2": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -207.20398448916086,
+          111.59601551083915
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-1-3": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -208.3,
+          112.05
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-1-4": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -209.39601551083916,
+          111.59601551083915
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-1-5": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -209.85000000000002,
+          110.5
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-1-6": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -209.39601551083916,
+          109.40398448916085
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-1-7": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -208.3,
+          108.95
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-1-8": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -207.20398448916086,
+          109.40398448916085
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-2-1": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -206.75,
+          114.5
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-2-2": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -207.20398448916086,
+          115.59601551083915
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-2-3": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -208.3,
+          116.05
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-2-4": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -209.39601551083916,
+          115.59601551083915
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-2-5": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -209.85000000000002,
+          114.5
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-2-6": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -209.39601551083916,
+          113.40398448916085
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-2-7": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -208.3,
+          112.95
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-2-8": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -207.20398448916086,
+          113.40398448916085
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-3-1": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -206.75,
+          118.5
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-3-2": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -207.20398448916086,
+          119.59601551083915
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-3-3": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -208.3,
+          120.05
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-3-4": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -209.39601551083916,
+          119.59601551083915
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-3-5": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -209.85000000000002,
+          118.5
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-3-6": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -209.39601551083916,
+          117.40398448916085
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-3-7": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -208.3,
+          116.95
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-croton-3-8": {
+      "type": "prop",
+      "model": "dining-croton",
+      "base_state": {
+        "kind": "dining-croton",
+        "name": "红黄变叶木",
+        "position": [
+          -207.20398448916086,
+          117.40398448916085
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 0.85,
+        "crownRadius": 0.65
+      }
+    },
+    "dining-shrub-1": {
+      "type": "prop",
+      "model": "dining-shrub",
+      "base_state": {
+        "kind": "dining-shrub",
+        "name": "临湖灌木",
+        "position": [
+          -204.5,
+          63
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.4,
+        "crownRadius": 0.9
+      }
+    },
+    "dining-shrub-2": {
+      "type": "prop",
+      "model": "dining-shrub",
+      "base_state": {
+        "kind": "dining-shrub",
+        "name": "临湖灌木",
+        "position": [
+          -204.5,
+          71
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.4,
+        "crownRadius": 0.9
+      }
+    },
+    "dining-shrub-3": {
+      "type": "prop",
+      "model": "dining-shrub",
+      "base_state": {
+        "kind": "dining-shrub",
+        "name": "临湖灌木",
+        "position": [
+          -204.5,
+          75
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.4,
+        "crownRadius": 0.9
+      }
+    },
+    "dining-shrub-4": {
+      "type": "prop",
+      "model": "dining-shrub",
+      "base_state": {
+        "kind": "dining-shrub",
+        "name": "临湖灌木",
+        "position": [
+          -204.5,
+          83
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.4,
+        "crownRadius": 0.9
+      }
+    },
+    "dining-shrub-5": {
+      "type": "prop",
+      "model": "dining-shrub",
+      "base_state": {
+        "kind": "dining-shrub",
+        "name": "临湖灌木",
+        "position": [
+          -204.5,
+          87
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.4,
+        "crownRadius": 0.9
+      }
+    },
+    "dining-shrub-6": {
+      "type": "prop",
+      "model": "dining-shrub",
+      "base_state": {
+        "kind": "dining-shrub",
+        "name": "临湖灌木",
+        "position": [
+          -204.5,
+          95
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.4,
+        "crownRadius": 0.9
+      }
+    },
+    "dining-shrub-7": {
+      "type": "prop",
+      "model": "dining-shrub",
+      "base_state": {
+        "kind": "dining-shrub",
+        "name": "临湖灌木",
+        "position": [
+          -204.5,
+          99
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.4,
+        "crownRadius": 0.9
+      }
+    },
+    "dining-shrub-8": {
+      "type": "prop",
+      "model": "dining-shrub",
+      "base_state": {
+        "kind": "dining-shrub",
+        "name": "临湖灌木",
+        "position": [
+          -204.5,
+          105
+        ],
+        "positionY": 0,
+        "rotationY": 0,
+        "scale": 1,
+        "hidden": false,
+        "height": 1.4,
+        "crownRadius": 0.9
       }
     },
     "lamp-gate-1": {

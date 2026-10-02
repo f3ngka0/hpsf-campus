@@ -1,0 +1,359 @@
+{
+  "revision": "dining-actual-2026-10-02",
+  "sourceVideo": "C:/Users/fengkao/Downloads/DJI_0302.MP4",
+  "sourceVideoSha256": "ca073f761bbef5f44d67f32d30b9991faf011fb3edb2ef1c891d41c729f398a2",
+  "videoFrames": 411,
+  "fps": 25,
+  "frameTimesSeconds": [
+    0.0,
+    1.4,
+    2.8,
+    4.199999999999999,
+    5.6,
+    7.0,
+    8.399999999999999,
+    9.799999999999999,
+    11.2,
+    12.6,
+    14.0,
+    15.399999999999999
+  ],
+  "photos": [
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpBQ0w4aGo4aHhnSnchIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpBQkw4aGpMcm1iSnchIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpBQUw4aGpsTHJUSnchIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpBR0w4aGpWZDUqSmchIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpBREw4aGpkMFFtSnchIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpBRkw4aGp2akM0SmchIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpBRUw4aGpBdW52SmchIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpBS0w4aGplSkZzSlEhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpBSEw4aGpIZWhMSmchIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpBSkw4aGpJSGpWSlEhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpBSUw4aGo1aVFTSmchIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpCd09lWmpuQ1lnSFEhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpCeE9lWmpORypKSEEhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpCek9lWmpjaWdvSEEhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpCeU9lWmpVOWg1SEEhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpCKk9lWmpFNXg4R0EhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpCLk9lWmowOWUqR0EhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpCM09lWmpRaGZFR2chIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpCME9lWmpJVGpOR3chIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpCMk9lWmprUjBoR3chIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpCMU9lWmpUUjV6R3chIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpCN09lWmp4SmFHR1EhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpCNE9lWmpNV0pwR2chIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpCNk9lWmpOeFBMR1EhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpCNU9lWmoxb1FaR2chIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpCOE9lWmpPYlJCR1EhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpCOU9lWmo0N3oqR0EhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpDQ09lWmpobnpERnchIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpDQk9lWmpUT3NBR0EhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpDQU9lWmpvaEE4R0EhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpDRE9lWmp1Z3RORnchIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEa1B1WmpOaC43TFEhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEalB1Wmp2LmIxTFEhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEaVB1Wmpqa0k1TGchIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEc0xzaGpNT2NBTEEhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEcExzaGpORWFYTEEhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEckxzaGpzY3N2TEEhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEcUxzaGp6UFpxTEEhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEd0xzaGpIenhFS3chIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEdExzaGpYV0xSS3chIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEdkxzaGpMTVJ3S3chIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEdUxzaGoxc3lqS3chIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEeExzaGpEQ1FOS3chIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEekxzaGpIdVNiS2chIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEeUxzaGpBeUxRS2chIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEKkxzaGoxbWtNS0EhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpELkxzaGpFUm85S0EhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEM0xzaGpUdVBCS1EhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEMExzaGpVWlZoS2chIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEMkxzaGpTQ1h5S1EhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEMUxzaGp3M3N2S2chIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEN0xzaGpELkxuS0EhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpENExzaGpxQWFVS1EhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpENkxzaGp5QmNmS1EhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpENUxzaGp4UVpkS1EhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEOExzaGozbzZ0S0EhIQUAcXVuZ3o!.jpeg",
+    "素材\\食堂周围\\NR8AVjViQ1FBNE1EWTROREV5TWpEOUxzaGo1OTEzS0EhIQUAcXVuZ3o!.jpeg"
+  ],
+  "calibration": {
+    "source": "素材/校园平面图-尺寸8-1.pdf",
+    "page": 1,
+    "scale": 0.60021,
+    "anchors": [
+      "体育馆 44 × 22 m",
+      "第一教学楼 68 × 9.5 m",
+      "宿舍2 60 × 9.5 m",
+      "宿舍1 56.5 × 11.5 m"
+    ],
+    "limitation": "这些标注约束校园米制坐标，不能使没有尺寸标注的食堂红框变成实测轮廓。"
+  },
+  "observations": [
+    {
+      "evidence": "video 9.8/12.6/15.4 s + photo 12/15/16/47",
+      "finding": "主食堂平顶、两层高空间，每层两排窗；朝院子立面两端外楼梯，两栋低高体量隔院相对"
+    },
+    {
+      "evidence": "photo 28/29/49/52 + video 12.6/15.4 s",
+      "finding": "低配房为单层双坡瓦屋面，湖侧山墙卷帘门、铁窗、告示板"
+    },
+    {
+      "evidence": "photo 43/48/50/51/53 + video 9.8-15.4 s",
+      "finding": "长廊两排瓷砖柱、开放绿梁藤架、两侧长凳，约12开间；南端三相连花池"
+    },
+    {
+      "evidence": "photo 4/54/55 + video 9.8/12.6 s",
+      "finding": "小礼堂与旧教工活动中心均独立瓦顶，东端山墙立面；蓝门与星形装饰，湖侧苏铁和阔叶树"
+    }
+  ],
+  "method": [
+    "沿用上轮标注建筑校准的 PDF 比例和区域锚点；校准值0.60019842，与既有0.60021几乎相同。",
+    "斜视视频用于核验拓扑、屋顶类型、长宽趋势、乔木与花池顺序，不把屏幕像素长度直接乘为米。",
+    "主食堂约9个窗间、窗宽约3.3米加墙垛，对应约38米长；层高约5.2米，与人物、楼梯和四排窗共同检查。窗宽、层高均是假设。",
+    "长廊按约12个开间×约3.5米，加端部余量，采用43米；净通道约2.6米、外包约3.6米，与长凳、柱宽、地砖核对。柱距是假设。",
+    "其余屋面长度仍借助 PDF 区域锚点约束；照片中门宽约1.5-2.8米、低层檐高约3.35米是建模参照而非尺量。",
+    "先改原合并北块42.59×32.00为单独主楼38×17；保留对面低配房34×7；中央留出约23米宽院子。"
+  ],
+  "comparison": [
+    {
+      "id": "canteen",
+      "name": "大食堂",
+      "beforeWidth": 42.58831378051761,
+      "beforeDepth": 32.00356793518066,
+      "beforePosition": [
+        -238.21028534729004,
+        51.82533466918946
+      ],
+      "width": 38.0,
+      "depth": 17.0,
+      "position": [
+        -236.0,
+        48.5
+      ],
+      "eaves": 10.4,
+      "estimatedRangesMetres": [
+        [
+          34,
+          42
+        ],
+        [
+          14,
+          20
+        ],
+        [
+          9.5,
+          11.5
+        ]
+      ],
+      "widthChangePercent": -10.773645099366613,
+      "depthChangePercent": -46.88092266952412
+    },
+    {
+      "id": "canteen-wing",
+      "name": "食堂低层配房",
+      "beforeWidth": 34.35879871582031,
+      "beforeDepth": 8.133351047973633,
+      "beforePosition": [
+        -234.85509532836915,
+        85.81121848663331
+      ],
+      "width": 34.0,
+      "depth": 7.0,
+      "position": [
+        -234.85,
+        83.5
+      ],
+      "eaves": 3.35,
+      "estimatedRangesMetres": [
+        [
+          30,
+          38
+        ],
+        [
+          6,
+          8.5
+        ],
+        [
+          3,
+          3.8
+        ]
+      ],
+      "widthChangePercent": -1.0442702574904206,
+      "depthChangePercent": -13.934613682462405
+    },
+    {
+      "id": "staff-activity",
+      "name": "原教工活动中心 / 学生餐厅",
+      "beforeWidth": 22.464903422241207,
+      "beforeDepth": 13.725041341552739,
+      "beforePosition": [
+        -227.4557596408081,
+        96.73063342712402
+      ],
+      "width": 23.0,
+      "depth": 13.0,
+      "position": [
+        -227.5,
+        96.5
+      ],
+      "eaves": 5.6,
+      "estimatedRangesMetres": [
+        [
+          20,
+          26
+        ],
+        [
+          11.5,
+          15
+        ],
+        [
+          5,
+          6.3
+        ]
+      ],
+      "widthChangePercent": 2.3819224489922464,
+      "depthChangePercent": -5.282616813383778
+    },
+    {
+      "id": "hall",
+      "name": "小礼堂",
+      "beforeWidth": 36.83569071533202,
+      "beforeDepth": 16.17841437011718,
+      "beforePosition": [
+        -234.64115328735352,
+        111.682361282959
+      ],
+      "width": 36.0,
+      "depth": 16.0,
+      "position": [
+        -234.5,
+        113.5
+      ],
+      "eaves": 4.7,
+      "estimatedRangesMetres": [
+        [
+          32,
+          40
+        ],
+        [
+          14,
+          18
+        ],
+        [
+          4.2,
+          5.4
+        ]
+      ],
+      "widthChangePercent": -2.2686983713439246,
+      "depthChangePercent": -1.1027926843481417
+    },
+    {
+      "id": "dining-wash",
+      "name": "院内洗手长槽",
+      "beforeWidth": 23.0,
+      "beforeDepth": 1.4000000000000057,
+      "beforePosition": [
+        -234.85509532836915,
+        69.22711863677979
+      ],
+      "width": 23.0,
+      "depth": 2.6,
+      "position": [
+        -236.0,
+        61.5
+      ],
+      "eaves": 2.9,
+      "estimatedRangesMetres": null,
+      "widthChangePercent": 0.0,
+      "depthChangePercent": 85.71428571428497
+    },
+    {
+      "id": "dining-pergola",
+      "name": "临湖藤架长廊",
+      "beforeWidth": 7.232486539306649,
+      "beforeDepth": 30.08995895324707,
+      "beforePosition": [
+        -208.1341007446289,
+        76.91141274993896
+      ],
+      "width": 3.6,
+      "depth": 43.0,
+      "position": [
+        -209.5,
+        83.0
+      ],
+      "eaves": 3.35,
+      "estimatedRangesMetres": [
+        [
+          3.2,
+          4.2
+        ],
+        [
+          38,
+          47
+        ],
+        [
+          2.9,
+          3.6
+        ]
+      ],
+      "widthChangePercent": -50.224587623703776,
+      "depthChangePercent": 42.90481441603888
+    },
+    {
+      "id": "dining-court",
+      "name": "食堂水泥院子",
+      "beforeWidth": 34.358798715820285,
+      "beforeDepth": 13.917424325866705,
+      "beforePosition": [
+        -234.85509532836915,
+        74.78583079971314
+      ],
+      "width": 38.0,
+      "depth": 23.0,
+      "position": [
+        -236.0,
+        68.5
+      ],
+      "eaves": 0.06,
+      "estimatedRangesMetres": null,
+      "widthChangePercent": 10.59758030045197,
+      "depthChangePercent": 65.26046387227386
+    }
+  ],
+  "uncertainty": "总体约±10–20%；隐藏墙线、根部及西门位置更不确定。未经相机标定/现场测量，不把这些值写成测绘结果。",
+  "entranceCorrection": {
+    "courtyardDoors": 2,
+    "doorWidth": 1.7,
+    "doorHeight": 2.7,
+    "staircaseDirection": "along the courtyard facade, ascending toward its two ends",
+    "gate": {
+      "pdfPage": 1,
+      "pdfPathIndex": 2131,
+      "pdfCentre": [
+        -247.2632,
+        126.1326
+      ],
+      "modelCentre": [
+        -247.2632,
+        128.03
+      ],
+      "pdfStripSize": [
+        2.4966,
+        12.7222
+      ],
+      "modelOpeningWidths": [
+        3,
+        6,
+        3
+      ],
+      "roofHeights": [
+        5.7,
+        7.1,
+        5.7
+      ],
+      "status": "inferred from PDF entrance strip and matched west-facing photographs, not surveyed"
+    }
+  }
+}
