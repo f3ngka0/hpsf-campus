@@ -23500,38 +23500,6 @@
     },
     {
       "sourcePosition": [
-        797.67,
-        620.75
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.7,
-      "source": "规划图实心树冠符号",
-      "id": "plant-119",
-      "position": [
-        -65.5921,
-        21.0826
-      ],
-      "height": 5.8,
-      "crownEnvelope": 3.078
-    },
-    {
-      "sourcePosition": [
-        724.3,
-        623.42
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 3.07,
-      "source": "规划图实心树冠符号",
-      "id": "plant-120",
-      "position": [
-        -91.2814,
-        30.1251
-      ],
-      "height": 5.8,
-      "crownEnvelope": 3.4998
-    },
-    {
-      "sourcePosition": [
         685.63,
         624.04
       ],
@@ -23545,22 +23513,6 @@
       ],
       "height": 5.8,
       "crownEnvelope": 3.6024
-    },
-    {
-      "sourcePosition": [
-        822.69,
-        627.92
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.98,
-      "source": "规划图实心树冠符号",
-      "id": "plant-122",
-      "position": [
-        -55.9403,
-        20.862
-      ],
-      "height": 5.8,
-      "crownEnvelope": 3.3972
     },
     {
       "sourcePosition": [
@@ -23616,38 +23568,6 @@
     },
     {
       "sourcePosition": [
-        861.01,
-        635.55
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 3.07,
-      "source": "规划图实心树冠符号",
-      "id": "plant-126",
-      "position": [
-        -41.5274,
-        19.3366
-      ],
-      "height": 5.8,
-      "crownEnvelope": 3.4998
-    },
-    {
-      "sourcePosition": [
-        788.51,
-        635.87
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 3.07,
-      "source": "规划图实心树冠符号",
-      "id": "plant-127",
-      "position": [
-        -67.168,
-        27.4505
-      ],
-      "height": 5.8,
-      "crownEnvelope": 3.4998
-    },
-    {
-      "sourcePosition": [
         1104.76,
         635.92
       ],
@@ -23698,22 +23618,6 @@
     },
     {
       "sourcePosition": [
-        760.56,
-        641.54
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.98,
-      "source": "规划图实心树冠符号",
-      "id": "plant-131",
-      "position": [
-        -76.4409,
-        32.5437
-      ],
-      "height": 5.8,
-      "crownEnvelope": 3.3972
-    },
-    {
-      "sourcePosition": [
         1126.21,
         642.36
       ],
@@ -23761,22 +23665,6 @@
       "crownEnvelope": 2.4396,
       "displayKind": "coconut",
       "displaySource": "体育馆正立面高棕榈实拍；保留根部位置"
-    },
-    {
-      "sourcePosition": [
-        717.04,
-        644.74
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.7,
-      "source": "规划图实心树冠符号",
-      "id": "plant-136",
-      "position": [
-        -91.5004,
-        38.4799
-      ],
-      "height": 5.8,
-      "crownEnvelope": 3.078
     },
     {
       "sourcePosition": [
@@ -23864,22 +23752,6 @@
     },
     {
       "sourcePosition": [
-        825.9,
-        652.83
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 3.6,
-      "source": "规划图实心树冠符号",
-      "id": "plant-142",
-      "position": [
-        -52.0552,
-        29.3333
-      ],
-      "height": 5.8,
-      "crownEnvelope": 4.104
-    },
-    {
-      "sourcePosition": [
         1198.99,
         655.26
       ],
@@ -23893,22 +23765,6 @@
       ],
       "height": 5.8,
       "crownEnvelope": 2.7588
-    },
-    {
-      "sourcePosition": [
-        754.44,
-        659.13
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.88,
-      "source": "规划图实心树冠符号",
-      "id": "plant-144",
-      "position": [
-        -76.6676,
-        39.4512
-      ],
-      "height": 5.8,
-      "crownEnvelope": 3.2832
     },
     {
       "sourcePosition": [
@@ -23977,54 +23833,6 @@
       ],
       "height": 5.8,
       "crownEnvelope": 0.8949
-    },
-    {
-      "sourcePosition": [
-        880.47,
-        667.54
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 3.6,
-      "source": "规划图实心树冠符号",
-      "id": "plant-150",
-      "position": [
-        -31.1062,
-        28.5232
-      ],
-      "height": 5.8,
-      "crownEnvelope": 4.104
-    },
-    {
-      "sourcePosition": [
-        796.96,
-        669.82
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.88,
-      "source": "规划图实心树冠符号",
-      "id": "plant-151",
-      "position": [
-        -60.4298,
-        38.5465
-      ],
-      "height": 5.8,
-      "crownEnvelope": 3.2832
-    },
-    {
-      "sourcePosition": [
-        843.19,
-        670.36
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 3.44,
-      "source": "规划图实心树冠符号",
-      "id": "plant-152",
-      "position": [
-        -43.9978,
-        33.6363
-      ],
-      "height": 5.8,
-      "crownEnvelope": 3.9216
     },
     {
       "sourcePosition": [
@@ -24156,22 +23964,6 @@
     },
     {
       "sourcePosition": [
-        848.91,
-        689.64
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.7,
-      "source": "规划图实心树冠符号",
-      "id": "plant-161",
-      "position": [
-        -39.8449,
-        39.836
-      ],
-      "height": 5.8,
-      "crownEnvelope": 3.078
-    },
-    {
-      "sourcePosition": [
         1026.09,
         694.6
       ],
@@ -24209,22 +24001,6 @@
       "name": "庭院苏铁",
       "displaySource": "办公楼照片交叉比对后逐株重建；根部保留原规划坐标",
       "referenceModel": "office-cycad-7"
-    },
-    {
-      "sourcePosition": [
-        878.55,
-        698.93
-      ],
-      "kind": "broadleaf",
-      "crownRadius": 2.7,
-      "source": "规划图实心树冠符号",
-      "id": "plant-165",
-      "position": [
-        -28.3229,
-        39.8566
-      ],
-      "height": 5.8,
-      "crownEnvelope": 3.078
     },
     {
       "sourcePosition": [
@@ -26061,6 +25837,54 @@
       "crownRadius": 2.5,
       "crownEnvelope": 3.6,
       "source": "DJI_0278 final frames; estimated"
+    },
+    {
+      "id": "plant-t2-palm-west",
+      "position": [
+        -58.5,
+        25.2
+      ],
+      "height": 6.3,
+      "crownRadius": 3.0,
+      "index": 0,
+      "kind": "palm",
+      "displayKind": "teaching2-palm-0",
+      "referenceModel": "teaching2-palm-0",
+      "name": "第二教学楼前丛生棕榈",
+      "crownEnvelope": 3.5999999999999996,
+      "displaySource": "四张实景照片交叉定位，位置与尺寸为照片估计"
+    },
+    {
+      "id": "plant-t2-palm-middle",
+      "position": [
+        -43.6,
+        21.5
+      ],
+      "height": 4.8,
+      "crownRadius": 2.5,
+      "index": 1,
+      "kind": "palm",
+      "displayKind": "teaching2-palm-1",
+      "referenceModel": "teaching2-palm-1",
+      "name": "第二教学楼前丛生棕榈",
+      "crownEnvelope": 3.0,
+      "displaySource": "四张实景照片交叉定位，位置与尺寸为照片估计"
+    },
+    {
+      "id": "plant-t2-palm-east",
+      "position": [
+        -34.5,
+        29.4
+      ],
+      "height": 7.0,
+      "crownRadius": 3.6,
+      "index": 2,
+      "kind": "palm",
+      "displayKind": "teaching2-palm-2",
+      "referenceModel": "teaching2-palm-2",
+      "name": "第二教学楼前丛生棕榈",
+      "crownEnvelope": 4.32,
+      "displaySource": "四张实景照片交叉定位，位置与尺寸为照片估计"
     }
   ],
   "plantingNote": "规划图星形符号为椰子树、实心圆冠为普通树；树位取自原图，树高及冠幅为估计，临建筑树冠按实际间距收小。；保留所有树位，补充草叶、低篱和不规则树冠；非逐株测绘。",
@@ -34307,5 +34131,82 @@
       "plant-188",
       "plant-191"
     ]
+  },
+  "teaching2GardenReference": {
+    "revision": "teaching2-garden-photo-20261002",
+    "clearedPlantIds": [
+      "plant-119",
+      "plant-120",
+      "plant-122",
+      "plant-126",
+      "plant-127",
+      "plant-131",
+      "plant-136",
+      "plant-142",
+      "plant-144",
+      "plant-150",
+      "plant-151",
+      "plant-152",
+      "plant-161",
+      "plant-165"
+    ],
+    "plantIds": [
+      "plant-t2-palm-west",
+      "plant-t2-palm-middle",
+      "plant-t2-palm-east"
+    ],
+    "bins": [
+      {
+        "id": "teaching2-entry-bin",
+        "position": [
+          -63.2,
+          17.65
+        ],
+        "angle": 0
+      }
+    ],
+    "lawnPolygon": [
+      [
+        -90.5,
+        23.0
+      ],
+      [
+        -71.95,
+        23.0
+      ],
+      [
+        -71.95,
+        17.25
+      ],
+      [
+        -62.75,
+        17.25
+      ],
+      [
+        -62.75,
+        11.15
+      ],
+      [
+        -33.2,
+        11.15
+      ],
+      [
+        -33.2,
+        17.1
+      ],
+      [
+        -25.55,
+        17.1
+      ],
+      [
+        -25.55,
+        37.55
+      ],
+      [
+        -90.5,
+        37.55
+      ]
+    ],
+    "placementNote": "按楼门、左右端翼和草坪边沿交叉估计，非实测点位；照片中的同式垃圾桶按一个实物还原，不重复放置"
   }
 }
