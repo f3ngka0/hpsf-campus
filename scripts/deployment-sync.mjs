@@ -135,6 +135,10 @@ export async function stageSite({root=process.cwd(),output='.pages-site'}={}){
     const from=join(base,name);
     if(existsSync(from))await copyPublicTree(from,join(target,name),{excludeLegacyEditor:name==='assets'});
   }
+  // Model review reports are public release evidence. Keep the rest of docs/
+  // excluded while serving this narrowly scoped, staged audit directory.
+  const audits=join(base,'docs','audits');
+  if(existsSync(audits))await copyPublicTree(audits,join(target,'docs','audits'));
   await writeFile(join(target,'.nojekyll'),'','utf8');
   for(const required of ['index.html','scene-manifest.json','data/scene-index.json','data/planting-edits.json','assets/editor-collaboration.js']){
     if(!existsSync(join(target,required)))throw new Error(`Pages artifact is missing required file: ${required}`);
