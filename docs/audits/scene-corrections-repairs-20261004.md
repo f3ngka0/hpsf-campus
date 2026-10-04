@@ -20,3 +20,13 @@
 模型 SHA-256：`35a23a7c0416fd8230af98631641d2a10fd5d7e7b922257907fd008ba6af5187`。
 
 本轮构建、截图和测试记录：`reference/scene-corrections-20261004/`。
+
+## 上传与线上核对
+
+页面与模型已上线：[在线校园](https://f3ngka0.github.io/hpsf-campus/)；[线上前后对比报告](https://f3ngka0.github.io/hpsf-campus/docs/audits/scene-corrections-review-20261004.html)。提交 `df665091807087520958d386a41320b1cc05cd34`。
+
+线上完整校园数据、场景索引、三段模型包、路面纹理、报告和最终截图均与本地逐字节核对一致。报告29张图片全部加载成功，无浏览器错误。另有7项发布检查通过。
+
+网站部署步骤成功；既有后台发布记录同步步骤失败。页面与模型已经上线，后台发布记录同步仍未完成。
+
+核对记录：`reference/scene-corrections-20261004/publication.json` 与 `live-review-check.json`。

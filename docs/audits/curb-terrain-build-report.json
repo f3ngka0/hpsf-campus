@@ -1,0 +1,92 @@
+{
+  "revision": "curb-terrain-20261004-v1",
+  "changedMeshes": [
+    {
+      "id": "main",
+      "removedFaces": 9,
+      "cutArea": 22.395056877372102,
+      "faces": 252
+    },
+    {
+      "id": "sports-surfaces",
+      "removedFaces": 4,
+      "cutArea": 16.807534509086615,
+      "faces": 63625
+    },
+    {
+      "id": "south-campus",
+      "removedFaces": 7,
+      "cutArea": 24.16426752253318,
+      "faces": 253
+    },
+    {
+      "id": "entrance",
+      "removedFaces": 3,
+      "cutArea": 5.3882658399604795,
+      "faces": 5092
+    },
+    {
+      "id": "lake-east",
+      "removedFaces": 2,
+      "cutArea": 3.534120762872453,
+      "faces": 429
+    },
+    {
+      "id": "west-pond",
+      "removedFaces": 5,
+      "cutArea": 8.57751198133386,
+      "faces": 400
+    },
+    {
+      "id": "terrain",
+      "removedFaces": 33,
+      "cutArea": 232.04420300705658,
+      "faces": 2038
+    },
+    {
+      "id": "ground-audit-details",
+      "removedFaces": 702,
+      "cutArea": 11.512728864175378,
+      "faces": 12100
+    },
+    {
+      "id": "shop",
+      "removedFaces": 2,
+      "cutArea": 5.4743670410156255,
+      "faces": 121836
+    },
+    {
+      "id": "garbage-shelter",
+      "removedFaces": 2,
+      "cutArea": 1.8044294245439272,
+      "faces": 21791
+    }
+  ],
+  "newMeshes": [
+    "tree-pits",
+    "natural-root-beds",
+    "raised-curbs",
+    "raised-walkways",
+    "graded-planting-ground"
+  ],
+  "protectedMeshCount": 94,
+  "protectedMeshesExactlyPreserved": true,
+  "plantsExactlyPreserved": true,
+  "buildingsRecordsExactlyPreserved": true,
+  "waterGeometryExactlyPreserved": true,
+  "sportsCoatingsAndLinesExactlyPreserved": true,
+  "bridgeExactlyPreserved": true,
+  "pitCount": 95,
+  "rootReviewCount": 350,
+  "naturalRootBeds": 162,
+  "gradedGroundCoverFaces": 3291,
+  "curbLengthMetres": 2970.5858871260657,
+  "faces": {
+    "tree-pits": 14997,
+    "natural-root-beds": 11340,
+    "raised-curbs": 46163,
+    "raised-walkways": 7170,
+    "graded-planting-ground": 17092
+  },
+  "fullModelSha256": "cdac1cdff727aca605dd58b74fad9e2ecabb5e873743321a55e61dc1dc6afac0"
+}
