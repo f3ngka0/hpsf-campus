@@ -4832,38 +4832,38 @@
         ],
         [
           [
-            -17.905775,
-            117.99653799999999
+            -4.8,
+            125.47500000000001
           ],
           [
-            -15.105775,
-            117.99653799999999
+            -2.0,
+            125.47500000000001
           ],
           [
-            -15.105775,
-            119.44653799999998
+            -2.0,
+            126.925
           ],
           [
-            -17.905775,
-            119.44653799999998
+            -4.8,
+            126.925
           ]
         ],
         [
           [
-            -14.755775,
-            117.97153799999998
+            -4.35,
+            128.35
           ],
           [
-            -12.855775000000001,
-            117.97153799999998
+            -2.45,
+            128.35
           ],
           [
-            -12.855775000000001,
-            119.47153799999998
+            -2.45,
+            129.85
           ],
           [
-            -14.755775,
-            119.47153799999998
+            -4.35,
+            129.85
           ]
         ]
       ],
@@ -5255,46 +5255,57 @@
         {
           "polygon": [
             [
-              -17.905775,
-              117.99653799999999
+              -4.8,
+              125.47500000000001
             ],
             [
-              -15.105775,
-              117.99653799999999
+              -2.0,
+              125.47500000000001
             ],
             [
-              -15.105775,
-              119.44653799999998
+              -2.0,
+              126.925
             ],
             [
-              -17.905775,
-              119.44653799999998
+              -4.8,
+              126.925
             ]
           ],
-          "height": 1.65
+          "height": 1.65,
+          "position": [
+            -3.4,
+            126.2
+          ],
+          "placementRevision": "facilities-photo-20261004-v1"
         },
         {
           "polygon": [
             [
-              -14.755775,
-              117.97153799999998
+              -4.35,
+              128.35
             ],
             [
-              -12.855775000000001,
-              117.97153799999998
+              -2.45,
+              128.35
             ],
             [
-              -12.855775000000001,
-              119.47153799999998
+              -2.45,
+              129.85
             ],
             [
-              -14.755775,
-              119.47153799999998
+              -4.35,
+              129.85
             ]
           ],
-          "height": 2.75
+          "height": 2.75,
+          "position": [
+            -3.4,
+            129.1
+          ],
+          "placementRevision": "facilities-photo-20261004-v1"
         }
-      ]
+      ],
+      "stonePlacementRevision": "facilities-photo-20261004-v1"
     },
     {
       "id": "comprehensive",
@@ -14494,153 +14505,6 @@
       "detailRevision": "gate-photo-correction-2"
     },
     {
-      "id": "shop",
-      "name": "校园小卖部",
-      "kind": "canteen",
-      "position": [
-        89.0346,
-        118.8059
-      ],
-      "width": 7.959,
-      "depth": 3.501,
-      "floors": 1,
-      "angle": 0,
-      "confidence": "保留CAD位置、轮廓和层数；立面特征按本地照片重建，层高及遮挡面为估算。",
-      "source": "食堂周围",
-      "photos": [
-        "/photos/final-5/000.jpg",
-        "/photos/final-5/001.jpg",
-        "/photos/final-5/002.jpg",
-        "/photos/final-5/003.jpg",
-        "/photos/final-5/004.jpg",
-        "/photos/final-5/005.jpg",
-        "/photos/final-5/006.jpg",
-        "/photos/final-5/007.jpg",
-        "/photos/final-5/008.jpg",
-        "/photos/final-5/009.jpg",
-        "/photos/final-5/010.jpg",
-        "/photos/final-5/011.jpg",
-        "/photos/final-5/012.jpg",
-        "/photos/final-5/013.jpg",
-        "/photos/final-5/014.jpg",
-        "/photos/final-5/015.jpg",
-        "/photos/final-5/016.jpg",
-        "/photos/final-5/017.jpg",
-        "/photos/final-5/018.jpg",
-        "/photos/final-5/019.jpg",
-        "/photos/final-5/020.jpg",
-        "/photos/final-5/021.jpg",
-        "/photos/final-5/022.jpg",
-        "/photos/final-5/023.jpg",
-        "/photos/final-5/024.jpg",
-        "/photos/final-5/025.jpg",
-        "/photos/final-5/026.jpg",
-        "/photos/final-5/027.jpg",
-        "/photos/final-5/028.jpg",
-        "/photos/final-5/029.jpg",
-        "/photos/final-5/030.jpg",
-        "/photos/final-5/031.jpg",
-        "/photos/final-5/032.jpg",
-        "/photos/final-5/033.jpg",
-        "/photos/final-5/034.jpg",
-        "/photos/final-5/035.jpg",
-        "/photos/final-5/036.jpg",
-        "/photos/final-5/037.jpg",
-        "/photos/final-5/038.jpg",
-        "/photos/final-5/039.jpg",
-        "/photos/final-5/040.jpg",
-        "/photos/final-5/041.jpg",
-        "/photos/final-5/042.jpg",
-        "/photos/final-5/043.jpg",
-        "/photos/final-5/044.jpg",
-        "/photos/final-5/045.jpg",
-        "/photos/final-5/046.jpg",
-        "/photos/final-5/047.jpg",
-        "/photos/final-5/048.jpg",
-        "/photos/final-5/049.jpg",
-        "/photos/final-5/050.jpg",
-        "/photos/final-5/051.jpg",
-        "/photos/final-5/052.jpg",
-        "/photos/final-5/053.jpg",
-        "/photos/final-5/054.jpg",
-        "/photos/final-5/055.jpg",
-        "/photos/final-5/056.jpg"
-      ],
-      "footprints": [
-        [
-          [
-            93.0139,
-            117.0554
-          ],
-          [
-            93.0139,
-            120.5564
-          ],
-          [
-            85.0552,
-            120.5564
-          ],
-          [
-            85.0552,
-            117.0554
-          ]
-        ]
-      ],
-      "planBounds": [
-        736.709,
-        585.024,
-        749.969,
-        590.857
-      ],
-      "localFootprints": [
-        [
-          [
-            3.9793,
-            -1.7505
-          ],
-          [
-            3.9793,
-            1.7505
-          ],
-          [
-            -3.9794,
-            1.7505
-          ],
-          [
-            -3.9794,
-            -1.7505
-          ]
-        ]
-      ],
-      "audit": {
-        "placement": "CAD 尺寸轮廓",
-        "reviewed": true
-      },
-      "detailRevision": "campus-final-1",
-      "storeyHeight": 3.0,
-      "collisionFootprints": [
-        [
-          [
-            93.01389999999999,
-            117.05539999999999
-          ],
-          [
-            93.01389999999999,
-            120.5564
-          ],
-          [
-            85.0552,
-            120.5564
-          ],
-          [
-            85.0552,
-            117.05539999999999
-          ]
-        ]
-      ],
-      "walkSurfaces": []
-    },
-    {
       "id": "bianzhou",
       "name": "扁舟亭",
       "kind": "pavilion-wing",
@@ -20566,6 +20430,1091 @@
         "southAdjustment": 1.8974,
         "reason": "规划PDF礼堂西南入口窄条与照片朝西方向一致；随实景礼堂南边线调整，避免门楼穿入礼堂。宽高由三开间照片估计。"
       }
+    },
+    {
+      "id": "garbage-shelter",
+      "name": "垃圾池",
+      "kind": "facility",
+      "position": [
+        103.2067,
+        87.3339
+      ],
+      "width": 7.2,
+      "depth": 3.2,
+      "height": 3.75,
+      "floors": 1,
+      "angle": -90,
+      "localFootprints": [
+        [
+          [
+            -3.6,
+            -1.6
+          ],
+          [
+            3.6,
+            -1.6
+          ],
+          [
+            3.6,
+            1.6
+          ],
+          [
+            -3.6,
+            1.6
+          ]
+        ]
+      ],
+      "footprints": [
+        [
+          [
+            101.6067,
+            90.9339
+          ],
+          [
+            101.6067,
+            83.7339
+          ],
+          [
+            104.8067,
+            83.7339
+          ],
+          [
+            104.8067,
+            90.9339
+          ]
+        ]
+      ],
+      "clearanceFootprints": [
+        [
+          [
+            101.6067,
+            90.9339
+          ],
+          [
+            101.6067,
+            83.7339
+          ],
+          [
+            104.8067,
+            83.7339
+          ],
+          [
+            104.8067,
+            90.9339
+          ]
+        ]
+      ],
+      "collisionFootprints": [
+        [
+          [
+            101.6067,
+            90.9339
+          ],
+          [
+            101.6067,
+            83.7339
+          ],
+          [
+            104.8067,
+            83.7339
+          ],
+          [
+            104.8067,
+            90.9339
+          ]
+        ]
+      ],
+      "photos": [
+        "/photos/final-3/003.jpg",
+        "/photos/final-3/005.jpg",
+        "/photos/final-3/036.jpg"
+      ],
+      "detailRevision": "facilities-photo-20261004-v1",
+      "dimensionBasis": "正面12块、竖向约6块；0.60m模数为照片推定，非实测",
+      "placementBasis": "接黑板宣传栏轴线末端，面向校道",
+      "module": 0.6
+    },
+    {
+      "id": "shop",
+      "name": "校园小卖部（宿舍底层商铺）",
+      "kind": "facility",
+      "position": [
+        71.26230000000001,
+        105.32
+      ],
+      "width": 43.5032,
+      "depth": 0.48,
+      "height": 3.45,
+      "floors": 1,
+      "angle": 0,
+      "localFootprints": [
+        [
+          [
+            -21.7516,
+            -0.24
+          ],
+          [
+            21.7516,
+            -0.24
+          ],
+          [
+            21.7516,
+            0.24
+          ],
+          [
+            -21.7516,
+            0.24
+          ]
+        ]
+      ],
+      "footprints": [
+        [
+          [
+            49.5107,
+            105.08
+          ],
+          [
+            93.0139,
+            105.08
+          ],
+          [
+            93.0139,
+            105.56
+          ],
+          [
+            49.5107,
+            105.56
+          ]
+        ]
+      ],
+      "clearanceFootprints": [
+        [
+          [
+            49.5107,
+            105.08
+          ],
+          [
+            93.0139,
+            105.08
+          ],
+          [
+            93.0139,
+            105.56
+          ],
+          [
+            49.5107,
+            105.56
+          ]
+        ]
+      ],
+      "collisionFootprints": [
+        [
+          [
+            49.5107,
+            105.08
+          ],
+          [
+            93.0139,
+            105.08
+          ],
+          [
+            93.0139,
+            105.56
+          ],
+          [
+            49.5107,
+            105.56
+          ]
+        ]
+      ],
+      "photos": [
+        "/photos/final-3/029.jpg",
+        "/photos/final-3/034.jpg"
+      ],
+      "detailRevision": "facilities-photo-20261004-v1",
+      "parentBuilding": "dorm-south",
+      "modelRole": "attached-facade",
+      "storefrontBays": 10,
+      "dimensionBasis": "宿舍东段43.5m取PDF标注；商铺占据该段的范围与开间数为照片估计",
+      "placementBasis": "面对垃圾池的右手边，沿旁边宿舍北侧底层"
+    },
+    {
+      "id": "newspaper-kiosk",
+      "name": "中国邮政报刊亭",
+      "kind": "facility",
+      "position": [
+        11.0,
+        127.6
+      ],
+      "width": 2.8,
+      "depth": 1.8,
+      "height": 2.75,
+      "floors": 1,
+      "angle": -90,
+      "localFootprints": [
+        [
+          [
+            -1.4,
+            -0.9
+          ],
+          [
+            1.4,
+            -0.9
+          ],
+          [
+            1.4,
+            0.9
+          ],
+          [
+            -1.4,
+            0.9
+          ]
+        ]
+      ],
+      "footprints": [
+        [
+          [
+            10.1,
+            129.0
+          ],
+          [
+            10.1,
+            126.2
+          ],
+          [
+            11.9,
+            126.2
+          ],
+          [
+            11.9,
+            129.0
+          ]
+        ]
+      ],
+      "clearanceFootprints": [
+        [
+          [
+            10.1,
+            129.0
+          ],
+          [
+            10.1,
+            126.2
+          ],
+          [
+            11.9,
+            126.2
+          ],
+          [
+            11.9,
+            129.0
+          ]
+        ]
+      ],
+      "collisionFootprints": [
+        [
+          [
+            10.1,
+            129.0
+          ],
+          [
+            10.1,
+            126.2
+          ],
+          [
+            11.9,
+            126.2
+          ],
+          [
+            11.9,
+            129.0
+          ]
+        ]
+      ],
+      "photos": [
+        "/photos/final-3/032.jpg",
+        "/photos/final-3/046.jpg"
+      ],
+      "detailRevision": "facilities-photo-20261004-v1",
+      "dimensionBasis": "照片中卷帘、铺地方砖与檐口比例估计",
+      "placementBasis": "综合楼对面宿舍前，隔校道与迁移后的题石相对"
+    },
+    {
+      "id": "south-unmarked-west",
+      "name": "综合楼对面未标注建筑 A",
+      "kind": "residence",
+      "position": [
+        29.4103,
+        136.4878
+      ],
+      "width": 39.854,
+      "depth": 11.5241,
+      "height": 19.05,
+      "floors": 6,
+      "angle": 0,
+      "localFootprints": [
+        [
+          [
+            -19.927,
+            -5.76205
+          ],
+          [
+            19.927,
+            -5.76205
+          ],
+          [
+            19.927,
+            5.76205
+          ],
+          [
+            -19.927,
+            5.76205
+          ]
+        ]
+      ],
+      "footprints": [
+        [
+          [
+            9.4833,
+            130.7258
+          ],
+          [
+            49.3373,
+            130.7258
+          ],
+          [
+            49.3373,
+            142.2498
+          ],
+          [
+            9.4833,
+            142.2498
+          ]
+        ]
+      ],
+      "clearanceFootprints": [
+        [
+          [
+            9.4833,
+            130.7258
+          ],
+          [
+            49.3373,
+            130.7258
+          ],
+          [
+            49.3373,
+            142.2498
+          ],
+          [
+            9.4833,
+            142.2498
+          ]
+        ]
+      ],
+      "collisionFootprints": [
+        [
+          [
+            9.4833,
+            130.7258
+          ],
+          [
+            49.3373,
+            130.7258
+          ],
+          [
+            49.3373,
+            142.2498
+          ],
+          [
+            9.4833,
+            142.2498
+          ]
+        ]
+      ],
+      "photos": [
+        "/photos/final-3/044.jpg",
+        "/photos/final-3/046.jpg",
+        "/photos/final-3/059.jpg"
+      ],
+      "detailRevision": "facilities-photo-20261004-v1",
+      "modelRole": "rough-massing",
+      "pdfRasterBounds": [
+        610.8,
+        607.8,
+        677.2,
+        627.0
+      ],
+      "storeyHeight": 3.1,
+      "dimensionBasis": "未标注轮廓以PDF邻楼43.5m/35.5m尺寸校准后描出；尺寸为估算",
+      "floorBasis": "底图6F/8F暂定，照片不能逐栋锁定",
+      "confidence": "仅粗模：平面约±1.5m；层高与单栋对应尚待进一步现场核对"
+    },
+    {
+      "id": "south-unmarked-east",
+      "name": "综合楼对面未标注建筑 B",
+      "kind": "residence",
+      "position": [
+        66.3833,
+        136.4878
+      ],
+      "width": 34.0919,
+      "depth": 11.5241,
+      "height": 25.25,
+      "floors": 8,
+      "angle": 0,
+      "localFootprints": [
+        [
+          [
+            -17.04595,
+            -5.76205
+          ],
+          [
+            17.04595,
+            -5.76205
+          ],
+          [
+            17.04595,
+            5.76205
+          ],
+          [
+            -17.04595,
+            5.76205
+          ]
+        ]
+      ],
+      "footprints": [
+        [
+          [
+            49.3374,
+            130.7258
+          ],
+          [
+            83.4293,
+            130.7258
+          ],
+          [
+            83.4293,
+            142.2498
+          ],
+          [
+            49.3374,
+            142.2498
+          ]
+        ]
+      ],
+      "clearanceFootprints": [
+        [
+          [
+            49.3374,
+            130.7258
+          ],
+          [
+            83.4293,
+            130.7258
+          ],
+          [
+            83.4293,
+            142.2498
+          ],
+          [
+            49.3374,
+            142.2498
+          ]
+        ]
+      ],
+      "collisionFootprints": [
+        [
+          [
+            49.3374,
+            130.7258
+          ],
+          [
+            83.4293,
+            130.7258
+          ],
+          [
+            83.4293,
+            142.2498
+          ],
+          [
+            49.3374,
+            142.2498
+          ]
+        ]
+      ],
+      "photos": [
+        "/photos/final-3/044.jpg",
+        "/photos/final-3/046.jpg",
+        "/photos/final-3/059.jpg"
+      ],
+      "detailRevision": "facilities-photo-20261004-v1",
+      "modelRole": "rough-massing",
+      "pdfRasterBounds": [
+        677.2,
+        607.8,
+        734.0,
+        627.0
+      ],
+      "storeyHeight": 3.1,
+      "dimensionBasis": "未标注轮廓以PDF邻楼43.5m/35.5m尺寸校准后描出；尺寸为估算",
+      "floorBasis": "底图6F/8F暂定，照片不能逐栋锁定",
+      "confidence": "仅粗模：平面约±1.5m；层高与单栋对应尚待进一步现场核对"
+    },
+    {
+      "id": "south-annex-1",
+      "name": "南院附房 1",
+      "kind": "hall",
+      "position": [
+        52.2783,
+        145.4909
+      ],
+      "width": 5.882,
+      "depth": 6.4822,
+      "height": 3.25,
+      "floors": 1,
+      "angle": 0,
+      "localFootprints": [
+        [
+          [
+            -2.941,
+            -3.2411
+          ],
+          [
+            2.941,
+            -3.2411
+          ],
+          [
+            2.941,
+            3.2411
+          ],
+          [
+            -2.941,
+            3.2411
+          ]
+        ]
+      ],
+      "footprints": [
+        [
+          [
+            49.3373,
+            142.2498
+          ],
+          [
+            55.2193,
+            142.2498
+          ],
+          [
+            55.2193,
+            148.732
+          ],
+          [
+            49.3373,
+            148.732
+          ]
+        ]
+      ],
+      "clearanceFootprints": [
+        [
+          [
+            49.3373,
+            142.2498
+          ],
+          [
+            55.2193,
+            142.2498
+          ],
+          [
+            55.2193,
+            148.732
+          ],
+          [
+            49.3373,
+            148.732
+          ]
+        ]
+      ],
+      "collisionFootprints": [
+        [
+          [
+            49.3373,
+            142.2498
+          ],
+          [
+            55.2193,
+            142.2498
+          ],
+          [
+            55.2193,
+            148.732
+          ],
+          [
+            49.3373,
+            148.732
+          ]
+        ]
+      ],
+      "photos": [
+        "/photos/final-3/044.jpg",
+        "/photos/final-3/046.jpg",
+        "/photos/final-3/059.jpg"
+      ],
+      "detailRevision": "facilities-photo-20261004-v1",
+      "modelRole": "rough-massing",
+      "pdfRasterBounds": [
+        677.2,
+        627.0,
+        687.0,
+        637.8
+      ],
+      "storeyHeight": 3.1,
+      "dimensionBasis": "未标注轮廓以PDF邻楼43.5m/35.5m尺寸校准后描出；尺寸为估算",
+      "floorBasis": "照片中的旧平房类型暂定1层",
+      "confidence": "仅粗模：平面约±1.5m；层高与单栋对应尚待进一步现场核对"
+    },
+    {
+      "id": "south-annex-2",
+      "name": "南院附房 2",
+      "kind": "hall",
+      "position": [
+        60.8012,
+        145.4909
+      ],
+      "width": 11.1639,
+      "depth": 6.4822,
+      "height": 3.25,
+      "floors": 1,
+      "angle": 0,
+      "localFootprints": [
+        [
+          [
+            -5.58195,
+            -3.2411
+          ],
+          [
+            5.58195,
+            -3.2411
+          ],
+          [
+            5.58195,
+            3.2411
+          ],
+          [
+            -5.58195,
+            3.2411
+          ]
+        ]
+      ],
+      "footprints": [
+        [
+          [
+            55.2193,
+            142.2498
+          ],
+          [
+            66.3832,
+            142.2498
+          ],
+          [
+            66.3832,
+            148.732
+          ],
+          [
+            55.2193,
+            148.732
+          ]
+        ]
+      ],
+      "clearanceFootprints": [
+        [
+          [
+            55.2193,
+            142.2498
+          ],
+          [
+            66.3832,
+            142.2498
+          ],
+          [
+            66.3832,
+            148.732
+          ],
+          [
+            55.2193,
+            148.732
+          ]
+        ]
+      ],
+      "collisionFootprints": [
+        [
+          [
+            55.2193,
+            142.2498
+          ],
+          [
+            66.3832,
+            142.2498
+          ],
+          [
+            66.3832,
+            148.732
+          ],
+          [
+            55.2193,
+            148.732
+          ]
+        ]
+      ],
+      "photos": [
+        "/photos/final-3/044.jpg",
+        "/photos/final-3/046.jpg",
+        "/photos/final-3/059.jpg"
+      ],
+      "detailRevision": "facilities-photo-20261004-v1",
+      "modelRole": "rough-massing",
+      "pdfRasterBounds": [
+        687.0,
+        627.0,
+        705.6,
+        637.8
+      ],
+      "storeyHeight": 3.1,
+      "dimensionBasis": "未标注轮廓以PDF邻楼43.5m/35.5m尺寸校准后描出；尺寸为估算",
+      "floorBasis": "照片中的旧平房类型暂定1层",
+      "confidence": "仅粗模：平面约±1.5m；层高与单栋对应尚待进一步现场核对"
+    },
+    {
+      "id": "south-annex-3",
+      "name": "南院附房 3",
+      "kind": "hall",
+      "position": [
+        71.7851,
+        145.4909
+      ],
+      "width": 10.8038,
+      "depth": 6.4822,
+      "height": 3.25,
+      "floors": 1,
+      "angle": 0,
+      "localFootprints": [
+        [
+          [
+            -5.4019,
+            -3.2411
+          ],
+          [
+            5.4019,
+            -3.2411
+          ],
+          [
+            5.4019,
+            3.2411
+          ],
+          [
+            -5.4019,
+            3.2411
+          ]
+        ]
+      ],
+      "footprints": [
+        [
+          [
+            66.3832,
+            142.2498
+          ],
+          [
+            77.187,
+            142.2498
+          ],
+          [
+            77.187,
+            148.732
+          ],
+          [
+            66.3832,
+            148.732
+          ]
+        ]
+      ],
+      "clearanceFootprints": [
+        [
+          [
+            66.3832,
+            142.2498
+          ],
+          [
+            77.187,
+            142.2498
+          ],
+          [
+            77.187,
+            148.732
+          ],
+          [
+            66.3832,
+            148.732
+          ]
+        ]
+      ],
+      "collisionFootprints": [
+        [
+          [
+            66.3832,
+            142.2498
+          ],
+          [
+            77.187,
+            142.2498
+          ],
+          [
+            77.187,
+            148.732
+          ],
+          [
+            66.3832,
+            148.732
+          ]
+        ]
+      ],
+      "photos": [
+        "/photos/final-3/044.jpg",
+        "/photos/final-3/046.jpg",
+        "/photos/final-3/059.jpg"
+      ],
+      "detailRevision": "facilities-photo-20261004-v1",
+      "modelRole": "rough-massing",
+      "pdfRasterBounds": [
+        705.6,
+        627.0,
+        723.6,
+        637.8
+      ],
+      "storeyHeight": 3.1,
+      "dimensionBasis": "未标注轮廓以PDF邻楼43.5m/35.5m尺寸校准后描出；尺寸为估算",
+      "floorBasis": "照片中的旧平房类型暂定1层",
+      "confidence": "仅粗模：平面约±1.5m；层高与单栋对应尚待进一步现场核对"
+    },
+    {
+      "id": "south-annex-4",
+      "name": "南院附房 4",
+      "kind": "hall",
+      "position": [
+        80.3081,
+        145.4909
+      ],
+      "width": 6.2422,
+      "depth": 6.4822,
+      "height": 3.25,
+      "floors": 1,
+      "angle": 0,
+      "localFootprints": [
+        [
+          [
+            -3.1211,
+            -3.2411
+          ],
+          [
+            3.1211,
+            -3.2411
+          ],
+          [
+            3.1211,
+            3.2411
+          ],
+          [
+            -3.1211,
+            3.2411
+          ]
+        ]
+      ],
+      "footprints": [
+        [
+          [
+            77.187,
+            142.2498
+          ],
+          [
+            83.4292,
+            142.2498
+          ],
+          [
+            83.4292,
+            148.732
+          ],
+          [
+            77.187,
+            148.732
+          ]
+        ]
+      ],
+      "clearanceFootprints": [
+        [
+          [
+            77.187,
+            142.2498
+          ],
+          [
+            83.4292,
+            142.2498
+          ],
+          [
+            83.4292,
+            148.732
+          ],
+          [
+            77.187,
+            148.732
+          ]
+        ]
+      ],
+      "collisionFootprints": [
+        [
+          [
+            77.187,
+            142.2498
+          ],
+          [
+            83.4292,
+            142.2498
+          ],
+          [
+            83.4292,
+            148.732
+          ],
+          [
+            77.187,
+            148.732
+          ]
+        ]
+      ],
+      "photos": [
+        "/photos/final-3/044.jpg",
+        "/photos/final-3/046.jpg",
+        "/photos/final-3/059.jpg"
+      ],
+      "detailRevision": "facilities-photo-20261004-v1",
+      "modelRole": "rough-massing",
+      "pdfRasterBounds": [
+        723.6,
+        627.0,
+        734.0,
+        637.8
+      ],
+      "storeyHeight": 3.1,
+      "dimensionBasis": "未标注轮廓以PDF邻楼43.5m/35.5m尺寸校准后描出；尺寸为估算",
+      "floorBasis": "照片中的旧平房类型暂定1层",
+      "confidence": "仅粗模：平面约±1.5m；层高与单栋对应尚待进一步现场核对"
+    },
+    {
+      "id": "south-annex-long",
+      "name": "南院南侧长附房",
+      "kind": "hall",
+      "position": [
+        66.3833,
+        152.8734
+      ],
+      "width": 34.0919,
+      "depth": 8.2829,
+      "height": 3.25,
+      "floors": 1,
+      "angle": 0,
+      "localFootprints": [
+        [
+          [
+            -17.04595,
+            -4.14145
+          ],
+          [
+            17.04595,
+            -4.14145
+          ],
+          [
+            17.04595,
+            4.14145
+          ],
+          [
+            -17.04595,
+            4.14145
+          ]
+        ]
+      ],
+      "footprints": [
+        [
+          [
+            49.3374,
+            148.732
+          ],
+          [
+            83.4293,
+            148.732
+          ],
+          [
+            83.4293,
+            157.0148
+          ],
+          [
+            49.3374,
+            157.0148
+          ]
+        ]
+      ],
+      "clearanceFootprints": [
+        [
+          [
+            49.3374,
+            148.732
+          ],
+          [
+            83.4293,
+            148.732
+          ],
+          [
+            83.4293,
+            157.0148
+          ],
+          [
+            49.3374,
+            157.0148
+          ]
+        ]
+      ],
+      "collisionFootprints": [
+        [
+          [
+            49.3374,
+            148.732
+          ],
+          [
+            83.4293,
+            148.732
+          ],
+          [
+            83.4293,
+            157.0148
+          ],
+          [
+            49.3374,
+            157.0148
+          ]
+        ]
+      ],
+      "photos": [
+        "/photos/final-3/044.jpg",
+        "/photos/final-3/046.jpg",
+        "/photos/final-3/059.jpg"
+      ],
+      "detailRevision": "facilities-photo-20261004-v1",
+      "modelRole": "rough-massing",
+      "pdfRasterBounds": [
+        677.2,
+        637.8,
+        734.0,
+        651.6
+      ],
+      "storeyHeight": 3.1,
+      "dimensionBasis": "未标注轮廓以PDF邻楼43.5m/35.5m尺寸校准后描出；尺寸为估算",
+      "floorBasis": "照片中的旧平房类型暂定1层",
+      "confidence": "仅粗模：平面约±1.5m；层高与单栋对应尚待进一步现场核对"
     }
   ],
   "boundary": [
@@ -42334,5 +43283,89 @@
       "未找到可精确配准的地面箭头，不新增。"
     ],
     "dimensionBasis": "保持现有PDF米制位置和尺寸；新增方砖、板缝、排水与标线间距为照片比例估计，非实测。"
+  },
+  "facilitiesReference": {
+    "revision": "facilities-photo-20261004-v1",
+    "auditReport": "output/facilities-audit-20261004.md",
+    "completionReport": "output/facilities-repairs-20261004.md",
+    "roughModules": 7,
+    "dimensionBasis": "PDF标注参照+底图描边+实拍比例估计",
+    "stoneMigration": [
+      {
+        "index": 0,
+        "oldPosition": [
+          -16.505775,
+          118.72153799999998
+        ],
+        "position": [
+          -3.4,
+          126.2
+        ],
+        "width": 2.8,
+        "depth": 1.45,
+        "height": 1.65,
+        "polygon": [
+          [
+            -4.8,
+            125.47500000000001
+          ],
+          [
+            -2.0,
+            125.47500000000001
+          ],
+          [
+            -2.0,
+            126.925
+          ],
+          [
+            -4.8,
+            126.925
+          ]
+        ],
+        "delta": [
+          13.105775,
+          7.478462000000022
+        ]
+      },
+      {
+        "index": 1,
+        "oldPosition": [
+          -13.805775,
+          118.72153799999998
+        ],
+        "position": [
+          -3.4,
+          129.1
+        ],
+        "width": 1.9,
+        "depth": 1.5,
+        "height": 2.75,
+        "polygon": [
+          [
+            -4.35,
+            128.35
+          ],
+          [
+            -2.45,
+            128.35
+          ],
+          [
+            -2.45,
+            129.85
+          ],
+          [
+            -4.35,
+            129.85
+          ]
+        ],
+        "delta": [
+          10.405775,
+          10.378462000000013
+        ]
+      }
+    ],
+    "garbageAtBulletinEnd": true,
+    "shopAttachedTo": "dorm-south",
+    "kioskOppositeStones": true
   }
 }

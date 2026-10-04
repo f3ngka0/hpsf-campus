@@ -1,0 +1,68 @@
+{
+  "revision": "facilities-photo-20261004-v1",
+  "newMeshes": [
+    {
+      "id": "garbage-shelter",
+      "faces": 21787
+    },
+    {
+      "id": "shop",
+      "faces": 121802
+    },
+    {
+      "id": "newspaper-kiosk",
+      "faces": 12917
+    },
+    {
+      "id": "south-unmarked-west",
+      "faces": 176
+    },
+    {
+      "id": "south-unmarked-east",
+      "faces": 240
+    },
+    {
+      "id": "south-annex-1",
+      "faces": 20
+    },
+    {
+      "id": "south-annex-2",
+      "faces": 20
+    },
+    {
+      "id": "south-annex-3",
+      "faces": 20
+    },
+    {
+      "id": "south-annex-4",
+      "faces": 20
+    },
+    {
+      "id": "south-annex-long",
+      "faces": 20
+    }
+  ],
+  "stoneVertices": [
+    {
+      "index": 0,
+      "movedVertices": 13542,
+      "delta": [
+        13.105775,
+        7.478462000000022
+      ]
+    },
+    {
+      "index": 1,
+      "movedVertices": 4090,
+      "delta": [
+        10.405775,
+        10.378462000000013
+      ]
+    }
+  ],
+  "unrelatedLabVerticesExactlyPreserved": true,
+  "protectedMeshesExactlyPreserved": 90,
+  "plantRoots": 350,
+  "plantsAndRoadsExactlyPreserved": true,
+  "fullModelSha256": "99951c34218c5a4a03a870637b7a4a3267e29ba081dc66fa05f204bebe9c28b4"
+}
