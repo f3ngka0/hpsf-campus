@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "layoutHash": "b47ff9da83d0d19b7c7e713210c107eb8d66b1d5748d5fa5437ac228d562c47e",
+  "layoutHash": "2b8cb14a96a698faa1409d195181f086262621c0691420ecb83585e8c15063d0",
   "entities": {
     "plant-001": {
       "type": "prop",
@@ -3105,8 +3105,8 @@
         "kind": "grove-willow-0",
         "name": "阔叶树 plant-gr-willow-0",
         "position": [
-          -178.7209,
-          -14.1501
+          -133.7414,
+          41.9
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -3123,8 +3123,8 @@
         "kind": "grove-willow-1",
         "name": "阔叶树 plant-gr-willow-1",
         "position": [
-          -180.5539,
-          -4.329
+          -133.7414,
+          46.55
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -3141,8 +3141,8 @@
         "kind": "grove-willow-2",
         "name": "阔叶树 plant-gr-willow-2",
         "position": [
-          -178.7278,
-          4.6195
+          -135.7839,
+          51.5585
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -3159,8 +3159,8 @@
         "kind": "grove-willow-3",
         "name": "阔叶树 plant-gr-willow-3",
         "position": [
-          -175.0895,
-          14.3203
+          -137.8649,
+          55.7169
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -3177,8 +3177,8 @@
         "kind": "grove-willow-4",
         "name": "阔叶树 plant-gr-willow-4",
         "position": [
-          -172.4167,
-          18.5296
+          -139.9459,
+          59.8752
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -3195,8 +3195,8 @@
         "kind": "grove-willow-5",
         "name": "阔叶树 plant-gr-willow-5",
         "position": [
-          -167.8587,
-          24.6362
+          -140.7579,
+          63.4924
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -3213,8 +3213,8 @@
         "kind": "grove-willow-6",
         "name": "阔叶树 plant-gr-willow-6",
         "position": [
-          -160.361,
-          26.4647
+          -140.7579,
+          68.1424
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -3231,8 +3231,8 @@
         "kind": "grove-willow-7",
         "name": "阔叶树 plant-gr-willow-7",
         "position": [
-          -154.436,
-          29.2273
+          -140.7579,
+          72.7924
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -3249,8 +3249,8 @@
         "kind": "grove-willow-8",
         "name": "阔叶树 plant-gr-willow-8",
         "position": [
-          -179.4734,
-          1.5388
+          -140.7579,
+          77.4424
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -3267,8 +3267,8 @@
         "kind": "grove-willow-9",
         "name": "阔叶树 plant-gr-willow-9",
         "position": [
-          -172.4217,
-          18.5217
+          -140.7579,
+          82.0924
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -3285,8 +3285,8 @@
         "kind": "grove-willow-10",
         "name": "阔叶树 plant-gr-willow-10",
         "position": [
-          -163.6424,
-          23.8055
+          -140.7579,
+          86.7424
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -3303,8 +3303,8 @@
         "kind": "grove-willow-11",
         "name": "阔叶树 plant-gr-willow-11",
         "position": [
-          -152.8621,
-          32.9642
+          -140.7579,
+          91.3924
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -3789,8 +3789,8 @@
         "kind": "grove-specimen-26",
         "name": "阔叶树 plant-gr-specimen-26",
         "position": [
-          -149.2,
-          27.9
+          -148.65,
+          31.95
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -3807,8 +3807,8 @@
         "kind": "grove-specimen-27",
         "name": "阔叶树 plant-gr-specimen-27",
         "position": [
-          -142.4,
-          26.3
+          -143.15,
+          26.5
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -3825,8 +3825,8 @@
         "kind": "dongpo-east-banyan-1",
         "name": "阔叶树 plant-dp-east-banyan-1",
         "position": [
-          -143.30514834777833,
-          84.06248454956055
+          -144.33790000000002,
+          80.5
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -3843,8 +3843,8 @@
         "kind": "dongpo-east-banyan-2",
         "name": "阔叶树 plant-dp-east-banyan-2",
         "position": [
-          -143.40514834777832,
-          77.26248454956055
+          -144.33790000000002,
+          73.5
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -3861,8 +3861,8 @@
         "kind": "dongpo-waterside-tree-1",
         "name": "阔叶树 plant-dp-waterside-tree-1",
         "position": [
-          -143.6051483477783,
-          89.86248454956055
+          -144.33790000000002,
+          87
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -3879,8 +3879,8 @@
         "kind": "dongpo-waterside-tree-2",
         "name": "阔叶树 plant-dp-waterside-tree-2",
         "position": [
-          -143.40514834777832,
-          93.86248454956055
+          -144.33790000000002,
+          92
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -6357,8 +6357,8 @@
         "kind": "lotus-bed",
         "name": "东坡湖荷花床 1",
         "position": [
-          -121.4537,
-          62.3841
+          -120.6197,
+          65.1773
         ],
         "positionY": 0,
         "rotationY": 0,
@@ -6712,20 +6712,20 @@
             29.968
           ],
           [
-            -147.7961,
-            32.4133
+            -149.2,
+            34.2
           ],
           [
-            -145.7,
-            33.7
+            -144.5,
+            34.9
           ],
           [
-            -142.5,
-            33.7
+            -139.6,
+            34.9
           ],
           [
-            -138.9888,
-            32.0011
+            -135.5214,
+            34.9
           ]
         ],
         "hidden": false
@@ -6733,43 +6733,35 @@
     },
     "pavilion-path": {
       "type": "road",
-      "model": "bridge",
+      "model": "path",
       "base_state": {
-        "kind": "bridge",
+        "kind": "path",
         "name": "东坡亭湖中曲桥",
-        "width": 2.4,
+        "width": 2,
         "points": [
           [
-            -139.0992,
-            31.6468
+            -135.5214,
+            34.9
           ],
           [
-            -136.2076,
-            39.6853
+            -135.5214,
+            47.0565
           ],
           [
-            -137.2348,
-            50.1109
+            -142.5379,
+            61.0774
           ],
           [
-            -141.6,
-            62
+            -142.5379,
+            93.5727
           ],
           [
-            -139.8,
-            70
-          ],
-          [
-            -139.8,
-            82
+            -142.5379,
+            98
           ],
           [
             -139.8,
-            96
-          ],
-          [
-            -136.2399,
-            100.7177
+            101.6
           ]
         ],
         "hidden": false
@@ -6784,20 +6776,12 @@
         "width": 2.3,
         "points": [
           [
-            -147.7961,
-            32.4133
+            -135.5214,
+            34.9
           ],
           [
-            -145.7,
-            33.7
-          ],
-          [
-            -142.5,
-            33.7
-          ],
-          [
-            -138.9425,
-            29.6546
+            -135.5214,
+            29.7
           ],
           [
             -124.1787,
@@ -6988,8 +6972,8 @@
             106.061
           ],
           [
-            -136.2399,
-            100.7177
+            -139.8,
+            101.6
           ]
         ],
         "hidden": false
@@ -7144,15 +7128,15 @@
         "width": 1.4,
         "points": [
           [
-            -138.9888,
-            32.0011
+            -139.6,
+            34.9
           ],
           [
-            -141,
-            30.6012
+            -139.6,
+            31.8
           ],
           [
-            -143.5,
+            -141.3,
             30.6012
           ]
         ],

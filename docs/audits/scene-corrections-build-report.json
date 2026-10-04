@@ -1,0 +1,226 @@
+{
+  "revision": "scene-corrections-20261004-v1",
+  "changedMeshes": [
+    "office",
+    "garbage-shelter",
+    "garbage-shop-connector",
+    "newspaper-kiosk",
+    "laboratory",
+    "planting",
+    "stone-passage-groundcover",
+    "library-path",
+    "pavilion-path",
+    "pond-link",
+    "hefeng-entry",
+    "dongpo-forecourt",
+    "dongpo-shore-correction",
+    "dongpo-fixtures",
+    "grove-fixtures",
+    "landscape-details",
+    "terrain",
+    "dongpo-surroundings"
+  ],
+  "protectedMeshCount": 86,
+  "protectedMeshesExactlyPreserved": true,
+  "officeOtherFacadeFacesExactlyPreserved": 58660,
+  "officeOtherFacadesExactlyPreserved": true,
+  "unrelatedLaboratoryVerticesExactlyPreserved": true,
+  "stones": [
+    {
+      "index": 0,
+      "movedVertices": 13543,
+      "position": [
+        -16.5058,
+        118.7215
+      ]
+    },
+    {
+      "index": 1,
+      "movedVertices": 4089,
+      "position": [
+        -13.8058,
+        118.7215
+      ]
+    }
+  ],
+  "trees": [
+    {
+      "id": "plant-gr-willow-0",
+      "root": [
+        -133.7414,
+        41.9
+      ],
+      "lowestZ": 0.025000000000000022,
+      "matchedVertices": 22168
+    },
+    {
+      "id": "plant-gr-willow-1",
+      "root": [
+        -133.7414,
+        46.55
+      ],
+      "lowestZ": 0.025000000000000022,
+      "matchedVertices": 22168
+    },
+    {
+      "id": "plant-gr-willow-2",
+      "root": [
+        -135.7839,
+        51.5585
+      ],
+      "lowestZ": 0.025000000000000022,
+      "matchedVertices": 22168
+    },
+    {
+      "id": "plant-gr-willow-3",
+      "root": [
+        -137.8649,
+        55.7169
+      ],
+      "lowestZ": 0.025000000000000022,
+      "matchedVertices": 22168
+    },
+    {
+      "id": "plant-gr-willow-4",
+      "root": [
+        -139.9459,
+        59.8752
+      ],
+      "lowestZ": 0.025000000000000022,
+      "matchedVertices": 22168
+    },
+    {
+      "id": "plant-gr-willow-5",
+      "root": [
+        -140.7579,
+        63.4924
+      ],
+      "lowestZ": 0.025000000000000022,
+      "matchedVertices": 22168
+    },
+    {
+      "id": "plant-gr-willow-6",
+      "root": [
+        -140.7579,
+        68.1424
+      ],
+      "lowestZ": 0.025000000000000022,
+      "matchedVertices": 22168
+    },
+    {
+      "id": "plant-gr-willow-7",
+      "root": [
+        -140.7579,
+        72.7924
+      ],
+      "lowestZ": 0.025000000000000022,
+      "matchedVertices": 22168
+    },
+    {
+      "id": "plant-gr-willow-8",
+      "root": [
+        -140.7579,
+        77.4424
+      ],
+      "lowestZ": 0.025000000000000022,
+      "matchedVertices": 22168
+    },
+    {
+      "id": "plant-gr-willow-9",
+      "root": [
+        -140.7579,
+        82.0924
+      ],
+      "lowestZ": 0.025000000000000022,
+      "matchedVertices": 22168
+    },
+    {
+      "id": "plant-gr-willow-10",
+      "root": [
+        -140.7579,
+        86.7424
+      ],
+      "lowestZ": 0.025000000000000022,
+      "matchedVertices": 22168
+    },
+    {
+      "id": "plant-gr-willow-11",
+      "root": [
+        -140.7579,
+        91.3924
+      ],
+      "lowestZ": 0.025000000000000022,
+      "matchedVertices": 22168
+    },
+    {
+      "id": "plant-dp-east-banyan-1",
+      "root": [
+        -144.33790000000002,
+        80.5
+      ],
+      "lowestZ": 0.024999999999999994,
+      "matchedVertices": 52743
+    },
+    {
+      "id": "plant-dp-east-banyan-2",
+      "root": [
+        -144.33790000000002,
+        73.5
+      ],
+      "lowestZ": 0.024999999999999994,
+      "matchedVertices": 52743
+    },
+    {
+      "id": "plant-dp-waterside-tree-1",
+      "root": [
+        -144.33790000000002,
+        87.0
+      ],
+      "lowestZ": 0.024999999999999994,
+      "matchedVertices": 11178
+    },
+    {
+      "id": "plant-dp-waterside-tree-2",
+      "root": [
+        -144.33790000000002,
+        92.0
+      ],
+      "lowestZ": 0.024999999999999994,
+      "matchedVertices": 11178
+    },
+    {
+      "id": "plant-gr-specimen-26",
+      "root": [
+        -148.65,
+        31.95
+      ],
+      "lowestZ": 0.024999999999999994,
+      "matchedVertices": 22168
+    },
+    {
+      "id": "plant-gr-specimen-27",
+      "root": [
+        -143.15,
+        26.5
+      ],
+      "lowestZ": 0.024999999999999994,
+      "matchedVertices": 22168
+    }
+  ],
+  "removedTreeFaces": 354352,
+  "removedObsoleteTerrainFaces": 783,
+  "removedTerraceFaces": 9997,
+  "unaffectedPlantRecordsExactlyPreserved": 332,
+  "plantCount": 350,
+  "buildingCount": 58,
+  "roadCount": 27,
+  "lotus": {
+    "beds": 1,
+    "plants": 2557,
+    "flowers": 2345,
+    "leaves": 434,
+    "minFlowerRadius": 0.2241010302456547,
+    "maxFlowerRadius": 0.4967192630774566
+  },
+  "fullModelSha256": "35a23a7c0416fd8230af98631641d2a10fd5d7e7b922257907fd008ba6af5187"
+}

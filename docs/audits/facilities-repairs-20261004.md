@@ -27,3 +27,11 @@
 - 扩展检查发现一条既有编辑器索引测试仍引用上一轮已迁移的 `surroundings-shrub-1` 旧别名，失败已单独记录；未改动无关的别名映射。
 
 模型 SHA-256：`99951c34218c5a4a03a870637b7a4a3267e29ba081dc66fa05f204bebe9c28b4`。
+
+## 上传与线上核验
+
+页面及模型已上线：[在线校园](https://f3ngka0.github.io/hpsf-campus/)。提交 `f4bac6c6f02258843009cf1773d4f6a99b741ded`；线上完整校园数据与本地相同，三个模型分包逐个 SHA-256 核验一致，上一轮植物、路面也已随本轮保留上线。18 项专项检查通过，10 个模型视角截图没有浏览器运行错误。
+
+页面部署步骤成功；后台发布记录同步步骤失败（Synchronize the deployed revision with Supabase）。这项后台同步尚未完成，已与页面及模型上线结果分别记录。
+
+核验记录：`reference/facilities-20261004/publication.json`。
