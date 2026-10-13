@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "layoutHash": "2b8cb14a96a698faa1409d195181f086262621c0691420ecb83585e8c15063d0",
+  "layoutHash": "7afdebb4e80c21a0f4fc85c36ea3832c17371031f36e75af3e4e54139571dc53",
   "entities": {
     "plant-001": {
       "type": "prop",
@@ -634,9 +634,9 @@
     },
     "plant-044": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-plant-044",
       "base_state": {
-        "kind": "coconut",
+        "kind": "palm-1013-plant-044",
         "name": "阔叶树 plant-044",
         "position": [
           -102.5746,
@@ -647,14 +647,14 @@
         "scale": 1,
         "hidden": false,
         "height": 9,
-        "crownRadius": 2.4
+        "crownRadius": 2.22
       }
     },
     "plant-045": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-plant-045",
       "base_state": {
-        "kind": "coconut",
+        "kind": "palm-1013-plant-045",
         "name": "阔叶树 plant-045",
         "position": [
           -87.9444,
@@ -665,14 +665,14 @@
         "scale": 1,
         "hidden": false,
         "height": 9,
-        "crownRadius": 2.4
+        "crownRadius": 2
       }
     },
     "plant-046": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-plant-046",
       "base_state": {
-        "kind": "coconut",
+        "kind": "palm-1013-plant-046",
         "name": "阔叶树 plant-046",
         "position": [
           -115.3701,
@@ -683,7 +683,7 @@
         "scale": 1,
         "hidden": false,
         "height": 9,
-        "crownRadius": 2.4
+        "crownRadius": 2.32
       }
     },
     "plant-053": {
@@ -724,9 +724,9 @@
     },
     "plant-060": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-plant-060",
       "base_state": {
-        "kind": "coconut",
+        "kind": "palm-1013-plant-060",
         "name": "阔叶树 plant-060",
         "position": [
           -103.23,
@@ -737,7 +737,7 @@
         "scale": 1,
         "hidden": false,
         "height": 9,
-        "crownRadius": 2.4
+        "crownRadius": 2.32
       }
     },
     "plant-061": {
@@ -760,9 +760,9 @@
     },
     "plant-063": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-plant-063",
       "base_state": {
-        "kind": "coconut",
+        "kind": "palm-1013-plant-063",
         "name": "阔叶树 plant-063",
         "position": [
           -114.7655,
@@ -773,7 +773,7 @@
         "scale": 1,
         "hidden": false,
         "height": 9,
-        "crownRadius": 2.4
+        "crownRadius": 2.22
       }
     },
     "plant-070": {
@@ -850,9 +850,9 @@
     },
     "plant-076": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-plant-076",
       "base_state": {
-        "kind": "coconut",
+        "kind": "palm-1013-plant-076",
         "name": "阔叶树 plant-076",
         "position": [
           -102.8284,
@@ -863,7 +863,7 @@
         "scale": 1,
         "hidden": false,
         "height": 9,
-        "crownRadius": 2.4
+        "crownRadius": 2.32
       }
     },
     "plant-080": {
@@ -1192,10 +1192,10 @@
     },
     "plant-139": {
       "type": "prop",
-      "model": "office-palm-0",
+      "model": "op13-clump-palm-0",
       "base_state": {
-        "kind": "office-palm-0",
-        "name": "庭院丛生羽叶棕榈",
+        "kind": "op13-clump-palm-0",
+        "name": "办公楼紧冠丛生棕榈",
         "position": [
           -7.5812,
           14.0645
@@ -1204,8 +1204,8 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 6.5,
-        "crownRadius": 2.7
+        "height": 5.4,
+        "crownRadius": 2.25
       }
     },
     "plant-141": {
@@ -1228,10 +1228,10 @@
     },
     "plant-147": {
       "type": "prop",
-      "model": "office-broadleaf-1",
+      "model": "op13-broadleaf-1",
       "base_state": {
-        "kind": "office-broadleaf-1",
-        "name": "庭院分层阔叶树",
+        "kind": "op13-broadleaf-1",
+        "name": "办公楼庭院阔叶树",
         "position": [
           11.8752,
           13.152
@@ -1240,16 +1240,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 7.2,
-        "crownRadius": 2.6
+        "height": 6.3,
+        "crownRadius": 2.1
       }
     },
     "plant-153": {
       "type": "prop",
-      "model": "office-palm-2",
+      "model": "op13-clump-palm-2",
       "base_state": {
-        "kind": "office-palm-2",
-        "name": "庭院丛生羽叶棕榈",
+        "kind": "op13-clump-palm-2",
+        "name": "办公楼紧冠丛生棕榈",
         "position": [
           23.3042,
           12.8985
@@ -1258,8 +1258,8 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 6,
-        "crownRadius": 2.3
+        "height": 5.1,
+        "crownRadius": 2.12
       }
     },
     "plant-155": {
@@ -1282,10 +1282,10 @@
     },
     "plant-156": {
       "type": "prop",
-      "model": "office-palm-3",
+      "model": "op13-clump-palm-3",
       "base_state": {
-        "kind": "office-palm-3",
-        "name": "庭院丛生羽叶棕榈",
+        "kind": "op13-clump-palm-3",
+        "name": "办公楼紧冠丛生棕榈",
         "position": [
           -6.3601,
           24.3611
@@ -1294,16 +1294,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 6.2,
-        "crownRadius": 2.8
+        "height": 5.8,
+        "crownRadius": 2.35
       }
     },
     "plant-157": {
       "type": "prop",
-      "model": "office-evergreen-4",
+      "model": "op13-compact-croton-4",
       "base_state": {
-        "kind": "office-evergreen-4",
-        "name": "庭院簇生锥形常绿灌木",
+        "kind": "op13-compact-croton-4",
+        "name": "中央盆花外侧低灌木",
         "position": [
           5.4311,
           20.8541
@@ -1312,16 +1312,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 4.5,
-        "crownRadius": 1.1
+        "height": 0.65,
+        "crownRadius": 0.35
       }
     },
     "plant-159": {
       "type": "prop",
-      "model": "office-cycad-5",
+      "model": "op13-cycad-5",
       "base_state": {
-        "kind": "office-cycad-5",
-        "name": "庭院苏铁",
+        "kind": "op13-cycad-5",
+        "name": "办公楼苏铁",
         "position": [
           11.6391,
           21.7882
@@ -1330,16 +1330,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 1.9,
-        "crownRadius": 1.75
+        "height": 1.65,
+        "crownRadius": 1.35
       }
     },
     "plant-163": {
       "type": "prop",
-      "model": "office-broadleaf-6",
+      "model": "op13-broadleaf-6",
       "base_state": {
-        "kind": "office-broadleaf-6",
-        "name": "庭院分层阔叶树",
+        "kind": "op13-broadleaf-6",
+        "name": "办公楼庭院阔叶树",
         "position": [
           23.4511,
           22.0411
@@ -1348,16 +1348,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 6.4,
-        "crownRadius": 1.8
+        "height": 5.8,
+        "crownRadius": 1.55
       }
     },
     "plant-164": {
       "type": "prop",
-      "model": "office-cycad-7",
+      "model": "op13-cycad-7",
       "base_state": {
-        "kind": "office-cycad-7",
-        "name": "庭院苏铁",
+        "kind": "op13-cycad-7",
+        "name": "办公楼苏铁",
         "position": [
           7.2367,
           27.2761
@@ -1366,8 +1366,8 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 1.65,
-        "crownRadius": 1.5
+        "height": 1.5,
+        "crownRadius": 1.24
       }
     },
     "plant-173": {
@@ -2200,10 +2200,10 @@
     },
     "avenue-palm-00--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-00--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-00--1",
+        "kind": "palm-1013-avenue-palm-00--1",
+        "name": "阔叶树 avenue-palm-00--1",
         "position": [
           92.5,
           -57
@@ -2212,16 +2212,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 17.2,
-        "crownRadius": 2.55
+        "height": 17.969,
+        "crownRadius": 2.425
       }
     },
     "avenue-palm-00-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-00-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-00-1",
+        "kind": "palm-1013-avenue-palm-00-1",
+        "name": "阔叶树 avenue-palm-00-1",
         "position": [
           101.1,
           -57
@@ -2230,16 +2230,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 17.2,
-        "crownRadius": 2.55
+        "height": 17.253,
+        "crownRadius": 2.589
       }
     },
     "avenue-palm-01--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-01--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-01--1",
+        "kind": "palm-1013-avenue-palm-01--1",
+        "name": "阔叶树 avenue-palm-01--1",
         "position": [
           92.5,
           -48.7
@@ -2248,16 +2248,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 17.68,
-        "crownRadius": 2.67
+        "height": 17.704,
+        "crownRadius": 2.166
       }
     },
     "avenue-palm-01-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-01-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-01-1",
+        "kind": "palm-1013-avenue-palm-01-1",
+        "name": "阔叶树 avenue-palm-01-1",
         "position": [
           101.1,
           -48.7
@@ -2266,16 +2266,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 17.68,
-        "crownRadius": 2.67
+        "height": 17.104,
+        "crownRadius": 2.398
       }
     },
     "avenue-palm-02--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-02--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-02--1",
+        "kind": "palm-1013-avenue-palm-02--1",
+        "name": "阔叶树 avenue-palm-02--1",
         "position": [
           92.5,
           -40.4
@@ -2284,16 +2284,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 18.16,
-        "crownRadius": 2.79
+        "height": 17.944,
+        "crownRadius": 2.636
       }
     },
     "avenue-palm-02-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-02-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-02-1",
+        "kind": "palm-1013-avenue-palm-02-1",
+        "name": "阔叶树 avenue-palm-02-1",
         "position": [
           101.1,
           -40.4
@@ -2302,16 +2302,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 18.16,
-        "crownRadius": 2.79
+        "height": 17.956,
+        "crownRadius": 2.436
       }
     },
     "avenue-palm-03--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-03--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-03--1",
+        "kind": "palm-1013-avenue-palm-03--1",
+        "name": "阔叶树 avenue-palm-03--1",
         "position": [
           92.5,
           -32.099999999999994
@@ -2320,16 +2320,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 18.64,
-        "crownRadius": 2.55
+        "height": 17.449,
+        "crownRadius": 2.281
       }
     },
     "avenue-palm-03-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-03-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-03-1",
+        "kind": "palm-1013-avenue-palm-03-1",
+        "name": "阔叶树 avenue-palm-03-1",
         "position": [
           101.1,
           -32.099999999999994
@@ -2338,16 +2338,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 18.64,
-        "crownRadius": 2.55
+        "height": 17.289,
+        "crownRadius": 2.182
       }
     },
     "avenue-palm-04--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-04--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-04--1",
+        "kind": "palm-1013-avenue-palm-04--1",
+        "name": "阔叶树 avenue-palm-04--1",
         "position": [
           92.5,
           -23.799999999999997
@@ -2356,16 +2356,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 19.119999999999997,
-        "crownRadius": 2.67
+        "height": 17.346,
+        "crownRadius": 2.239
       }
     },
     "avenue-palm-04-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-04-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-04-1",
+        "kind": "palm-1013-avenue-palm-04-1",
+        "name": "阔叶树 avenue-palm-04-1",
         "position": [
           101.1,
           -23.799999999999997
@@ -2374,16 +2374,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 19.119999999999997,
-        "crownRadius": 2.67
+        "height": 17.067,
+        "crownRadius": 2.481
       }
     },
     "avenue-palm-05--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-05--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-05--1",
+        "kind": "palm-1013-avenue-palm-05--1",
+        "name": "阔叶树 avenue-palm-05--1",
         "position": [
           92.5,
           -15.5
@@ -2392,16 +2392,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 17.2,
-        "crownRadius": 2.79
+        "height": 17.157,
+        "crownRadius": 2.575
       }
     },
     "avenue-palm-05-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-05-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-05-1",
+        "kind": "palm-1013-avenue-palm-05-1",
+        "name": "阔叶树 avenue-palm-05-1",
         "position": [
           101.1,
           -15.5
@@ -2410,16 +2410,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 17.2,
-        "crownRadius": 2.79
+        "height": 17.632,
+        "crownRadius": 2.203
       }
     },
     "avenue-palm-06--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-06--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-06--1",
+        "kind": "palm-1013-avenue-palm-06--1",
+        "name": "阔叶树 avenue-palm-06--1",
         "position": [
           92.5,
           -7.199999999999996
@@ -2428,16 +2428,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 17.68,
-        "crownRadius": 2.55
+        "height": 17.865,
+        "crownRadius": 2.293
       }
     },
     "avenue-palm-06-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-06-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-06-1",
+        "kind": "palm-1013-avenue-palm-06-1",
+        "name": "阔叶树 avenue-palm-06-1",
         "position": [
           101.1,
           -7.199999999999996
@@ -2446,16 +2446,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 17.68,
-        "crownRadius": 2.55
+        "height": 17.31,
+        "crownRadius": 2.602
       }
     },
     "avenue-palm-07--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-07--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-07--1",
+        "kind": "palm-1013-avenue-palm-07--1",
+        "name": "阔叶树 avenue-palm-07--1",
         "position": [
           92.5,
           1.1000000000000085
@@ -2464,16 +2464,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 18.16,
-        "crownRadius": 2.67
+        "height": 17.277,
+        "crownRadius": 2.625
       }
     },
     "avenue-palm-07-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-07-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-07-1",
+        "kind": "palm-1013-avenue-palm-07-1",
+        "name": "阔叶树 avenue-palm-07-1",
         "position": [
           101.1,
           1.1000000000000085
@@ -2482,16 +2482,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 18.16,
-        "crownRadius": 2.67
+        "height": 17.878,
+        "crownRadius": 2.61
       }
     },
     "avenue-palm-08--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-08--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-08--1",
+        "kind": "palm-1013-avenue-palm-08--1",
+        "name": "阔叶树 avenue-palm-08--1",
         "position": [
           92.5,
           9.400000000000006
@@ -2500,16 +2500,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 18.64,
-        "crownRadius": 2.79
+        "height": 17.362,
+        "crownRadius": 2.512
       }
     },
     "avenue-palm-08-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-08-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-08-1",
+        "kind": "palm-1013-avenue-palm-08-1",
+        "name": "阔叶树 avenue-palm-08-1",
         "position": [
           101.1,
           9.400000000000006
@@ -2518,16 +2518,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 18.64,
-        "crownRadius": 2.79
+        "height": 17.813,
+        "crownRadius": 2.577
       }
     },
     "avenue-palm-09--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-09--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-09--1",
+        "kind": "palm-1013-avenue-palm-09--1",
+        "name": "阔叶树 avenue-palm-09--1",
         "position": [
           92.5,
           17.700000000000003
@@ -2536,16 +2536,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 19.119999999999997,
-        "crownRadius": 2.55
+        "height": 17.265,
+        "crownRadius": 2.525
       }
     },
     "avenue-palm-09-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-09-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-09-1",
+        "kind": "palm-1013-avenue-palm-09-1",
+        "name": "阔叶树 avenue-palm-09-1",
         "position": [
           101.1,
           17.700000000000003
@@ -2554,16 +2554,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 19.119999999999997,
-        "crownRadius": 2.55
+        "height": 18.353,
+        "crownRadius": 2.208
       }
     },
     "avenue-palm-10--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-10--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-10--1",
+        "kind": "palm-1013-avenue-palm-10--1",
+        "name": "阔叶树 avenue-palm-10--1",
         "position": [
           92.5,
           26
@@ -2572,16 +2572,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 17.2,
-        "crownRadius": 2.67
+        "height": 17.269,
+        "crownRadius": 2.462
       }
     },
     "avenue-palm-10-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-10-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-10-1",
+        "kind": "palm-1013-avenue-palm-10-1",
+        "name": "阔叶树 avenue-palm-10-1",
         "position": [
           101.1,
           26
@@ -2590,16 +2590,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 17.2,
-        "crownRadius": 2.67
+        "height": 17.625,
+        "crownRadius": 2.395
       }
     },
     "avenue-palm-11--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-11--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-11--1",
+        "kind": "palm-1013-avenue-palm-11--1",
+        "name": "阔叶树 avenue-palm-11--1",
         "position": [
           92.5,
           34.30000000000001
@@ -2608,16 +2608,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 17.68,
-        "crownRadius": 2.79
+        "height": 17.181,
+        "crownRadius": 2.568
       }
     },
     "avenue-palm-11-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-11-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-11-1",
+        "kind": "palm-1013-avenue-palm-11-1",
+        "name": "阔叶树 avenue-palm-11-1",
         "position": [
           101.1,
           34.30000000000001
@@ -2626,16 +2626,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 17.68,
-        "crownRadius": 2.79
+        "height": 17.564,
+        "crownRadius": 2.648
       }
     },
     "avenue-palm-12--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-12--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-12--1",
+        "kind": "palm-1013-avenue-palm-12--1",
+        "name": "阔叶树 avenue-palm-12--1",
         "position": [
           92.5,
           42.60000000000001
@@ -2644,16 +2644,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 18.16,
-        "crownRadius": 2.55
+        "height": 17.401,
+        "crownRadius": 2.343
       }
     },
     "avenue-palm-12-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-12-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-12-1",
+        "kind": "palm-1013-avenue-palm-12-1",
+        "name": "阔叶树 avenue-palm-12-1",
         "position": [
           101.1,
           42.60000000000001
@@ -2662,16 +2662,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 18.16,
-        "crownRadius": 2.55
+        "height": 18.323,
+        "crownRadius": 2.439
       }
     },
     "avenue-palm-13--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-13--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-13--1",
+        "kind": "palm-1013-avenue-palm-13--1",
+        "name": "阔叶树 avenue-palm-13--1",
         "position": [
           92.5,
           50.900000000000006
@@ -2680,16 +2680,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 18.64,
-        "crownRadius": 2.67
+        "height": 17.132,
+        "crownRadius": 2.234
       }
     },
     "avenue-palm-13-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-13-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-13-1",
+        "kind": "palm-1013-avenue-palm-13-1",
+        "name": "阔叶树 avenue-palm-13-1",
         "position": [
           101.1,
           50.900000000000006
@@ -2698,16 +2698,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 18.64,
-        "crownRadius": 2.67
+        "height": 18.142,
+        "crownRadius": 2.24
       }
     },
     "avenue-palm-14--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-14--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-14--1",
+        "kind": "palm-1013-avenue-palm-14--1",
+        "name": "阔叶树 avenue-palm-14--1",
         "position": [
           92.5,
           59.20000000000002
@@ -2716,16 +2716,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 19.119999999999997,
-        "crownRadius": 2.79
+        "height": 17.374,
+        "crownRadius": 2.453
       }
     },
     "avenue-palm-14-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-14-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-14-1",
+        "kind": "palm-1013-avenue-palm-14-1",
+        "name": "阔叶树 avenue-palm-14-1",
         "position": [
           101.1,
           59.20000000000002
@@ -2734,16 +2734,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 19.119999999999997,
-        "crownRadius": 2.79
+        "height": 17.262,
+        "crownRadius": 2.615
       }
     },
     "avenue-palm-15--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-15--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-15--1",
+        "kind": "palm-1013-avenue-palm-15--1",
+        "name": "阔叶树 avenue-palm-15--1",
         "position": [
           92.5,
           67.50000000000001
@@ -2752,16 +2752,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 17.2,
-        "crownRadius": 2.55
+        "height": 17.334,
+        "crownRadius": 2.159
       }
     },
     "avenue-palm-15-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-15-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-15-1",
+        "kind": "palm-1013-avenue-palm-15-1",
+        "name": "阔叶树 avenue-palm-15-1",
         "position": [
           101.1,
           67.50000000000001
@@ -2770,16 +2770,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 17.2,
-        "crownRadius": 2.55
+        "height": 18.326,
+        "crownRadius": 2.334
       }
     },
     "avenue-palm-16--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-16--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-16--1",
+        "kind": "palm-1013-avenue-palm-16--1",
+        "name": "阔叶树 avenue-palm-16--1",
         "position": [
           92.5,
           75.80000000000001
@@ -2788,16 +2788,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 17.68,
-        "crownRadius": 2.67
+        "height": 17.721,
+        "crownRadius": 2.395
       }
     },
     "avenue-palm-16-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-avenue-palm-16-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 avenue-palm-16-1",
+        "kind": "palm-1013-avenue-palm-16-1",
+        "name": "阔叶树 avenue-palm-16-1",
         "position": [
           101.1,
           75.80000000000001
@@ -2806,16 +2806,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 17.68,
-        "crownRadius": 2.67
+        "height": 18.022,
+        "crownRadius": 2.524
       }
     },
     "gate-reference-palm-0--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-gate-reference-palm-0--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 gate-reference-palm-0--1",
+        "kind": "palm-1013-gate-reference-palm-0--1",
+        "name": "阔叶树 gate-reference-palm-0--1",
         "position": [
           147.7581,
           -82.2928
@@ -2824,16 +2824,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 15.2,
-        "crownRadius": 2.5
+        "height": 18.177,
+        "crownRadius": 2.695
       }
     },
     "gate-reference-palm-0-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-gate-reference-palm-0-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 gate-reference-palm-0-1",
+        "kind": "palm-1013-gate-reference-palm-0-1",
+        "name": "阔叶树 gate-reference-palm-0-1",
         "position": [
           147.7581,
           -72.6928
@@ -2842,16 +2842,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 15.2,
-        "crownRadius": 2.5
+        "height": 18.784,
+        "crownRadius": 2.453
       }
     },
     "gate-reference-palm-1--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-gate-reference-palm-1--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 gate-reference-palm-1--1",
+        "kind": "palm-1013-gate-reference-palm-1--1",
+        "name": "阔叶树 gate-reference-palm-1--1",
         "position": [
           135.7581,
           -82.2928
@@ -2860,16 +2860,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 15.85,
-        "crownRadius": 2.5
+        "height": 17.989,
+        "crownRadius": 2.447
       }
     },
     "gate-reference-palm-1-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-gate-reference-palm-1-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 gate-reference-palm-1-1",
+        "kind": "palm-1013-gate-reference-palm-1-1",
+        "name": "阔叶树 gate-reference-palm-1-1",
         "position": [
           135.7581,
           -72.6928
@@ -2878,16 +2878,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 15.85,
-        "crownRadius": 2.5
+        "height": 17.993,
+        "crownRadius": 2.562
       }
     },
     "gate-reference-palm-2--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-gate-reference-palm-2--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 gate-reference-palm-2--1",
+        "kind": "palm-1013-gate-reference-palm-2--1",
+        "name": "阔叶树 gate-reference-palm-2--1",
         "position": [
           123.7581,
           -82.2928
@@ -2896,16 +2896,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 16.5,
-        "crownRadius": 2.5
+        "height": 17.592,
+        "crownRadius": 2.44
       }
     },
     "gate-reference-palm-2-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-gate-reference-palm-2-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 gate-reference-palm-2-1",
+        "kind": "palm-1013-gate-reference-palm-2-1",
+        "name": "阔叶树 gate-reference-palm-2-1",
         "position": [
           123.7581,
           -72.6928
@@ -2914,16 +2914,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 16.5,
-        "crownRadius": 2.5
+        "height": 18.197,
+        "crownRadius": 2.497
       }
     },
     "gate-reference-palm-3--1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-gate-reference-palm-3--1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 gate-reference-palm-3--1",
+        "kind": "palm-1013-gate-reference-palm-3--1",
+        "name": "阔叶树 gate-reference-palm-3--1",
         "position": [
           111.7581,
           -82.2928
@@ -2932,16 +2932,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 15.2,
-        "crownRadius": 2.5
+        "height": 17.736,
+        "crownRadius": 2.555
       }
     },
     "gate-reference-palm-3-1": {
       "type": "prop",
-      "model": "coconut",
+      "model": "palm-1013-gate-reference-palm-3-1",
       "base_state": {
-        "kind": "coconut",
-        "name": "椰子树 gate-reference-palm-3-1",
+        "kind": "palm-1013-gate-reference-palm-3-1",
+        "name": "阔叶树 gate-reference-palm-3-1",
         "position": [
           111.7581,
           -72.6928
@@ -2950,8 +2950,8 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 15.2,
-        "crownRadius": 2.5
+        "height": 18.532,
+        "crownRadius": 2.498
       }
     },
     "plant-t2-palm-west": {
@@ -3010,9 +3010,9 @@
     },
     "plant-gr-grove-tree-0": {
       "type": "prop",
-      "model": "grove-grove-tree-0",
+      "model": "palm-1013-plant-gr-grove-tree-0",
       "base_state": {
-        "kind": "grove-grove-tree-0",
+        "kind": "palm-1013-plant-gr-grove-tree-0",
         "name": "阔叶树 plant-gr-grove-tree-0",
         "position": [
           -117.4586,
@@ -3023,14 +3023,14 @@
         "scale": 1,
         "hidden": false,
         "height": 9,
-        "crownRadius": 2.7
+        "crownRadius": 2.32
       }
     },
     "plant-gr-grove-tree-1": {
       "type": "prop",
-      "model": "grove-grove-tree-1",
+      "model": "palm-1013-plant-gr-grove-tree-1",
       "base_state": {
-        "kind": "grove-grove-tree-1",
+        "kind": "palm-1013-plant-gr-grove-tree-1",
         "name": "阔叶树 plant-gr-grove-tree-1",
         "position": [
           -103.5533,
@@ -3041,7 +3041,7 @@
         "scale": 1,
         "hidden": false,
         "height": 9,
-        "crownRadius": 2.7
+        "crownRadius": 2.32
       }
     },
     "plant-gr-grove-tree-2": {
@@ -3442,9 +3442,9 @@
     },
     "plant-gr-specimen-7": {
       "type": "prop",
-      "model": "grove-specimen-7",
+      "model": "palm-1013-plant-gr-specimen-7",
       "base_state": {
-        "kind": "grove-specimen-7",
+        "kind": "palm-1013-plant-gr-specimen-7",
         "name": "阔叶树 plant-gr-specimen-7",
         "position": [
           -115,
@@ -3455,14 +3455,14 @@
         "scale": 1,
         "hidden": false,
         "height": 9.8,
-        "crownRadius": 2.4
+        "crownRadius": 2.32
       }
     },
     "plant-gr-specimen-8": {
       "type": "prop",
-      "model": "grove-specimen-8",
+      "model": "palm-1013-plant-gr-specimen-8",
       "base_state": {
-        "kind": "grove-specimen-8",
+        "kind": "palm-1013-plant-gr-specimen-8",
         "name": "阔叶树 plant-gr-specimen-8",
         "position": [
           -106,
@@ -3473,14 +3473,14 @@
         "scale": 1,
         "hidden": false,
         "height": 9.5,
-        "crownRadius": 2.4
+        "crownRadius": 2
       }
     },
     "plant-gr-specimen-9": {
       "type": "prop",
-      "model": "grove-specimen-9",
+      "model": "palm-1013-plant-gr-specimen-9",
       "base_state": {
-        "kind": "grove-specimen-9",
+        "kind": "palm-1013-plant-gr-specimen-9",
         "name": "阔叶树 plant-gr-specimen-9",
         "position": [
           -110,
@@ -3491,14 +3491,14 @@
         "scale": 1,
         "hidden": false,
         "height": 8.8,
-        "crownRadius": 2.3
+        "crownRadius": 2.22
       }
     },
     "plant-gr-specimen-10": {
       "type": "prop",
-      "model": "grove-specimen-10",
+      "model": "palm-1013-plant-gr-specimen-10",
       "base_state": {
-        "kind": "grove-specimen-10",
+        "kind": "palm-1013-plant-gr-specimen-10",
         "name": "阔叶树 plant-gr-specimen-10",
         "position": [
           -118,
@@ -3509,14 +3509,14 @@
         "scale": 1,
         "hidden": false,
         "height": 10.2,
-        "crownRadius": 2.4
+        "crownRadius": 2.22
       }
     },
     "plant-gr-specimen-11": {
       "type": "prop",
-      "model": "grove-specimen-11",
+      "model": "palm-1013-plant-gr-specimen-11",
       "base_state": {
-        "kind": "grove-specimen-11",
+        "kind": "palm-1013-plant-gr-specimen-11",
         "name": "阔叶树 plant-gr-specimen-11",
         "position": [
           -104,
@@ -3527,14 +3527,14 @@
         "scale": 1,
         "hidden": false,
         "height": 9,
-        "crownRadius": 2.4
+        "crownRadius": 2
       }
     },
     "plant-gr-specimen-12": {
       "type": "prop",
-      "model": "grove-specimen-12",
+      "model": "palm-1013-plant-gr-specimen-12",
       "base_state": {
-        "kind": "grove-specimen-12",
+        "kind": "palm-1013-plant-gr-specimen-12",
         "name": "阔叶树 plant-gr-specimen-12",
         "position": [
           -100,
@@ -3545,14 +3545,14 @@
         "scale": 1,
         "hidden": false,
         "height": 9.4,
-        "crownRadius": 2.4
+        "crownRadius": 2
       }
     },
     "plant-gr-specimen-13": {
       "type": "prop",
-      "model": "grove-specimen-13",
+      "model": "palm-1013-plant-gr-specimen-13",
       "base_state": {
-        "kind": "grove-specimen-13",
+        "kind": "palm-1013-plant-gr-specimen-13",
         "name": "阔叶树 plant-gr-specimen-13",
         "position": [
           -123,
@@ -3563,7 +3563,7 @@
         "scale": 1,
         "hidden": false,
         "height": 8.7,
-        "crownRadius": 2.4
+        "crownRadius": 2.32
       }
     },
     "plant-gr-specimen-14": {
@@ -4036,10 +4036,10 @@
     },
     "dining-tree-1": {
       "type": "prop",
-      "model": "dining-tree",
+      "model": "scale-20261013-dining-tree-1",
       "base_state": {
-        "kind": "dining-tree",
-        "name": "临湖阔叶乔木",
+        "kind": "scale-20261013-dining-tree-1",
+        "name": "小礼堂侧上层疏叶乔木",
         "position": [
           -213.5,
           105
@@ -4048,16 +4048,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 11,
-        "crownRadius": 5.4
+        "height": 16.2,
+        "crownRadius": 4.35
       }
     },
     "dining-tree-2": {
       "type": "prop",
-      "model": "dining-tree",
+      "model": "scale-20261013-dining-tree-2",
       "base_state": {
-        "kind": "dining-tree",
-        "name": "临湖阔叶乔木",
+        "kind": "scale-20261013-dining-tree-2",
+        "name": "礼堂北侧临湖遮阴乔木",
         "position": [
           -213.5,
           88.5
@@ -4066,8 +4066,8 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 12,
-        "crownRadius": 5.8
+        "height": 9.2,
+        "crownRadius": 3.45
       }
     },
     "dining-tree-3": {
@@ -4126,10 +4126,10 @@
     },
     "dining-tree-6": {
       "type": "prop",
-      "model": "dining-tree",
+      "model": "scale-20261013-dining-tree-6",
       "base_state": {
-        "kind": "dining-tree",
-        "name": "临湖阔叶乔木",
+        "kind": "scale-20261013-dining-tree-6",
+        "name": "小礼堂前下层浓密乔木",
         "position": [
           -205.8,
           101
@@ -4138,16 +4138,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 8,
-        "crownRadius": 3.5
+        "height": 7.1,
+        "crownRadius": 3.45
       }
     },
     "dining-cycad-1": {
       "type": "prop",
-      "model": "dining-cycad",
+      "model": "scale-20261013-dining-cycad-1",
       "base_state": {
-        "kind": "dining-cycad",
-        "name": "花池苏铁",
+        "kind": "scale-20261013-dining-cycad-1",
+        "name": "小礼堂花池老苏铁",
         "position": [
           -208.3,
           110.5
@@ -4156,16 +4156,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 2.5,
-        "crownRadius": 1.8
+        "height": 2.22,
+        "crownRadius": 1.98
       }
     },
     "dining-cycad-2": {
       "type": "prop",
-      "model": "dining-cycad",
+      "model": "scale-20261013-dining-cycad-2",
       "base_state": {
-        "kind": "dining-cycad",
-        "name": "花池苏铁",
+        "kind": "scale-20261013-dining-cycad-2",
+        "name": "小礼堂花池绿叶苏铁",
         "position": [
           -208.3,
           118.5
@@ -4174,16 +4174,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 2.5,
-        "crownRadius": 1.8
+        "height": 2.3,
+        "crownRadius": 1.99
       }
     },
     "dining-bed-centre": {
       "type": "prop",
-      "model": "dining-variegated",
+      "model": "scale-20261013-dining-bed-centre",
       "base_state": {
-        "kind": "dining-variegated",
-        "name": "花池亮叶灌木",
+        "kind": "scale-20261013-dining-bed-centre",
+        "name": "三连花池中央亮叶灌木",
         "position": [
           -208.3,
           114.5
@@ -4192,16 +4192,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 2.3,
-        "crownRadius": 1.4
+        "height": 1.98,
+        "crownRadius": 1.34
       }
     },
     "dining-croton-1-1": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-1-1",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-1-1",
+        "name": "花池内低矮变叶木",
         "position": [
           -206.75,
           110.5
@@ -4210,16 +4210,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-1-2": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-1-2",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-1-2",
+        "name": "花池内低矮变叶木",
         "position": [
           -207.20398448916086,
           111.59601551083915
@@ -4228,16 +4228,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-1-3": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-1-3",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-1-3",
+        "name": "花池内低矮变叶木",
         "position": [
           -208.3,
           112.05
@@ -4246,16 +4246,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-1-4": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-1-4",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-1-4",
+        "name": "花池内低矮变叶木",
         "position": [
           -209.39601551083916,
           111.59601551083915
@@ -4264,16 +4264,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-1-5": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-1-5",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-1-5",
+        "name": "花池内低矮变叶木",
         "position": [
           -209.85000000000002,
           110.5
@@ -4282,16 +4282,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-1-6": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-1-6",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-1-6",
+        "name": "花池内低矮变叶木",
         "position": [
           -209.39601551083916,
           109.40398448916085
@@ -4300,16 +4300,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-1-7": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-1-7",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-1-7",
+        "name": "花池内低矮变叶木",
         "position": [
           -208.3,
           108.95
@@ -4318,16 +4318,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-1-8": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-1-8",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-1-8",
+        "name": "花池内低矮变叶木",
         "position": [
           -207.20398448916086,
           109.40398448916085
@@ -4336,16 +4336,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-2-1": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-2-1",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-2-1",
+        "name": "花池内低矮变叶木",
         "position": [
           -206.75,
           114.5
@@ -4354,16 +4354,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-2-2": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-2-2",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-2-2",
+        "name": "花池内低矮变叶木",
         "position": [
           -207.20398448916086,
           115.59601551083915
@@ -4372,16 +4372,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-2-3": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-2-3",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-2-3",
+        "name": "花池内低矮变叶木",
         "position": [
           -208.3,
           116.05
@@ -4390,16 +4390,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-2-4": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-2-4",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-2-4",
+        "name": "花池内低矮变叶木",
         "position": [
           -209.39601551083916,
           115.59601551083915
@@ -4408,16 +4408,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-2-5": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-2-5",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-2-5",
+        "name": "花池内低矮变叶木",
         "position": [
           -209.85000000000002,
           114.5
@@ -4426,16 +4426,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-2-6": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-2-6",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-2-6",
+        "name": "花池内低矮变叶木",
         "position": [
           -209.39601551083916,
           113.40398448916085
@@ -4444,16 +4444,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-2-7": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-2-7",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-2-7",
+        "name": "花池内低矮变叶木",
         "position": [
           -208.3,
           112.95
@@ -4462,16 +4462,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-2-8": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-2-8",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-2-8",
+        "name": "花池内低矮变叶木",
         "position": [
           -207.20398448916086,
           113.40398448916085
@@ -4480,16 +4480,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-3-1": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-3-1",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-3-1",
+        "name": "花池内低矮变叶木",
         "position": [
           -206.75,
           118.5
@@ -4498,16 +4498,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-3-2": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-3-2",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-3-2",
+        "name": "花池内低矮变叶木",
         "position": [
           -207.20398448916086,
           119.59601551083915
@@ -4516,16 +4516,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-3-3": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-3-3",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-3-3",
+        "name": "花池内低矮变叶木",
         "position": [
           -208.3,
           120.05
@@ -4534,16 +4534,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-3-4": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-3-4",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-3-4",
+        "name": "花池内低矮变叶木",
         "position": [
           -209.39601551083916,
           119.59601551083915
@@ -4552,16 +4552,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-3-5": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-3-5",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-3-5",
+        "name": "花池内低矮变叶木",
         "position": [
           -209.85000000000002,
           118.5
@@ -4570,16 +4570,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-3-6": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-3-6",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-3-6",
+        "name": "花池内低矮变叶木",
         "position": [
           -209.39601551083916,
           117.40398448916085
@@ -4588,16 +4588,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-3-7": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-3-7",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-3-7",
+        "name": "花池内低矮变叶木",
         "position": [
           -208.3,
           116.95
@@ -4606,16 +4606,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-croton-3-8": {
       "type": "prop",
-      "model": "dining-croton",
+      "model": "scale-20261013-dining-croton-3-8",
       "base_state": {
-        "kind": "dining-croton",
-        "name": "红黄变叶木",
+        "kind": "scale-20261013-dining-croton-3-8",
+        "name": "花池内低矮变叶木",
         "position": [
           -207.20398448916086,
           117.40398448916085
@@ -4624,8 +4624,8 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 0.85,
-        "crownRadius": 0.65
+        "height": 0.88,
+        "crownRadius": 0.48
       }
     },
     "dining-shrub-1": {
@@ -4792,9 +4792,9 @@
     },
     "plant-pa-library-palm": {
       "type": "prop",
-      "model": "audit-plant-pa-library-palm",
+      "model": "palm-1013-plant-pa-library-palm",
       "base_state": {
-        "kind": "audit-plant-pa-library-palm",
+        "kind": "palm-1013-plant-pa-library-palm",
         "name": "高干羽叶棕榈",
         "position": [
           -177.4,
@@ -4804,8 +4804,8 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 16.5,
-        "crownRadius": 2.6
+        "height": 16.7,
+        "crownRadius": 2.45
       }
     },
     "plant-pa-library-shrub-0": {
@@ -5170,9 +5170,9 @@
     },
     "plant-178": {
       "type": "prop",
-      "model": "audit-plant-178",
+      "model": "palm-1013-plant-178",
       "base_state": {
-        "kind": "audit-plant-178",
+        "kind": "palm-1013-plant-178",
         "name": "高干羽叶棕榈",
         "position": [
           39.3378,
@@ -5183,14 +5183,14 @@
         "scale": 1,
         "hidden": false,
         "height": 9,
-        "crownRadius": 2.3
+        "crownRadius": 2.22
       }
     },
     "plant-183": {
       "type": "prop",
-      "model": "audit-plant-183",
+      "model": "palm-1013-plant-183",
       "base_state": {
-        "kind": "audit-plant-183",
+        "kind": "palm-1013-plant-183",
         "name": "高干羽叶棕榈",
         "position": [
           49.6723,
@@ -5206,9 +5206,9 @@
     },
     "plant-186": {
       "type": "prop",
-      "model": "audit-plant-186",
+      "model": "palm-1013-plant-186",
       "base_state": {
-        "kind": "audit-plant-186",
+        "kind": "palm-1013-plant-186",
         "name": "高干羽叶棕榈",
         "position": [
           57.284,
@@ -5219,14 +5219,14 @@
         "scale": 1,
         "hidden": false,
         "height": 9.9,
-        "crownRadius": 2.3
+        "crownRadius": 2.22
       }
     },
     "plant-190": {
       "type": "prop",
-      "model": "audit-plant-190",
+      "model": "palm-1013-plant-190",
       "base_state": {
-        "kind": "audit-plant-190",
+        "kind": "palm-1013-plant-190",
         "name": "高干羽叶棕榈",
         "position": [
           66.5561,
@@ -5242,9 +5242,9 @@
     },
     "plant-194": {
       "type": "prop",
-      "model": "audit-plant-194",
+      "model": "palm-1013-plant-194",
       "base_state": {
-        "kind": "audit-plant-194",
+        "kind": "palm-1013-plant-194",
         "name": "高干羽叶棕榈",
         "position": [
           75.4741,
@@ -5255,14 +5255,14 @@
         "scale": 1,
         "hidden": false,
         "height": 9.45,
-        "crownRadius": 2.3
+        "crownRadius": 2
       }
     },
     "plant-196": {
       "type": "prop",
-      "model": "audit-plant-196",
+      "model": "palm-1013-plant-196",
       "base_state": {
-        "kind": "audit-plant-196",
+        "kind": "palm-1013-plant-196",
         "name": "高干羽叶棕榈",
         "position": [
           84.1715,
@@ -5273,7 +5273,7 @@
         "scale": 1,
         "hidden": false,
         "height": 9.9,
-        "crownRadius": 2.3
+        "crownRadius": 2
       }
     },
     "plant-pa-dorm-clump": {
@@ -6106,9 +6106,9 @@
     },
     "plant-123": {
       "type": "prop",
-      "model": "audit-plant-123",
+      "model": "palm-1013-plant-123",
       "base_state": {
-        "kind": "audit-plant-123",
+        "kind": "palm-1013-plant-123",
         "name": "高干羽叶棕榈",
         "position": [
           -7.1632,
@@ -6118,15 +6118,15 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 15,
-        "crownRadius": 2.88
+        "height": 15.1,
+        "crownRadius": 2.45
       }
     },
     "plant-124": {
       "type": "prop",
-      "model": "audit-plant-124",
+      "model": "palm-1013-plant-124",
       "base_state": {
-        "kind": "audit-plant-124",
+        "kind": "palm-1013-plant-124",
         "name": "高干羽叶棕榈",
         "position": [
           0.9252,
@@ -6136,15 +6136,15 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 15,
-        "crownRadius": 1.25
+        "height": 14.3,
+        "crownRadius": 2.35
       }
     },
     "plant-130": {
       "type": "prop",
-      "model": "audit-plant-130",
+      "model": "palm-1013-plant-130",
       "base_state": {
-        "kind": "audit-plant-130",
+        "kind": "palm-1013-plant-130",
         "name": "高干羽叶棕榈",
         "position": [
           12.281,
@@ -6155,14 +6155,14 @@
         "scale": 1,
         "hidden": false,
         "height": 15,
-        "crownRadius": 3.44
+        "crownRadius": 2.6
       }
     },
     "plant-135": {
       "type": "prop",
-      "model": "audit-plant-135",
+      "model": "palm-1013-plant-135",
       "base_state": {
-        "kind": "audit-plant-135",
+        "kind": "palm-1013-plant-135",
         "name": "高干羽叶棕榈",
         "position": [
           23.3492,
@@ -6172,16 +6172,16 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 15,
-        "crownRadius": 2.14
+        "height": 14.4,
+        "crownRadius": 2.3
       }
     },
     "plant-103": {
       "type": "prop",
-      "model": "audit-plant-103",
+      "model": "scale-20261013-plant-103",
       "base_state": {
-        "kind": "audit-plant-103",
-        "name": "高瘦针叶形树",
+        "kind": "scale-20261013-plant-103",
+        "name": "舞台旗台旁高瘦分层针叶树",
         "position": [
           -8.8179,
           -34.0267
@@ -6190,8 +6190,8 @@
         "rotationY": 0,
         "scale": 1,
         "hidden": false,
-        "height": 12,
-        "crownRadius": 1.67
+        "height": 24.2,
+        "crownRadius": 3.05
       }
     },
     "plant-175": {

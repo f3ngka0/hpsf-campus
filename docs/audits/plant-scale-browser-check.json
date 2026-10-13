@@ -1,0 +1,42 @@
+{
+  "localFileReady": true,
+  "state": {
+    "revision": "plant-scale-20261013-v1",
+    "mode": "orbit",
+    "movementSpeed": 1,
+    "position": [
+      350.0000000000001,
+      340,
+      404.9999999999999
+    ],
+    "labelsVisible": false,
+    "drawCalls": 390,
+    "triangles": 5819034,
+    "renderCount": 4,
+    "renderFps": 60,
+    "editorPerformanceMode": false,
+    "pixelRatio": 1,
+    "shadowsEnabled": true,
+    "ripplesVisible": 8,
+    "rippleCount": 8,
+    "treeCount": 350,
+    "webgl": true,
+    "stamps": [],
+    "selected": "gate",
+    "labels": false
+  },
+  "errors": [],
+  "networkRequests": [],
+  "report": {
+    "images": 16,
+    "failedImages": [],
+    "horizontalOverflow": false,
+    "title": "校园植物比例与路沿复查 · 2026-10-13",
+    "height": 8497,
+    "viewport": [
+      1440,
+      980
+    ]
+  },
+  "reportErrors": []
+}

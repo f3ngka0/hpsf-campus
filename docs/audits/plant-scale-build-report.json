@@ -1,0 +1,1688 @@
+{
+  "revision": "plant-scale-20261013-v1",
+  "plantsChanged": 107,
+  "palmCount": 68,
+  "plantCount": 350,
+  "rootsExactlyPreserved": true,
+  "protectedMeshCount": 101,
+  "protectedMeshesExactlyPreserved": true,
+  "retainedFacesExactlyPreserved": true,
+  "changedMeshes": [
+    {
+      "mesh": "planting",
+      "removedFaces": 379595,
+      "retainedFaces": 1345180,
+      "addedFaces": 933622,
+      "retainedFacesExactlyPreserved": true
+    },
+    {
+      "mesh": "office-landscape",
+      "removedFaces": 77952,
+      "retainedFaces": 0,
+      "addedFaces": 82212,
+      "retainedFacesExactlyPreserved": true
+    },
+    {
+      "mesh": "sports-surfaces",
+      "removedFaces": 462,
+      "retainedFaces": 63163,
+      "addedFaces": 464,
+      "retainedFacesExactlyPreserved": true
+    },
+    {
+      "mesh": "dining-landscape",
+      "removedFaces": 3606,
+      "retainedFaces": 1564,
+      "addedFaces": 2582,
+      "retainedFacesExactlyPreserved": true
+    },
+    {
+      "mesh": "graded-planting-ground",
+      "removedFaces": 691,
+      "retainedFaces": 16401,
+      "addedFaces": 773,
+      "retainedFacesExactlyPreserved": true
+    },
+    {
+      "mesh": "raised-walkways",
+      "removedFaces": 714,
+      "retainedFaces": 6456,
+      "addedFaces": 728,
+      "retainedFacesExactlyPreserved": true
+    },
+    {
+      "mesh": "raised-curbs",
+      "removedFaces": 1274,
+      "retainedFaces": 44889,
+      "addedFaces": 1131,
+      "retainedFacesExactlyPreserved": true
+    }
+  ],
+  "plantChecks": [
+    {
+      "id": "avenue-palm-00--1",
+      "height": 17.969,
+      "radius": 2.425,
+      "root": [
+        92.5,
+        -57.0
+      ],
+      "oldVertexRange": [
+        182222,
+        187254
+      ],
+      "newFaces": 6904,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-00-1",
+      "height": 17.253,
+      "radius": 2.589,
+      "root": [
+        101.1,
+        -57.0
+      ],
+      "oldVertexRange": [
+        187254,
+        192286
+      ],
+      "newFaces": 7044,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-01--1",
+      "height": 17.704,
+      "radius": 2.166,
+      "root": [
+        92.5,
+        -48.7
+      ],
+      "oldVertexRange": [
+        192286,
+        197346
+      ],
+      "newFaces": 6704,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-01-1",
+      "height": 17.104,
+      "radius": 2.398,
+      "root": [
+        101.1,
+        -48.7
+      ],
+      "oldVertexRange": [
+        197346,
+        202406
+      ],
+      "newFaces": 6868,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-02--1",
+      "height": 17.944,
+      "radius": 2.636,
+      "root": [
+        92.5,
+        -40.4
+      ],
+      "oldVertexRange": [
+        202406,
+        207494
+      ],
+      "newFaces": 7080,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-02-1",
+      "height": 17.956,
+      "radius": 2.436,
+      "root": [
+        101.1,
+        -40.4
+      ],
+      "oldVertexRange": [
+        207494,
+        212582
+      ],
+      "newFaces": 6904,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-03--1",
+      "height": 17.449,
+      "radius": 2.281,
+      "root": [
+        92.5,
+        -32.099999999999994
+      ],
+      "oldVertexRange": [
+        212582,
+        217698
+      ],
+      "newFaces": 6686,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-03-1",
+      "height": 17.289,
+      "radius": 2.182,
+      "root": [
+        101.1,
+        -32.099999999999994
+      ],
+      "oldVertexRange": [
+        217698,
+        222814
+      ],
+      "newFaces": 6686,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-04--1",
+      "height": 17.346,
+      "radius": 2.239,
+      "root": [
+        92.5,
+        -23.799999999999997
+      ],
+      "oldVertexRange": [
+        222814,
+        227986
+      ],
+      "newFaces": 6686,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-04-1",
+      "height": 17.067,
+      "radius": 2.481,
+      "root": [
+        101.1,
+        -23.799999999999997
+      ],
+      "oldVertexRange": [
+        227986,
+        233158
+      ],
+      "newFaces": 6868,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-05--1",
+      "height": 17.157,
+      "radius": 2.575,
+      "root": [
+        92.5,
+        -15.5
+      ],
+      "oldVertexRange": [
+        233158,
+        238190
+      ],
+      "newFaces": 7044,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-05-1",
+      "height": 17.632,
+      "radius": 2.203,
+      "root": [
+        101.1,
+        -15.5
+      ],
+      "oldVertexRange": [
+        238190,
+        243222
+      ],
+      "newFaces": 6704,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-06--1",
+      "height": 17.865,
+      "radius": 2.293,
+      "root": [
+        92.5,
+        -7.199999999999996
+      ],
+      "oldVertexRange": [
+        243222,
+        248282
+      ],
+      "newFaces": 6704,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-06-1",
+      "height": 17.31,
+      "radius": 2.602,
+      "root": [
+        101.1,
+        -7.199999999999996
+      ],
+      "oldVertexRange": [
+        248282,
+        253342
+      ],
+      "newFaces": 7044,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-07--1",
+      "height": 17.277,
+      "radius": 2.625,
+      "root": [
+        92.5,
+        1.1000000000000085
+      ],
+      "oldVertexRange": [
+        253342,
+        258430
+      ],
+      "newFaces": 7044,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-07-1",
+      "height": 17.878,
+      "radius": 2.61,
+      "root": [
+        101.1,
+        1.1000000000000085
+      ],
+      "oldVertexRange": [
+        258430,
+        263518
+      ],
+      "newFaces": 7080,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-08--1",
+      "height": 17.362,
+      "radius": 2.512,
+      "root": [
+        92.5,
+        9.400000000000006
+      ],
+      "oldVertexRange": [
+        263518,
+        268634
+      ],
+      "newFaces": 6886,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-08-1",
+      "height": 17.813,
+      "radius": 2.577,
+      "root": [
+        101.1,
+        9.400000000000006
+      ],
+      "oldVertexRange": [
+        268634,
+        273750
+      ],
+      "newFaces": 7080,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-09--1",
+      "height": 17.265,
+      "radius": 2.525,
+      "root": [
+        92.5,
+        17.700000000000003
+      ],
+      "oldVertexRange": [
+        273750,
+        278922
+      ],
+      "newFaces": 6868,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-09-1",
+      "height": 18.353,
+      "radius": 2.208,
+      "root": [
+        101.1,
+        17.700000000000003
+      ],
+      "oldVertexRange": [
+        278922,
+        284094
+      ],
+      "newFaces": 6740,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-10--1",
+      "height": 17.269,
+      "radius": 2.462,
+      "root": [
+        92.5,
+        26.0
+      ],
+      "oldVertexRange": [
+        284094,
+        289126
+      ],
+      "newFaces": 6886,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-10-1",
+      "height": 17.625,
+      "radius": 2.395,
+      "root": [
+        101.1,
+        26.0
+      ],
+      "oldVertexRange": [
+        289126,
+        294158
+      ],
+      "newFaces": 6904,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-11--1",
+      "height": 17.181,
+      "radius": 2.568,
+      "root": [
+        92.5,
+        34.30000000000001
+      ],
+      "oldVertexRange": [
+        294158,
+        299218
+      ],
+      "newFaces": 7044,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-11-1",
+      "height": 17.564,
+      "radius": 2.648,
+      "root": [
+        101.1,
+        34.30000000000001
+      ],
+      "oldVertexRange": [
+        299218,
+        304278
+      ],
+      "newFaces": 7062,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-12--1",
+      "height": 17.401,
+      "radius": 2.343,
+      "root": [
+        92.5,
+        42.60000000000001
+      ],
+      "oldVertexRange": [
+        304278,
+        309366
+      ],
+      "newFaces": 6886,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-12-1",
+      "height": 18.323,
+      "radius": 2.439,
+      "root": [
+        101.1,
+        42.60000000000001
+      ],
+      "oldVertexRange": [
+        309366,
+        314454
+      ],
+      "newFaces": 6922,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-13--1",
+      "height": 17.132,
+      "radius": 2.234,
+      "root": [
+        92.5,
+        50.900000000000006
+      ],
+      "oldVertexRange": [
+        314454,
+        319570
+      ],
+      "newFaces": 6686,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-13-1",
+      "height": 18.142,
+      "radius": 2.24,
+      "root": [
+        101.1,
+        50.900000000000006
+      ],
+      "oldVertexRange": [
+        319570,
+        324686
+      ],
+      "newFaces": 6722,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-14--1",
+      "height": 17.374,
+      "radius": 2.453,
+      "root": [
+        92.5,
+        59.20000000000002
+      ],
+      "oldVertexRange": [
+        324686,
+        329858
+      ],
+      "newFaces": 7062,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-14-1",
+      "height": 17.262,
+      "radius": 2.615,
+      "root": [
+        101.1,
+        59.20000000000002
+      ],
+      "oldVertexRange": [
+        329858,
+        335030
+      ],
+      "newFaces": 7044,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-15--1",
+      "height": 17.334,
+      "radius": 2.159,
+      "root": [
+        92.5,
+        67.50000000000001
+      ],
+      "oldVertexRange": [
+        335030,
+        340062
+      ],
+      "newFaces": 6686,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-15-1",
+      "height": 18.326,
+      "radius": 2.334,
+      "root": [
+        101.1,
+        67.50000000000001
+      ],
+      "oldVertexRange": [
+        340062,
+        345094
+      ],
+      "newFaces": 6722,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-16--1",
+      "height": 17.721,
+      "radius": 2.395,
+      "root": [
+        92.5,
+        75.80000000000001
+      ],
+      "oldVertexRange": [
+        345094,
+        350154
+      ],
+      "newFaces": 6904,
+      "lowestZ": 0
+    },
+    {
+      "id": "avenue-palm-16-1",
+      "height": 18.022,
+      "radius": 2.524,
+      "root": [
+        101.1,
+        75.80000000000001
+      ],
+      "oldVertexRange": [
+        350154,
+        355214
+      ],
+      "newFaces": 7080,
+      "lowestZ": 0
+    },
+    {
+      "id": "dining-bed-centre",
+      "height": 1.98,
+      "radius": 1.34,
+      "root": [
+        -208.3,
+        114.5
+      ],
+      "oldVertexRange": [
+        1749226,
+        1750486
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-1-1",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -206.75,
+        110.5
+      ],
+      "oldVertexRange": [
+        1750486,
+        1751746
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-1-2",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -207.20398448916086,
+        111.59601551083915
+      ],
+      "oldVertexRange": [
+        1751746,
+        1753006
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-1-3",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -208.3,
+        112.05
+      ],
+      "oldVertexRange": [
+        1753006,
+        1754266
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-1-4",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -209.39601551083916,
+        111.59601551083915
+      ],
+      "oldVertexRange": [
+        1754266,
+        1755526
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-1-5",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -209.85000000000002,
+        110.5
+      ],
+      "oldVertexRange": [
+        1755526,
+        1756786
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-1-6",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -209.39601551083916,
+        109.40398448916085
+      ],
+      "oldVertexRange": [
+        1756786,
+        1758046
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-1-7",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -208.3,
+        108.95
+      ],
+      "oldVertexRange": [
+        1758046,
+        1759306
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-1-8",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -207.20398448916086,
+        109.40398448916085
+      ],
+      "oldVertexRange": [
+        1759306,
+        1760566
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-2-1",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -206.75,
+        114.5
+      ],
+      "oldVertexRange": [
+        1760566,
+        1761826
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-2-2",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -207.20398448916086,
+        115.59601551083915
+      ],
+      "oldVertexRange": [
+        1761826,
+        1763086
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-2-3",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -208.3,
+        116.05
+      ],
+      "oldVertexRange": [
+        1763086,
+        1764346
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-2-4",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -209.39601551083916,
+        115.59601551083915
+      ],
+      "oldVertexRange": [
+        1764346,
+        1765606
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-2-5",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -209.85000000000002,
+        114.5
+      ],
+      "oldVertexRange": [
+        1765606,
+        1766866
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-2-6",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -209.39601551083916,
+        113.40398448916085
+      ],
+      "oldVertexRange": [
+        1766866,
+        1768126
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-2-7",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -208.3,
+        112.95
+      ],
+      "oldVertexRange": [
+        1768126,
+        1769386
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-2-8",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -207.20398448916086,
+        113.40398448916085
+      ],
+      "oldVertexRange": [
+        1769386,
+        1770646
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-3-1",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -206.75,
+        118.5
+      ],
+      "oldVertexRange": [
+        1770646,
+        1771906
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-3-2",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -207.20398448916086,
+        119.59601551083915
+      ],
+      "oldVertexRange": [
+        1771906,
+        1773166
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-3-3",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -208.3,
+        120.05
+      ],
+      "oldVertexRange": [
+        1773166,
+        1774426
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-3-4",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -209.39601551083916,
+        119.59601551083915
+      ],
+      "oldVertexRange": [
+        1774426,
+        1775686
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-3-5",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -209.85000000000002,
+        118.5
+      ],
+      "oldVertexRange": [
+        1775686,
+        1776946
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-3-6",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -209.39601551083916,
+        117.40398448916085
+      ],
+      "oldVertexRange": [
+        1776946,
+        1778206
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-3-7",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -208.3,
+        116.95
+      ],
+      "oldVertexRange": [
+        1778206,
+        1779466
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-croton-3-8",
+      "height": 0.88,
+      "radius": 0.48,
+      "root": [
+        -207.20398448916086,
+        117.40398448916085
+      ],
+      "oldVertexRange": [
+        1779466,
+        1780726
+      ],
+      "newFaces": 1218,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-cycad-1",
+      "height": 2.22,
+      "radius": 1.98,
+      "root": [
+        -208.3,
+        110.5
+      ],
+      "oldVertexRange": [
+        1723978,
+        1736602
+      ],
+      "newFaces": 25258,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-cycad-2",
+      "height": 2.3,
+      "radius": 1.99,
+      "root": [
+        -208.3,
+        118.5
+      ],
+      "oldVertexRange": [
+        1736602,
+        1749226
+      ],
+      "newFaces": 25258,
+      "lowestZ": 0.24
+    },
+    {
+      "id": "dining-tree-1",
+      "height": 16.2,
+      "radius": 4.35,
+      "root": [
+        -213.5,
+        105
+      ],
+      "oldVertexRange": [
+        1647454,
+        1660208
+      ],
+      "newFaces": 6932,
+      "lowestZ": 0.0
+    },
+    {
+      "id": "dining-tree-2",
+      "height": 9.2,
+      "radius": 3.45,
+      "root": [
+        -213.5,
+        88.5
+      ],
+      "oldVertexRange": [
+        1660208,
+        1672962
+      ],
+      "newFaces": 12683,
+      "lowestZ": 0.0
+    },
+    {
+      "id": "dining-tree-6",
+      "height": 7.1,
+      "radius": 3.45,
+      "root": [
+        -205.8,
+        101
+      ],
+      "oldVertexRange": [
+        1711224,
+        1723978
+      ],
+      "newFaces": 12683,
+      "lowestZ": 0.0
+    },
+    {
+      "id": "gate-reference-palm-0--1",
+      "height": 18.177,
+      "radius": 2.695,
+      "root": [
+        147.7581,
+        -82.2928
+      ],
+      "oldVertexRange": [
+        355214,
+        360078
+      ],
+      "newFaces": 7080,
+      "lowestZ": 0
+    },
+    {
+      "id": "gate-reference-palm-0-1",
+      "height": 18.784,
+      "radius": 2.453,
+      "root": [
+        147.7581,
+        -72.6928
+      ],
+      "oldVertexRange": [
+        360078,
+        364942
+      ],
+      "newFaces": 6940,
+      "lowestZ": 0
+    },
+    {
+      "id": "gate-reference-palm-1--1",
+      "height": 17.989,
+      "radius": 2.447,
+      "root": [
+        135.7581,
+        -82.2928
+      ],
+      "oldVertexRange": [
+        364942,
+        369862
+      ],
+      "newFaces": 6904,
+      "lowestZ": 0
+    },
+    {
+      "id": "gate-reference-palm-1-1",
+      "height": 17.993,
+      "radius": 2.562,
+      "root": [
+        135.7581,
+        -72.6928
+      ],
+      "oldVertexRange": [
+        369862,
+        374782
+      ],
+      "newFaces": 7080,
+      "lowestZ": 0
+    },
+    {
+      "id": "gate-reference-palm-2--1",
+      "height": 17.592,
+      "radius": 2.44,
+      "root": [
+        123.7581,
+        -82.2928
+      ],
+      "oldVertexRange": [
+        374782,
+        379758
+      ],
+      "newFaces": 6886,
+      "lowestZ": 0
+    },
+    {
+      "id": "gate-reference-palm-2-1",
+      "height": 18.197,
+      "radius": 2.497,
+      "root": [
+        123.7581,
+        -72.6928
+      ],
+      "oldVertexRange": [
+        379758,
+        384734
+      ],
+      "newFaces": 6922,
+      "lowestZ": 0
+    },
+    {
+      "id": "gate-reference-palm-3--1",
+      "height": 17.736,
+      "radius": 2.555,
+      "root": [
+        111.7581,
+        -82.2928
+      ],
+      "oldVertexRange": [
+        384734,
+        389598
+      ],
+      "newFaces": 7080,
+      "lowestZ": 0
+    },
+    {
+      "id": "gate-reference-palm-3-1",
+      "height": 18.532,
+      "radius": 2.498,
+      "root": [
+        111.7581,
+        -72.6928
+      ],
+      "oldVertexRange": [
+        389598,
+        394462
+      ],
+      "newFaces": 6922,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-044",
+      "height": 9.0,
+      "radius": 2.22,
+      "root": [
+        -102.5746,
+        -83.1206
+      ],
+      "oldVertexRange": [
+        21770,
+        26186
+      ],
+      "newFaces": 6544,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-045",
+      "height": 9.0,
+      "radius": 2.0,
+      "root": [
+        -87.9444,
+        -87.2908
+      ],
+      "oldVertexRange": [
+        26186,
+        30602
+      ],
+      "newFaces": 6344,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-046",
+      "height": 9.0,
+      "radius": 2.32,
+      "root": [
+        -115.3701,
+        -76.8015
+      ],
+      "oldVertexRange": [
+        30602,
+        35018
+      ],
+      "newFaces": 6720,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-060",
+      "height": 9.0,
+      "radius": 2.32,
+      "root": [
+        -103.23,
+        -67.7584
+      ],
+      "oldVertexRange": [
+        43104,
+        47520
+      ],
+      "newFaces": 6720,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-063",
+      "height": 9.0,
+      "radius": 2.22,
+      "root": [
+        -114.7655,
+        -59.8885
+      ],
+      "oldVertexRange": [
+        48764,
+        53180
+      ],
+      "newFaces": 6544,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-076",
+      "height": 9.0,
+      "radius": 2.32,
+      "root": [
+        -102.8284,
+        -46.5067
+      ],
+      "oldVertexRange": [
+        60022,
+        64438
+      ],
+      "newFaces": 6720,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-103",
+      "height": 24.2,
+      "radius": 3.05,
+      "root": [
+        -8.8179,
+        -34.0267
+      ],
+      "oldVertexRange": [
+        2403739,
+        2429326
+      ],
+      "newFaces": 90172,
+      "lowestZ": 0.0
+    },
+    {
+      "id": "plant-123",
+      "height": 15.1,
+      "radius": 2.45,
+      "root": [
+        -7.1632,
+        5.7254
+      ],
+      "oldVertexRange": [
+        2384455,
+        2389276
+      ],
+      "newFaces": 6972,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-124",
+      "height": 14.3,
+      "radius": 2.35,
+      "root": [
+        0.9252,
+        4.7131
+      ],
+      "oldVertexRange": [
+        2389276,
+        2394097
+      ],
+      "newFaces": 6560,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-130",
+      "height": 15.0,
+      "radius": 2.6,
+      "root": [
+        12.281,
+        4.3619
+      ],
+      "oldVertexRange": [
+        2394097,
+        2398918
+      ],
+      "newFaces": 6778,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-135",
+      "height": 14.4,
+      "radius": 2.3,
+      "root": [
+        23.3492,
+        2.4134
+      ],
+      "oldVertexRange": [
+        2398918,
+        2403739
+      ],
+      "newFaces": 6936,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-139",
+      "height": 5.4,
+      "radius": 2.25,
+      "root": [
+        -7.5812,
+        14.0645
+      ],
+      "oldVertexRange": [
+        394462,
+        419934
+      ],
+      "newFaces": 67680,
+      "lowestZ": 0.01128581166267395
+    },
+    {
+      "id": "plant-147",
+      "height": 6.3,
+      "radius": 2.1,
+      "root": [
+        11.8752,
+        13.152
+      ],
+      "oldVertexRange": [
+        419934,
+        432688
+      ],
+      "newFaces": 14860,
+      "lowestZ": 0.008357951417565346
+    },
+    {
+      "id": "plant-153",
+      "height": 5.1,
+      "radius": 2.12,
+      "root": [
+        23.3042,
+        12.8985
+      ],
+      "oldVertexRange": [
+        432688,
+        458160
+      ],
+      "newFaces": 60389,
+      "lowestZ": 0.011413861066102982
+    },
+    {
+      "id": "plant-156",
+      "height": 5.8,
+      "radius": 2.35,
+      "root": [
+        -6.3601,
+        24.3611
+      ],
+      "oldVertexRange": [
+        458160,
+        483632
+      ],
+      "newFaces": 75823,
+      "lowestZ": 0.011924541555345058
+    },
+    {
+      "id": "plant-157",
+      "height": 0.65,
+      "radius": 0.35,
+      "root": [
+        5.4311,
+        20.8541
+      ],
+      "oldVertexRange": [
+        483632,
+        508376
+      ],
+      "newFaces": 194,
+      "lowestZ": 0.095
+    },
+    {
+      "id": "plant-159",
+      "height": 1.65,
+      "radius": 1.35,
+      "root": [
+        11.6391,
+        21.7882
+      ],
+      "oldVertexRange": [
+        508376,
+        521000
+      ],
+      "newFaces": 17036,
+      "lowestZ": 0.0
+    },
+    {
+      "id": "plant-163",
+      "height": 5.8,
+      "radius": 1.55,
+      "root": [
+        23.4511,
+        22.0411
+      ],
+      "oldVertexRange": [
+        521000,
+        533754
+      ],
+      "newFaces": 14860,
+      "lowestZ": 0.008042768575251102
+    },
+    {
+      "id": "plant-164",
+      "height": 1.5,
+      "radius": 1.24,
+      "root": [
+        7.2367,
+        27.2761
+      ],
+      "oldVertexRange": [
+        533754,
+        546378
+      ],
+      "newFaces": 17036,
+      "lowestZ": 0.0
+    },
+    {
+      "id": "plant-178",
+      "height": 9.0,
+      "radius": 2.22,
+      "root": [
+        39.3378,
+        38.2353
+      ],
+      "oldVertexRange": [
+        1943564,
+        1948073
+      ],
+      "newFaces": 6544,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-183",
+      "height": 9.45,
+      "radius": 2.3,
+      "root": [
+        49.6723,
+        37.7359
+      ],
+      "oldVertexRange": [
+        1948073,
+        1952606
+      ],
+      "newFaces": 6738,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-186",
+      "height": 9.9,
+      "radius": 2.22,
+      "root": [
+        57.284,
+        38.4737
+      ],
+      "oldVertexRange": [
+        1952606,
+        1957163
+      ],
+      "newFaces": 6580,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-190",
+      "height": 9.0,
+      "radius": 2.3,
+      "root": [
+        66.5561,
+        38.3053
+      ],
+      "oldVertexRange": [
+        1957163,
+        1961672
+      ],
+      "newFaces": 6720,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-194",
+      "height": 9.45,
+      "radius": 2.0,
+      "root": [
+        75.4741,
+        38.2474
+      ],
+      "oldVertexRange": [
+        1961672,
+        1966205
+      ],
+      "newFaces": 6362,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-196",
+      "height": 9.9,
+      "radius": 2.0,
+      "root": [
+        84.1715,
+        37.4808
+      ],
+      "oldVertexRange": [
+        1966205,
+        1970762
+      ],
+      "newFaces": 6380,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-gr-grove-tree-0",
+      "height": 9,
+      "radius": 2.32,
+      "root": [
+        -117.4586,
+        -42.3366
+      ],
+      "oldVertexRange": [
+        833620,
+        839584
+      ],
+      "newFaces": 6720,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-gr-grove-tree-1",
+      "height": 9,
+      "radius": 2.32,
+      "root": [
+        -103.5533,
+        -27.6247
+      ],
+      "oldVertexRange": [
+        839584,
+        845548
+      ],
+      "newFaces": 6720,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-gr-specimen-10",
+      "height": 10.2,
+      "radius": 2.22,
+      "root": [
+        -118,
+        8
+      ],
+      "oldVertexRange": [
+        1241636,
+        1247720
+      ],
+      "newFaces": 6598,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-gr-specimen-11",
+      "height": 9,
+      "radius": 2.0,
+      "root": [
+        -104,
+        -12
+      ],
+      "oldVertexRange": [
+        1247720,
+        1253684
+      ],
+      "newFaces": 6344,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-gr-specimen-12",
+      "height": 9.4,
+      "radius": 2.0,
+      "root": [
+        -100,
+        -18
+      ],
+      "oldVertexRange": [
+        1253684,
+        1259696
+      ],
+      "newFaces": 6362,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-gr-specimen-13",
+      "height": 8.7,
+      "radius": 2.32,
+      "root": [
+        -123,
+        -23
+      ],
+      "oldVertexRange": [
+        1259696,
+        1265636
+      ],
+      "newFaces": 6702,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-gr-specimen-7",
+      "height": 9.8,
+      "radius": 2.32,
+      "root": [
+        -115,
+        9
+      ],
+      "oldVertexRange": [
+        1223624,
+        1229684
+      ],
+      "newFaces": 6738,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-gr-specimen-8",
+      "height": 9.5,
+      "radius": 2.0,
+      "root": [
+        -106,
+        3
+      ],
+      "oldVertexRange": [
+        1229684,
+        1235696
+      ],
+      "newFaces": 6362,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-gr-specimen-9",
+      "height": 8.8,
+      "radius": 2.22,
+      "root": [
+        -110,
+        13
+      ],
+      "oldVertexRange": [
+        1235696,
+        1241636
+      ],
+      "newFaces": 6526,
+      "lowestZ": 0
+    },
+    {
+      "id": "plant-pa-library-palm",
+      "height": 16.7,
+      "radius": 2.45,
+      "root": [
+        -177.4,
+        -18.8
+      ],
+      "oldVertexRange": [
+        1816433,
+        1821390
+      ],
+      "newFaces": 7026,
+      "lowestZ": 0
+    }
+  ],
+  "unsupportedCourtyardRemoved": true,
+  "gradeChanges": [
+    {
+      "id": "green-bed-6-0",
+      "removedArea": 10.783972774879528
+    },
+    {
+      "id": "main-walk--1",
+      "removedArea": 2.80636999999999
+    }
+  ],
+  "curbChanges": [
+    {
+      "id": "green-bed-6-0-0",
+      "removedLength": 9.314754662813314
+    }
+  ],
+  "waterAndSportsRecordsExactlyPreserved": true,
+  "bridgeExactlyPreserved": true,
+  "fullModelSha256": "6082c922b45bf92d7381e63b9a84edadf736695a86c6173c3ba6089dfb1ce4dd"
+}
